@@ -1,0 +1,6 @@
+{
+  "date": "Created",
+  "layout": "default",
+  "permalink": "/{{ page.fileSlug | slugify }}/index.html",
+  "tags": "post"
+}

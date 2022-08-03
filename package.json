@@ -4,7 +4,9 @@
   "description": "A space on the interweb for my ramblings",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "eleventy --serve",
+    "prepare": "husky install",
+    "prettier": "prettier src --write"
   },
   "repository": {
     "type": "git",
@@ -23,6 +25,8 @@
   },
   "homepage": "https://github.com/kwickramasekara/blog#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.1"
+    "@11ty/eleventy": "^1.0.1",
+    "prettier": "^2.7.1",
+    "husky": "^8.0.0"
   }
 }
