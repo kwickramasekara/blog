@@ -1,4 +1,177 @@
+$font-weight-semi-bold: 600;
+$font-weight-regular: 400;
+$text-transition: color 200ms linear;
+
+:root {
+  --gray-0: hsl(0, 0%, 100%);
+  --gray-1: hsl(0, 0%, 90%);
+  --gray-2: hsl(0, 0%, 80%);
+  --gray-3: hsl(0, 0%, 70%);
+  --gray-4: hsl(0, 0%, 60%);
+  --gray-5: hsl(0, 0%, 50%);
+  --gray-6: hsl(0, 0%, 40%);
+  --gray-7: hsl(0, 0%, 30%);
+  --gray-8: hsl(0, 0%, 20%);
+  --gray-9: hsl(0, 0%, 10%);
+  --gray-10: hsl(0, 0%, 0%);
+  --blue-light: hsl(212, 100%, 52%);
+  --blue-dark: hsl(212, 100%, 42%);
+  --body-bg-color: var(--gray-0);
+  --body-text-color: var(--gray-7);
+  --heading-color: var(--gray-10);
+  --accent-text-color: var(--blue-light);
+  --accent-text-color--hover: var(--blue-dark);
+  --divider-color: var(--gray-2);
+  --font-h1: 2.25rem;
+  --font-h1-lg: 3rem;
+  --font-h2: 2rem;
+  --font-h2-lg: 2.25rem;
+  --font-h3: 1.75rem;
+  --font-h3-lg: 2rem;
+  --font-h4: 1.5rem;
+  --font-h5: 1.25rem;
+  --font-h6: 1.125rem;
+  --font-small: 0.875rem;
+  --font-extra-small: 0.75rem;
+}
+
+/* Main */
 body {
   font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     "Helvetica Neue", sans-serif;
+  font-size: 1rem;
+  font-weight: $font-weight-regular;
+  line-height: 2rem;
+  text-rendering: optimizeLegibility;
+  color: var(--body-text-color);
+  background-color: var(--body-bg-color);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@mixin heading($size) {
+  font-size: $size;
+  font-weight: $font-weight-semi-bold;
+  line-height: $size;
+  margin: $size 0;
+  color: var(--heading-color);
+}
+
+/* Typography */
+h1 {
+  @include heading(var(--font-h1));
+}
+
+h2 {
+  @include heading(var(--font-h2));
+}
+
+h3 {
+  @include heading(var(--font-h3));
+}
+
+h4 {
+  @include heading(var(--font-h4));
+}
+
+h5 {
+  @include heading(var(--font-h5));
+}
+
+h6 {
+  @include heading(var(--font-h6));
+}
+
+a {
+  color: var(--body-text-color);
+  text-decoration: none;
+  border-bottom: 1px solid var(--gray-5);
+  transition: $text-transition;
+
+  &:hover,
+  &:focus,
+  &:active {
+    color: var(--heading-color);
+    transition: $text-transition;
+    outline: none;
+  }
+
+  &:focus {
+    outline: 1px dotted var(--gray-5);
+  }
+}
+
+blockquote {
+  border-left: 2px solid var(--body-text-color);
+  margin-left: 0;
+  padding-left: 1rem;
+  font-style: italic;
+}
+
+strong {
+  font-weight: $font-weight-semi-bold;
+}
+
+small {
+  font-size: var(--font-small);
+}
+
+code {
+  font-family: Courier, monospace;
+}
+
+.post-date,
+.tag {
+  font-size: var(--font-extra-small);
+  font-weight: $font-weight-semi-bold;
+  text-transform: uppercase;
+}
+
+.tag {
+  border: 0;
+  color: var(--accent-text-color);
+  transition: $text-transition;
+
+  &:hover,
+  &:focus,
+  &:active {
+    color: var(--accent-text-color--hover);
+    transition: $text-transition;
+  }
+
+  &:focus {
+    outline: 1px dotted var(--gray-5);
+  }
+}
+
+hr {
+  border: 0;
+  border-bottom: 1px dotted var(--divider-color);
+}
+
+/* Large screens */
+@media screen and (min-width: 768px) {
+  h1 {
+    @include heading(var(--font-h1-lg));
+  }
+
+  h2 {
+    @include heading(var(--font-h2-lg));
+  }
+
+  h3 {
+    @include heading(var(--font-h3-lg));
+  }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --body-bg-color: var(--gray-10);
+    --body-text-color: var(--gray-3);
+    --heading-color: var(--gray-0);
+    --accent-text-color: var(--blue-dark);
+    --accent-text-color--hover: var(--blue-light);
+    --divider-color: var(--gray-8);
+  }
 }
