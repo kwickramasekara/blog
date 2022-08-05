@@ -1,6 +1,6 @@
 @import "mixins";
 
-$base-unit: calc(1rem / 4);
+$base-unit: 1rem;
 $container-width: 650px;
 $grid-column-count: 12;
 $font-weight-semi-bold: 600;
@@ -48,9 +48,9 @@ $screen-lg: 992px;
   max-width: $container-width;
   display: grid;
   grid-template-columns: repeat($grid-column-count, 1fr);
-  grid-column-gap: $base-unit * 4;
-  grid-row-gap: $base-unit * 4;
-  padding: 0 $base-unit * 4;
+  grid-column-gap: $base-unit;
+  grid-row-gap: $base-unit;
+  padding: 0 $base-unit;
   margin-left: auto;
   margin-right: auto;
 
@@ -178,6 +178,7 @@ code {
 hr {
   border: 0;
   border-bottom: 1px dotted var(--divider-color);
+  margin: $base-unit 0;
 }
 
 /* Lists */
@@ -186,6 +187,11 @@ ul {
 }
 ol {
   padding-left: calc($font-size-base + 2px);
+}
+
+footer {
+  margin-bottom: $base-unit;
+  text-align: center;
 }
 
 /* Dark mode */
