@@ -10,10 +10,14 @@
     <title>{{#if title}}{{title}}{{else}}{{site.title}}{{/if}} - {{site.author}}</title>
   </head>
   <body>
-    {{{content}}}
-    <footer>
-      <hr />
-      <span>&copy; {{site.copyrightYear}}</span>
-    </footer>
+    <div class="container">
+      <div class="col-12">
+        {{{content}}}
+        <hr />
+        <footer>
+          <span>&copy; {{site.copyrightYear}}</span>
+        </footer>
+      </div>
+    </div>
   </body>
 </html>

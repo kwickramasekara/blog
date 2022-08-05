@@ -1,5 +1,8 @@
 @import "mixins";
 
+$base-unit: calc(1rem / 4);
+$container-width: 650px;
+$grid-column-count: 12;
 $font-weight-semi-bold: 600;
 $font-weight-regular: 400;
 $font-size-base: 1rem;
@@ -40,12 +43,24 @@ $screen-lg: 992px;
   --font-extra-small: 0.75rem;
 }
 
-/* Reset */
-ul {
-  padding-left: $font-size-base;
-}
-ol {
-  padding-left: calc($font-size-base + 2px);
+/* Grid */
+.container {
+  max-width: $container-width;
+  display: grid;
+  grid-template-columns: repeat($grid-column-count, 1fr);
+  grid-column-gap: $base-unit * 4;
+  grid-row-gap: $base-unit * 4;
+  padding: 0 $base-unit * 4;
+  margin-left: auto;
+  margin-right: auto;
+
+  [class*="col-"] {
+    grid-column: span 12;
+  }
+
+  @media screen and (min-width: $screen-md) {
+    @include columns();
+  }
 }
 
 /* Main */
@@ -58,6 +73,7 @@ body {
   text-rendering: optimizeLegibility;
   color: var(--body-text-color);
   background-color: var(--body-bg-color);
+  margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -149,12 +165,6 @@ code {
   }
 }
 
-hr {
-  border: 0;
-  border-bottom: 1px dotted var(--divider-color);
-}
-
-/* Large screens */
 @media screen and (min-width: $screen-md) {
   h1 {
     @include heading(var(--font-h1-lg), 1.25);
@@ -163,6 +173,19 @@ hr {
   h2 {
     @include heading(var(--font-h2-lg));
   }
+}
+
+hr {
+  border: 0;
+  border-bottom: 1px dotted var(--divider-color);
+}
+
+/* Lists */
+ul {
+  padding-left: $font-size-base;
+}
+ol {
+  padding-left: calc($font-size-base + 2px);
 }
 
 /* Dark mode */

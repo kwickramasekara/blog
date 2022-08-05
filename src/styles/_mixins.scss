@@ -5,3 +5,11 @@
   margin: $size 0 $font-size-base 0;
   color: var(--heading-color);
 }
+
+@mixin columns() {
+  @for $i from 1 through $grid-column-count {
+    .col-#{$i} {
+      grid-column: span #{$i};
+    }
+  }
+}
