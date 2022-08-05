@@ -1,0 +1,7 @@
+@mixin heading($size, $lheight: 1.5) {
+  font-size: $size;
+  font-weight: $font-weight-semi-bold;
+  line-height: $lheight;
+  margin: $size 0 $font-size-base 0;
+  color: var(--heading-color);
+}

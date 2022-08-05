@@ -1,6 +1,12 @@
+@import "mixins";
+
 $font-weight-semi-bold: 600;
 $font-weight-regular: 400;
+$font-size-base: 1rem;
 $text-transition: color 200ms linear;
+$screen-sm: 576px;
+$screen-md: 768px;
+$screen-lg: 992px;
 
 :root {
   --gray-0: hsl(0, 0%, 100%);
@@ -18,30 +24,36 @@ $text-transition: color 200ms linear;
   --blue-dark: hsl(212, 100%, 42%);
   --body-bg-color: var(--gray-0);
   --body-text-color: var(--gray-7);
-  --heading-color: var(--gray-10);
+  --heading-color: var(--gray-9);
   --accent-text-color: var(--blue-light);
   --accent-text-color--hover: var(--blue-dark);
   --divider-color: var(--gray-2);
   --font-h1: 2.25rem;
   --font-h1-lg: 3rem;
-  --font-h2: 2rem;
-  --font-h2-lg: 2.25rem;
-  --font-h3: 1.75rem;
-  --font-h3-lg: 2rem;
-  --font-h4: 1.5rem;
-  --font-h5: 1.25rem;
-  --font-h6: 1.125rem;
+  --font-h2: 1.75rem;
+  --font-h2-lg: 2rem;
+  --font-h3: 1.5rem;
+  --font-h4: 1.25rem;
+  --font-h5: 1.125rem;
+  --font-h6: 1rem;
   --font-small: 0.875rem;
   --font-extra-small: 0.75rem;
 }
 
+/* Reset */
+ul {
+  padding-left: $font-size-base;
+}
+ol {
+  padding-left: calc($font-size-base + 2px);
+}
 /* Main */
 body {
   font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     "Helvetica Neue", sans-serif;
-  font-size: 1rem;
+  font-size: $font-size-base;
   font-weight: $font-weight-regular;
-  line-height: 2rem;
+  line-height: 2;
   text-rendering: optimizeLegibility;
   color: var(--body-text-color);
   background-color: var(--body-bg-color);
@@ -49,17 +61,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-@mixin heading($size) {
-  font-size: $size;
-  font-weight: $font-weight-semi-bold;
-  line-height: $size;
-  margin: $size 0;
-  color: var(--heading-color);
-}
-
 /* Typography */
 h1 {
-  @include heading(var(--font-h1));
+  @include heading(var(--font-h1), 1.25);
 }
 
 h2 {
@@ -104,7 +108,7 @@ a {
 blockquote {
   border-left: 2px solid var(--body-text-color);
   margin-left: 0;
-  padding-left: 1rem;
+  padding-left: $font-size-base;
   font-style: italic;
 }
 
@@ -150,17 +154,13 @@ hr {
 }
 
 /* Large screens */
-@media screen and (min-width: 768px) {
+@media screen and (min-width: $screen-md) {
   h1 {
-    @include heading(var(--font-h1-lg));
+    @include heading(var(--font-h1-lg), 1.25);
   }
 
   h2 {
     @include heading(var(--font-h2-lg));
-  }
-
-  h3 {
-    @include heading(var(--font-h3-lg));
   }
 }
 
@@ -169,7 +169,7 @@ hr {
   :root {
     --body-bg-color: var(--gray-10);
     --body-text-color: var(--gray-3);
-    --heading-color: var(--gray-0);
+    --heading-color: var(--gray-1);
     --accent-text-color: var(--blue-dark);
     --accent-text-color--hover: var(--blue-light);
     --divider-color: var(--gray-8);
