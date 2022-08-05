@@ -78,6 +78,28 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+header {
+  .site-title,
+  .site-type {
+    display: block;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: $font-weight-semi-bold;
+  }
+  .site-title {
+    color: var(--heading-color);
+    font-size: 24px;
+    line-height: 1.25;
+    letter-spacing: -2px;
+    margin-top: $base-unit;
+  }
+
+  .site-type {
+    font-size: var(--font-extra-small);
+    color: var(--gray-5);
+  }
+}
+
 /* Typography */
 h1 {
   @include heading(var(--font-h1), 1.25);
