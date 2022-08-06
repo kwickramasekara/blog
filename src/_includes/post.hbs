@@ -5,8 +5,8 @@ layout: base
 <article>
     <section class="post-header">
         <h1 class="post-title">{{title}}</h1>
-        <div class="post-data">
-            <span class="post-date">{{formatDate page.date}}</span> <a class="tag" href="/tags/{{tags.[1]}}">{{tags.[1]}}</a>
+        <div class="post-meta">
+            <span class="post-data with-separator">{{formatDate page.date}}</span><span class="post-data with-separator">{{readingTime content}} min read</span><a class="tag" href="/tags/{{tags.[1]}}">{{tags.[1]}}</a>
         </div>
     </section>
 

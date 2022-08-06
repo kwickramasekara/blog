@@ -11,6 +11,14 @@ module.exports = function (eleventyConfig) {
     return object[key];
   });
 
+  // https://w3collective.com/calculate-reading-time-javascript/
+  eleventyConfig.addHandlebarsHelper("readingTime", function (content) {
+    const wpm = 225;
+    const words = content.trim().split(/\s+/).length;
+
+    return Math.ceil(words / wpm);
+  });
+
   return {
     dir: {
       input: "src",

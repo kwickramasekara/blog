@@ -179,7 +179,7 @@ code {
   font-family: Courier, monospace;
 }
 
-.post-date,
+.post-data,
 .tag {
   font-size: var(--font-extra-small);
   font-weight: $font-weight-semi-bold;
@@ -274,18 +274,20 @@ footer {
   margin-bottom: calc($base-unit * 2);
 
   .post-title,
-  .post-data {
+  .post-meta {
     text-align: center;
   }
   .post-title {
     margin: 2.5rem 0 1rem 0;
     font-weight: $font-weight-bold;
   }
-  .post-date {
+  .post-data {
     color: var(--gray-5);
-  }
-  .tag {
-    margin-left: calc($base-unit / 4);
+
+    &:after {
+      content: "\2022";
+      margin: 0 calc($base-unit / 4);
+    }
   }
 }
 
