@@ -330,6 +330,11 @@ footer {
   margin-bottom: calc($base-unit * 2);
 }
 
+/* Utils */
+.text-center {
+  text-align: center;
+}
+
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
   :root {
