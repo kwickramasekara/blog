@@ -7,6 +7,10 @@ module.exports = function (eleventyConfig) {
     return dayjs(dateString).format("	MMM D, YYYY");
   });
 
+  eleventyConfig.addHandlebarsHelper("filterObject", function (object, key) {
+    return object[key];
+  });
+
   return {
     dir: {
       input: "src",

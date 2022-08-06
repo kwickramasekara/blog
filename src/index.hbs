@@ -17,7 +17,7 @@ title: Blog
         {{#each collections.post }}
             <li>
                 <a href="{{ this.data.page.url }}">{{ this.data.title }}</a>
-                <span class="tag">{{ this.data.tag }}</span>
+                <a href="/tags/{{this.data.tags.[1]}}" class="tag">{{ this.data.tags.[1] }}</a>
             </li>
         {{/each}}
     </ul>

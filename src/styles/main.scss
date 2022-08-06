@@ -317,6 +317,13 @@ footer {
   }
 }
 
+/* Tag page */
+
+.tag-title {
+  text-transform: capitalize;
+  margin-bottom: calc($base-unit * 2);
+}
+
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
   :root {
