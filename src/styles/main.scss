@@ -116,6 +116,11 @@ header {
   }
 }
 
+main,
+article {
+  margin-bottom: calc($base-unit * 4);
+}
+
 /* Typography */
 h1 {
   @include heading(var(--font-h1), 1.25);
@@ -260,7 +265,6 @@ footer {
 .post-list {
   padding-left: 0;
   list-style-type: none;
-  margin-bottom: calc($base-unit * 4);
 
   li {
     margin-bottom: $base-unit;
