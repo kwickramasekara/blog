@@ -9,12 +9,15 @@
     <link rel="stylesheet" href="/css/main.css" />
     <title>{{#if title}}{{title}}{{else}}{{site.title}}{{/if}} - {{site.author}}</title>
   </head>
-  <body>
+  <body class="{{layout}}">
     <div class="container">
       <div class="col-12">
         <header>
-          <span class="site-title">Keith W.</span>
-          <span class="site-type">Blog</span>
+          <a href="/">
+            <span class="site-title">Keith W.</span>
+            <span class="site-type">Blog</span>
+            <span class="cta">See other posts</span>
+          </a>
         </header>
 
         {{{content}}}

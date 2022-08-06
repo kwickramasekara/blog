@@ -1,17 +1,19 @@
 @import "mixins";
 
+$anchor-transition: color 200ms linear;
 $base-unit: 1rem;
 $container-width: 650px;
-$grid-column-count: 12;
+$font-size-base: 1rem;
+$font-weight-bold: 700;
 $font-weight-regular: 400;
 $font-weight-semi-bold: 600;
-$font-weight-bold: 700;
-$font-size-base: 1rem;
-$text-transition: color 200ms linear;
-$screen-sm: 576px;
-$screen-md: 768px;
-$screen-lg: 992px;
+$grid-column-count: 12;
 $home-author-image-size: 120px;
+$screen-lg: 992px;
+$screen-md: 768px;
+$screen-sm: 576px;
+$site-type-transition: opacity 300ms linear;
+$site-title-size: 1.5rem;
 
 :root {
   --gray-0: hsl(0, 0%, 100%);
@@ -81,23 +83,35 @@ body {
 
 header {
   .site-title,
-  .site-type {
+  .site-type,
+  .cta {
     display: block;
     text-transform: uppercase;
     text-align: center;
     font-weight: $font-weight-semi-bold;
   }
+
+  .site-type,
+  .cta {
+    font-size: var(--font-extra-small);
+    color: var(--gray-5);
+  }
+
   .site-title {
     color: var(--heading-color);
-    font-size: 24px;
+    font-size: $site-title-size;
     line-height: 1.25;
     letter-spacing: -2px;
     margin-top: $base-unit;
   }
 
   .site-type {
-    font-size: var(--font-extra-small);
-    color: var(--gray-5);
+    transition: $site-type-transition;
+  }
+
+  .cta {
+    opacity: 0;
+    margin-top: -14px;
   }
 }
 
@@ -135,13 +149,13 @@ a {
   color: var(--body-text-color);
   text-decoration: none;
   border-bottom: 1px solid var(--gray-5);
-  transition: $text-transition;
+  transition: $anchor-transition;
 
   &:hover,
   &:focus,
   &:active {
     color: var(--heading-color);
-    transition: $text-transition;
+    transition: $anchor-transition;
     outline: none;
   }
 
@@ -179,13 +193,13 @@ code {
 .tag {
   border: 0;
   color: var(--accent-text-color);
-  transition: $text-transition;
+  transition: $anchor-transition;
 
   &:hover,
   &:focus,
   &:active {
     color: var(--accent-text-color--hover);
-    transition: $text-transition;
+    transition: $anchor-transition;
   }
 
   &:focus {
@@ -282,6 +296,20 @@ footer {
   }
   .tag {
     margin-left: calc($base-unit / 4);
+  }
+}
+
+/* Header link text change when hover is supported (non-touch device) */
+@media (hover: hover) {
+  .post header a:hover {
+    .cta {
+      opacity: 1;
+      transition: $site-type-transition;
+    }
+
+    .site-type {
+      opacity: 0;
+    }
   }
 }
 
