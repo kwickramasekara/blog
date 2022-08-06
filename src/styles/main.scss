@@ -3,8 +3,9 @@
 $base-unit: 1rem;
 $container-width: 650px;
 $grid-column-count: 12;
-$font-weight-semi-bold: 600;
 $font-weight-regular: 400;
+$font-weight-semi-bold: 600;
+$font-weight-bold: 700;
 $font-size-base: 1rem;
 $text-transition: color 200ms linear;
 $screen-sm: 576px;
@@ -274,6 +275,7 @@ footer {
   }
   .post-title {
     margin: 2.5rem 0 1rem 0;
+    font-weight: $font-weight-bold;
   }
   .post-date {
     color: var(--gray-5);
