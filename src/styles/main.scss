@@ -158,10 +158,6 @@ a {
     transition: $anchor-transition;
     outline: none;
   }
-
-  &:focus {
-    outline: 1px dotted var(--gray-5);
-  }
 }
 
 blockquote {
@@ -193,17 +189,11 @@ code {
 .tag {
   border: 0;
   color: var(--accent-text-color);
-  transition: $anchor-transition;
 
   &:hover,
   &:focus,
   &:active {
     color: var(--accent-text-color--hover);
-    transition: $anchor-transition;
-  }
-
-  &:focus {
-    outline: 1px dotted var(--gray-5);
   }
 }
 
