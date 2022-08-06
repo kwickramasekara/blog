@@ -299,6 +299,10 @@ footer {
   }
 }
 
+.post article img {
+  max-width: 100%;
+}
+
 /* Header link text change when hover is supported (non-touch device) */
 @media (hover: hover) {
   .post header a:hover {
