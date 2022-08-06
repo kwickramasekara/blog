@@ -10,6 +10,7 @@ $text-transition: color 200ms linear;
 $screen-sm: 576px;
 $screen-md: 768px;
 $screen-lg: 992px;
+$home-author-image-size: 120px;
 
 :root {
   --gray-0: hsl(0, 0%, 100%);
@@ -30,7 +31,7 @@ $screen-lg: 992px;
   --heading-color: var(--gray-9);
   --accent-text-color: var(--blue-light);
   --accent-text-color--hover: var(--blue-dark);
-  --divider-color: var(--gray-2);
+  --border-color: var(--gray-2);
   --font-h1: 2.25rem;
   --font-h1-lg: 3rem;
   --font-h2: 1.75rem;
@@ -69,7 +70,6 @@ body {
     Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-size: $font-size-base;
   font-weight: $font-weight-regular;
-  line-height: 2;
   text-rendering: optimizeLegibility;
   color: var(--body-text-color);
   background-color: var(--body-bg-color);
@@ -123,6 +123,11 @@ h5 {
 
 h6 {
   @include heading(var(--font-h6));
+}
+
+p,
+li {
+  line-height: 2;
 }
 
 a {
@@ -199,7 +204,7 @@ code {
 
 hr {
   border: 0;
-  border-bottom: 1px dotted var(--divider-color);
+  border-bottom: 1px dotted var(--border-color);
   margin: $base-unit 0;
 }
 
@@ -216,6 +221,68 @@ footer {
   text-align: center;
 }
 
+/* Home Page */
+.intro {
+  margin: ($base-unit * 3) 0;
+  padding: 0;
+
+  .author-image-container {
+    justify-self: center;
+  }
+
+  .author-image {
+    border-radius: 50%;
+    max-width: $home-author-image-size;
+    padding: calc($base-unit / 4);
+    border: 1px solid var(--border-color);
+  }
+
+  .intro-text {
+    margin: 0;
+  }
+}
+
+.post-list {
+  padding-left: 0;
+  list-style-type: none;
+  margin-bottom: calc($base-unit * 4);
+
+  li {
+    margin-bottom: $base-unit;
+
+    .tag {
+      float: right;
+      line-height: calc($font-size-base * 2);
+    }
+  }
+}
+
+@media screen and (min-width: $screen-md) {
+  .author-image-container {
+    justify-self: unset;
+    align-self: center;
+  }
+}
+
+/* Post Page */
+.post-header {
+  margin-bottom: calc($base-unit * 2);
+
+  .post-title,
+  .post-data {
+    text-align: center;
+  }
+  .post-title {
+    margin: 2.5rem 0 1rem 0;
+  }
+  .post-date {
+    color: var(--gray-5);
+  }
+  .tag {
+    margin-left: calc($base-unit / 4);
+  }
+}
+
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
   :root {
@@ -224,6 +291,6 @@ footer {
     --heading-color: var(--gray-1);
     --accent-text-color: var(--blue-dark);
     --accent-text-color--hover: var(--blue-light);
-    --divider-color: var(--gray-8);
+    --border-color: var(--gray-8);
   }
 }
