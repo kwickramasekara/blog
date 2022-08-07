@@ -6,6 +6,8 @@ media_library:
   name: uploadcare
   config:
     publicKey: 770f402d902e72bcac7a
+  settings:
+    defaultOperations: "/format/auto/"
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
