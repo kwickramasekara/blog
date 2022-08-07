@@ -10,6 +10,7 @@
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
     />
     <link rel="stylesheet" href="/css/main.css" />
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <title>{{ title or site.title }} - {{ site.author }}</title>
   </head>
   <body class="{{ layout }}">
@@ -31,5 +32,18 @@
         </footer>
       </div>
     </div>
+
+    <!-- Netlify admin auth -->
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", (user) => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
   </body>
 </html>
