@@ -2,7 +2,7 @@
 
 A minimal blog made with [eleventy](https://www.11ty.dev/) - content managed with [Netlify CMS](https://www.netlifycms.org) and hosted at [Netlify](https://www.netlify.com/).
 
-# Local Development
+## Local Development
 
 - `dev` - Starts serving the site locally at 8080.
 - `dev:cms` - Starts a Netlify CMS server locally.
