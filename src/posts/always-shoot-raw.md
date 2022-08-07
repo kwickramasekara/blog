@@ -3,7 +3,6 @@ title: Always shoot RAW
 date: 2017-09-08T23:15:40-06:00
 tags: photography
 ---
-
 So a little background before I begin - lately my leisure time has been heavily invested in aerial photography because I snatched this drone a couple of months back. It has opened up new ways for me to frame shots(shooting straight down from the air or at a higher angle can tell some compelling stories).
 
 So today, I went for a flight during sunset and I shot directly at the sun with a nice foreground which is almost completely dark. But guess what? I was able to expose that dark area a lot more in post processing because I shot in RAW. This post was inspired by that one single image and I wanted to share this information with some of you who might find it extremely useful.
@@ -18,11 +17,11 @@ Usually when you shoot in JPEG the camera determines what the picture should loo
 
 **Untouched RAW file:**
 
-![SOOC](https://res.cloudinary.com/kwickramasekara/image/upload/w_1200,q_auto:good/v1659764394/sites/blog/always-shoot-raw/sooc_xoqkps.png)
+![SOOC](https://ucarecdn.com/11fda2f9-0240-422e-a46e-08efa332c640/-/format/auto/)
 
 **After processing:**
 
-![Edited](https://res.cloudinary.com/kwickramasekara/image/upload/w_1200,q_auto:good/v1659764776/sites/blog/always-shoot-raw/edited_nuipki.png)
+![Edited]()
 
 Take a look at how much data in shadows you will be able to recover. This is just from one RAW image and there was no image stacking(multiple images blended with different exposures).
 
