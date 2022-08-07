@@ -4,7 +4,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget("./src/styles/");
 
   eleventyConfig.addNunjucksFilter("formatDate", function (dateString) {
-    return dayjs(dateString).format("	MMM D, YYYY");
+    return dayjs(dateString).format("MMM D, YYYY");
   });
 
   // https://w3collective.com/calculate-reading-time-javascript/
