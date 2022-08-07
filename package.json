@@ -7,6 +7,7 @@
     "build:eleventy": "eleventy",
     "build:sass": "sass  --no-source-map src/styles:dist/css",
     "build": "npm-run-all build:sass build:eleventy",
+    "dev:cms": "npx netlify-cms-proxy-server",
     "dev": "npm-run-all build:sass --parallel watch:*",
     "postbuild": "postcss dist/css/*.css -u autoprefixer cssnano -r --no-map",
     "prepare": "husky install",
