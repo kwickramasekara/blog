@@ -3,6 +3,8 @@ const dayjs = require("dayjs");
 module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget("./src/styles/");
 
+  eleventyConfig.addPassthroughCopy("admin");
+
   eleventyConfig.addNunjucksFilter("formatDate", function (dateString) {
     return dayjs(dateString).format("MMM D, YYYY");
   });
