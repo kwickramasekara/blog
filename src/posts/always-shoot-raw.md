@@ -21,7 +21,7 @@ Usually when you shoot in JPEG the camera determines what the picture should loo
 
 **After processing:**
 
-![Edited]()
+![Edited](https://ucarecdn.com/73ed5bbd-e1b1-4d68-9dca-66d8681e4d0d/-/format/auto/-/quality/smart_retina/)
 
 Take a look at how much data in shadows you will be able to recover. This is just from one RAW image and there was no image stacking(multiple images blended with different exposures).
 
