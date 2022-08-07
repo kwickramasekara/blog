@@ -14,13 +14,13 @@ metaDescription: "All posts from the Blog tagged with “{{ tag }}”"
 ---
 
 <main>
-  <h1 class="tag-title"><span>{{ tag }}</span> posts</h1> 
+  <h1 class="tag-title">{{ tag }} posts</h1>
 
   <ul class="post-list">
-      {{#each (filterObject collections tag) }}
-        <li>
-          <a href="{{ this.data.page.url }}">{{ this.data.title }}</a>
-        </li>
-      {{/each}}
+    {% for post in collections[tag] | reverse %}
+    <li>
+      <a href="{{ post.data.page.url }}">{{ post.data.title }}</a>
+    </li>
+    {% endfor %}
   </ul>
 </main>

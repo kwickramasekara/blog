@@ -1,0 +1,35 @@
+---
+layout: base
+title: Blog
+---
+
+<main>
+  <div class="container intro">
+    <div class="col-3 author-image-container">
+      <img
+        class="author-image"
+        src="https://res.cloudinary.com/kwickramasekara/image/upload/w_250,q_auto:best/v1659759110/global/profile-pictures/keith-wickramasekara_bqlpjv.jpg"
+        alt="Author image"
+      />
+    </div>
+    <div class="col-9 intro-text-container">
+      <p class="intro-text">
+        Hey I'm Keith Wickramasekara, a software engineer by profession and a
+        photographer by hobby. This is a small space on the internet where I
+        drop my thoughts and ideas on those two topics and my other interests
+        like personal finance.
+      </p>
+    </div>
+  </div>
+
+  <ul class="post-list">
+    {% for post in collections.post | reverse %}
+    <li>
+      <a href="{{ post.data.page.url }}">{{ post.data.title }}</a>
+      <a href="/tags/{{ post.data.tags[1] }}" class="tag">{{
+        post.data.tags[1]
+      }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</main>
