@@ -2,8 +2,10 @@ backend:
   name: git-gateway
   branch: main
 publish_mode: editorial_workflow
-media_folder: "src/media"
-public_folder: "media"
+media_library:
+  name: uploadcare
+  config:
+    publicKey: 770f402d902e72bcac7a
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
