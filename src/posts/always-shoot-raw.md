@@ -17,7 +17,7 @@ Usually when you shoot in JPEG the camera determines what the picture should loo
 
 **Untouched RAW file:**
 
-![SOOC](https://ucarecdn.com/11fda2f9-0240-422e-a46e-08efa332c640/-/format/auto/)
+![Straight out of camera image](https://ucarecdn.com/11fda2f9-0240-422e-a46e-08efa332c640/-/format/auto/)
 
 **After processing:**
 
