@@ -48,8 +48,7 @@ With the advancements in healthcare, human life expectancy has been stretched in
 There are many different retirement accounts as you will see below and each have their own advantages and disadvantages. Money you contribute to these accounts can also be invested so there is more chance for your money to grow than sitting in a traditional savings account. Also important to note that due to compounding interest, the sooner you start contributing to a retirement account the more money you will end up with in retirement - so start as early as possible(see figure 1).
 
 ![Compount Interest](https://ucarecdn.com/34b51e61-63d6-4eac-bb70-6e04f5179bd3/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
-
-Figure 1. [(Source)](https://www.pai.com/blog/when-to-start-saving-for-retirement)
+*Figure 1. [(Source)](https://www.pai.com/blog/when-to-start-saving-for-retirement)*
 
 #### 401k
 
