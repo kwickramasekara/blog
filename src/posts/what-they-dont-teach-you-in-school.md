@@ -10,17 +10,14 @@ However, most families seem to struggle with saving money and [recent studies fr
 Below is a list of financial topics covered throughout this post but if you just want the brass taxes, look into the [TL;DR](#too-long-didnt-readtldr) section.
 
 * [Saving & investing](#saving--investing)
-
   * [Goal-oriented saving](#goal-oriented-saving)
   * [Emergency fund](#emergency-fund)
   * [Retirement](#retirement)
   * [Investing](#investing)
 * [Credit score](#credit-score)
-
   * [How to build credit score](#how-to-build-credit-score)
   * [How to check credit score](#how-to-check-credit-score)
 * [Credit cards](#credit-cards)
-
   * [How to get a credit card without a credit history](#how-to-get-a-credit-card-without-a-credit-history)
   * [How to get a good credit card](#how-to-get-a-good-credit-card)
   * [Making credit card payments](#making-credit-card-payments)
