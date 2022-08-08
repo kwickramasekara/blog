@@ -76,9 +76,7 @@ Investing is one of the best ways to build wealth. Stocks, real estate, cryptocu
 More often than not you will have to borrow money from a lender to make big purchases like buying a vehicle or a house. In the U.S., Lending companies and banks typically use borrower’s credit score to determine the risk of lending money. Better the credit score, better the interest rates and money you will qualify for. This credit score typically range from 300-850 and you may want to keep it above 740(see figure 2) to get approved for better interest rates. Simply put, it pays to maintain a good credit score. So if you plan on making big purchases, it's best to plan ahead and put some effort into building a good credit score.
 
 ![Credit score ranges](https://ucarecdn.com/fa3ccdac-4b96-4f01-b563-0445d4bce744/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
-
-
-Figure 2. [(Source)](https://www.experian.com/blogs/ask-experian/infographic-what-are-the-different-scoring-ranges/)
+*Figure 2. [(Source)](https://www.experian.com/blogs/ask-experian/infographic-what-are-the-different-scoring-ranges/)*
 
 ### How to build credit score
 
