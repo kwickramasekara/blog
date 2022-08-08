@@ -194,6 +194,18 @@ pre {
   background-color: var(--code-block-bg-color);
 }
 
+// Image captions
+img + em {
+  display: block;
+  font-size: var(--font-small);
+  color: var(--gray-5);
+  font-style: unset;
+
+  a {
+    color: var(--gray-5);
+  }
+}
+
 .post-data,
 .tag {
   font-size: var(--font-extra-small);

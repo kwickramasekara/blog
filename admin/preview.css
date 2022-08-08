@@ -10,6 +10,18 @@ img {
   max-width: 100%;
 }
 
+img + em {
+  display: block;
+  font-size: 0.875rem;
+  font-style: unset;
+  line-height: 0.875rem;
+  color: hsl(0, 0%, 50%);
+}
+
+img + em > a {
+  color: hsl(0, 0%, 50%);
+}
+
 h1,
 h2,
 h3,
