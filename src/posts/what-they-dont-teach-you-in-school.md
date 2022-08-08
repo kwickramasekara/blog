@@ -3,27 +3,29 @@ title: What they don't teach you in school
 date: 2021-03-04T08:36:30-06:00
 tags: finance
 ---
-
 With the Covid-19 pandemic, we saw many financial implications like layoffs, evictions, business shutdowns, etc. If we look at historical data, we can also see that economies don't remain consistent and there are always going to be ups and downs. In the event of these downturns, it's never a good idea to wait for the government to throw a lifeline as we all saw how things turned out. It is in our best interest to be prepared and learn to put away some money for a rainy day so we can stay afloat.
 
 However, most families seem to struggle with saving money and [recent studies from federal reserve](https://www.federalreserve.gov/newsevents/pressreleases/other20190523b.htm) show that many US households can't cover a $400 emergency. Which results in more consumer debt accumulation. It's surprising that most of us get out of college and start our careers knowing nothing about paying off massive student loan debt, saving for retirement, and all these other financial situations we get into. I am not sure if our education systems have purposely left these out but being knowledgeable about money and money management in the early stages of our lives would have positioned us in better circumstances. I certainly wish I knew about personal finances much earlier. So with this article, my intention is to share a bit of information I know on the subject and to cover some high-level details about things that we all should have honestly learned in school.
 
 Below is a list of financial topics covered throughout this post but if you just want the brass taxes, look into the [TL;DR](#too-long-didnt-readtldr) section.
 
-- [Saving & investing](#saving--investing)
-  - [Goal-oriented saving](#goal-oriented-saving)
-  - [Emergency fund](#emergency-fund)
-  - [Retirement](#retirement)
-  - [Investing](#investing)
-- [Credit score](#credit-score)
-  - [How to build credit score](#how-to-build-credit-score)
-  - [How to check credit score](#how-to-check-credit-score)
-- [Credit cards](#credit-cards)
-  - [How to get a credit card without a credit history](#how-to-get-a-credit-card-without-a-credit-history)
-  - [How to get a good credit card](#how-to-get-a-good-credit-card)
-  - [Making credit card payments](#making-credit-card-payments)
-  - [How to avoid going into debt with credit cards](#how-to-avoid-going-into-debt-with-credit-cards)
-- [End notes](#end-notes)
+* [Saving & investing](#saving--investing)
+
+  * [Goal-oriented saving](#goal-oriented-saving)
+  * [Emergency fund](#emergency-fund)
+  * [Retirement](#retirement)
+  * [Investing](#investing)
+* [Credit score](#credit-score)
+
+  * [How to build credit score](#how-to-build-credit-score)
+  * [How to check credit score](#how-to-check-credit-score)
+* [Credit cards](#credit-cards)
+
+  * [How to get a credit card without a credit history](#how-to-get-a-credit-card-without-a-credit-history)
+  * [How to get a good credit card](#how-to-get-a-good-credit-card)
+  * [Making credit card payments](#making-credit-card-payments)
+  * [How to avoid going into debt with credit cards](#how-to-avoid-going-into-debt-with-credit-cards)
+* [End notes](#end-notes)
 
 ## Saving & investing
 
@@ -45,7 +47,8 @@ With the advancements in healthcare, human life expectancy has been stretched in
 
 There are many different retirement accounts as you will see below and each have their own advantages and disadvantages. Money you contribute to these accounts can also be invested so there is more chance for your money to grow than sitting in a traditional savings account. Also important to note that due to compounding interest, the sooner you start contributing to a retirement account the more money you will end up with in retirement - so start as early as possible(see figure 1).
 
-![Compound interest](images/compounding-interest.png)
+![Compount Interest](https://ucarecdn.com/34b51e61-63d6-4eac-bb70-6e04f5179bd3/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
+
 Figure 1. [(Source)](https://www.pai.com/blog/when-to-start-saving-for-retirement)
 
 #### 401k
@@ -66,7 +69,7 @@ Also important to note that contributing to a 401k or HSA will reduce your taxab
 
 Investing is one of the best ways to build wealth. Stocks, real estate, cryptocurrency are among many of the options we have today. With all of these investments, there are risks involved - higher the risk, higher the reward. So it's important to evaluate all of your options and pick the ones that suit you best. Do not just invest in things because of hearsay - do your own research and understand fully well how the investment works, your liabilities etc. I won't go into much detail due to the magnitude of this subject but I may write some dedicated articles later.
 
----
+- - -
 
 ## Credit score
 
@@ -105,13 +108,11 @@ As you can see above, payment history and credit utilization are the two biggest
 
 There are multiple ways to do this - both free and as a subscription service for extras like identity protection, alerts and etc. For the purpose of this article I will just list 3 free options below:
 
-- [annualcreditreport.com](https://www.annualcreditreport.com/) - you are entitled to a free credit report once a year from them.
+* [annualcreditreport.com](https://www.annualcreditreport.com/) - you are entitled to a free credit report once a year from them.
+* [Credit Karma](https://www.creditkarma.com) - they show an estimated score(should be pretty close to the FICO score though) compiled from all your credit accounts. It also gives you an overview of all the credit accounts(student loans, mortgages, etc.) and factors affecting your credit score. I personally have been a user for almost a decade so I highly recommend them.
+* Credit cards - some credit cards like discover also gives you the option to view credit scores now and they usually add it to the monthly statement.
 
-- [Credit Karma](https://www.creditkarma.com) - they show an estimated score(should be pretty close to the FICO score though) compiled from all your credit accounts. It also gives you an overview of all the credit accounts(student loans, mortgages, etc.) and factors affecting your credit score. I personally have been a user for almost a decade so I highly recommend them.
-
-- Credit cards - some credit cards like discover also gives you the option to view credit scores now and they usually add it to the monthly statement.
-
----
+- - -
 
 ## Credit cards
 
@@ -155,7 +156,7 @@ The other important thing is paying credit card bills on time - you don't want t
 
 As with everything in life, it's important to maintain a healthy balance in personal finances - we do not have to go overboard and count every penny. It's important to not stress about finances and to allocate some of the income for entertainment and things that bring happiness. Most of the financial guidelines are quite simple but putting them into practice may not be due to the mental discipline and psychology involved. So the sooner we start learning and putting things into practice the better we would be financially.
 
----
+- - -
 
 ## Too long; didn't read(TL;DR)
 
