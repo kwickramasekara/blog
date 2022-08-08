@@ -37,7 +37,7 @@ Instead of just tucking away money on a savings account, its important to have w
 
 ### Emergency fund
 
-Statistics show that most americans live paycheck to paycheck. This may not sound like a big deal when everything is flowing smoothly. But when emergencies arise like expensive medical bills, layoffs and such its important to have a cushion to save our selves. Due to unforeseen events like these, it is advised to save at least 3-6 months of monthly expenses as an emergency fund(1 year if self-employed).
+Statistics show that most Americans live paycheck to paycheck. This may not sound like a big deal when everything is flowing smoothly. But when emergencies arise like expensive medical bills, layoffs and such its important to have a cushion to save our selves. Due to unforeseen events like these, it is advised to save at least 3-6 months of monthly expenses as an emergency fund(1 year if self-employed).
 
 **Tip:** Most traditional banks offer very low interest rates but online banks like Ally offer high-yield savings accounts. Use one of these bank accounts for emergency funds and other short-term savings goals so your money is at least protected from inflation.
 
@@ -52,7 +52,7 @@ There are many different retirement accounts as you will see below and each have
 
 #### 401k
 
-This is a tax-deferred retirement account meaning that your contributions are not taxed but your distributions are. Most employers offer 401k plans as part of employee benefits and they also offer some type of match on the contributions - this is pretty much free money so make sure to atleast do the full 401k match if it's offered to you.
+This is a tax-deferred retirement account meaning that your contributions are not taxed but your distributions are. Most employers offer 401k plans as part of employee benefits and they also offer some type of match on the contributions - this is pretty much free money so make sure to at-least do the full 401k match if it's offered to you.
 
 #### IRA
 
@@ -87,7 +87,7 @@ Indicates whether you make payments on time. The number of delinquent payments y
 
 #### Credit utilization (30%)
 
-This indicates how your credit is being used. Generally, its better to keep credit card utilization below 30%. For example, a person who has $200 balance on a credit card with $1000 limit would seem much more responsible than someone with a balance of $900 on a $1000 limit credit card.
+This indicates how your credit is being used. Generally, it's better to keep credit card utilization below 30%. For example, a person who has $200 balance on a credit card with $1000 limit would seem much more responsible than someone with a balance of $900 on a $1000 limit credit card.
 
 #### Length of credit history (15%)
 
