@@ -282,8 +282,8 @@ footer {
     margin-bottom: $base-unit;
 
     .tag {
+      display: none;
       float: right;
-      line-height: calc($font-size-base * 2);
     }
   }
 }
@@ -292,6 +292,21 @@ footer {
   .author-image-container {
     justify-self: unset;
     align-self: center;
+  }
+
+  .post-list li {
+    .post-link,
+    .tag {
+      display: inline-block;
+    }
+
+    .post-link {
+      max-width: 75%;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      line-height: normal;
+    }
   }
 }
 
