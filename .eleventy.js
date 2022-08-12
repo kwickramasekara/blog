@@ -1,10 +1,16 @@
 const dayjs = require("dayjs");
+const markdownIt = require("markdown-it");
+const markdownItAnchor = require("markdown-it-anchor");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const njkFilters = require("nunjucks/src/filters");
+
+const markdownLib = markdownIt({ html: true }).use(markdownItAnchor); // set IDs to headings
 
 const META_DESCRIPTION_LENGTH = 160; // https://moz.com/learn/seo/meta-description
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.setLibrary("md", markdownLib);
+
   eleventyConfig.addWatchTarget("./src/styles/");
 
   eleventyConfig.addPassthroughCopy("admin");
