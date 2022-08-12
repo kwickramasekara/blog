@@ -32,7 +32,6 @@ $site-title-size: 1.5rem;
   --body-bg-color: var(--gray-0);
   --body-text-color: var(--gray-7);
   --heading-color: var(--gray-9);
-  --code-block-bg-color: var(--gray-1);
   --accent-text-color: var(--blue-light);
   --accent-text-color--hover: var(--blue-dark);
   --border-color: var(--gray-2);
@@ -183,15 +182,6 @@ small {
 
 code {
   font-family: Courier, monospace;
-}
-
-pre {
-  padding: $base-unit;
-  max-width: 100%;
-  overflow: scroll;
-  max-height: calc($container-width / 2);
-  font-size: var(--font-small);
-  background-color: var(--code-block-bg-color);
 }
 
 // Image captions
@@ -368,7 +358,6 @@ footer {
     --body-bg-color: var(--gray-10);
     --body-text-color: var(--gray-3);
     --heading-color: var(--gray-1);
-    --code-block-bg-color: var(--gray-9);
     --accent-text-color: var(--blue-dark);
     --accent-text-color--hover: var(--blue-light);
     --border-color: var(--gray-8);
