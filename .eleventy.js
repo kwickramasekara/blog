@@ -19,7 +19,7 @@ module.exports = function (eleventyConfig) {
     templateFormats: ["md"],
   });
 
-  eleventyConfig.addNunjucksFilter("formatDate", function (dateString) {
+  eleventyConfig.addNunjucksFilter("postDate", function (dateString) {
     return dayjs(dateString).format("MMM D, YYYY");
   });
 
