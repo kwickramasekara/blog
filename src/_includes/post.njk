@@ -1,7 +1,14 @@
----
-layout: base
----
+{% extends "./base.njk" %}
 
+{% block headMetaDescription %}
+<meta name="description" content="{{ (content | metaDescription) or (site.description) }}" />
+{% endblock %}
+
+{% block headLink %}
+<link rel="stylesheet" href="https://unpkg.com/prismjs@1.26.0/themes/prism-okaidia.css" />
+{% endblock %}
+
+{% block bodyContent %}
 <article>
   <section class="post-header">
     <h1 class="post-title">{{ title }}</h1>
@@ -17,3 +24,4 @@ layout: base
     {{ content | safe }}
   </section>
 </article>
+{% endblock %}
