@@ -1,4 +1,5 @@
 const dayjs = require("dayjs");
+const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const njkFilters = require("nunjucks/src/filters");
 
 const META_DESCRIPTION_LENGTH = 160; // https://moz.com/learn/seo/meta-description
@@ -7,6 +8,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget("./src/styles/");
 
   eleventyConfig.addPassthroughCopy("admin");
+
+  eleventyConfig.addPlugin(syntaxHighlight, {
+    templateFormats: ["md"],
+  });
 
   eleventyConfig.addNunjucksFilter("formatDate", function (dateString) {
     return dayjs(dateString).format("MMM D, YYYY");
