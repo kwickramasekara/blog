@@ -14,7 +14,7 @@ Contrary to popular belief, you don't really need high-end, pricey gear to creat
 
 **[Canon 6D](https://amzn.to/2JsL2OK)**
 
-![Canon 6d](https://ucarecdn.com/73cffde6-826b-4319-82a1-a808c89eda79/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
+![Canon 6D](https://ucarecdn.com/73cffde6-826b-4319-82a1-a808c89eda79/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
 
 This is my main camera which I use heavily during trips and such. It is actually my first full frame camera and I was really happy after upgrading from a quite old Canon Rebel XS mainly due to the amount of detail it collects. This helps me immensly during post processing to bring out details in shadows. The sensor on 6D is also known to be really good with low light so you can bump up the ISO without worrying much about noise in images. For anyone interested in picking up an entry level full frame camera I would highly recommend it.
 

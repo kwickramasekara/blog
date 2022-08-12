@@ -17,11 +17,11 @@ Usually when you shoot in JPEG the camera determines what the picture should loo
 
 **Untouched RAW file:**
 
-![SOOC](https://ucarecdn.com/0d6960ad-c1e3-428a-a4e0-cfd8a0faf67d/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
+![Image straight out of camera](https://ucarecdn.com/0d6960ad-c1e3-428a-a4e0-cfd8a0faf67d/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
 
 **After processing:**
 
-![Edited](https://ucarecdn.com/1d5ab221-2ef3-4771-a77a-06704d1f70ed/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
+![Processed image](https://ucarecdn.com/1d5ab221-2ef3-4771-a77a-06704d1f70ed/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
 
 Take a look at how much data in shadows you will be able to recover. This is just from one RAW image and there was no image stacking(multiple images blended with different exposures).
 
