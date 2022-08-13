@@ -82,6 +82,10 @@ body {
 }
 
 header {
+  a {
+    text-decoration: none;
+  }
+
   .site-title,
   .site-type,
   .cta {
@@ -152,8 +156,9 @@ li {
 
 a {
   color: var(--body-text-color);
-  text-decoration: none;
-  border-bottom: 1px solid var(--gray-5);
+  text-decoration-color: var(--gray-5);
+  text-decoration-thickness: 0.75px;
+  text-underline-offset: calc($base-unit / 8);
   transition: $anchor-transition;
 
   &:hover,
@@ -166,7 +171,7 @@ a {
 }
 
 blockquote {
-  border-left: 2px solid var(--body-text-color);
+  border-left: calc($base-unit / 8) solid var(--body-text-color);
   margin-left: 0;
   padding-left: $font-size-base;
   font-style: italic;
@@ -204,7 +209,7 @@ img + em {
 }
 
 .tag {
-  border: 0;
+  text-decoration: none;
   color: var(--accent-text-color);
 
   &:hover,
@@ -235,7 +240,7 @@ ul {
   padding-left: $font-size-base;
 }
 ol {
-  padding-left: calc($font-size-base + 2px);
+  padding-left: calc($font-size-base + calc($base-unit / 8));
 }
 
 footer {

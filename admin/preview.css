@@ -38,8 +38,9 @@ li {
 
 a {
   color: hsl(0, 0%, 30%);
-  text-decoration: none;
-  border-bottom: 1px solid hsl(0, 0%, 50%);
+  text-decoration-color: hsl(0, 0%, 50%);
+  text-decoration-thickness: 0.75px;
+  text-underline-offset: 2px;
 }
 
 a:hover {
