@@ -105,7 +105,7 @@ header {
     color: var(--heading-color);
     font-size: $site-title-size;
     line-height: 1.25;
-    letter-spacing: -#{$base-unit / 8};
+    letter-spacing: -#{calc($base-unit / 8)};
     margin-top: $base-unit;
   }
 
