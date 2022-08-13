@@ -3,6 +3,7 @@ title: Photography gear I use for landscapes
 date: 2018-08-10T23:44:05-06:00
 tags: photography
 ---
+
 One of the questions I get asked a lot is what gear I use. So lets explore
 what's in my arsenal that help me do what I do.
 
