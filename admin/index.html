@@ -11,6 +11,9 @@
     <script src="https://unpkg.com/netlify-cms@2.10.192/dist/netlify-cms.js"></script>
     <script>
       CMS.registerPreviewStyle("/admin/preview.css");
+      CMS.registerRemarkPlugin({
+        settings: { bullet: "-", emphasis: "_", rule: "-" },
+      }); // use same config as Prettier for Netlify CMS editor
     </script>
   </body>
 </html>
