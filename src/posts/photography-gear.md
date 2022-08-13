@@ -4,6 +4,8 @@ date: 2018-08-10T23:44:05-06:00
 tags: photography
 ---
 
+> **Note:** Content of this post is outdated as I have switched to a mirrorless setup with Canon R and M5. A new post will soon follow with details.
+
 One of the questions I get asked a lot is what gear I use. So lets explore
 what's in my arsenal that help me do what I do.
 

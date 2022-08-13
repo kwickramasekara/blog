@@ -1,5 +1,5 @@
 ---
-title: Avoid financial headaches with the help of credit freezes
+title: Do this now to protect your credit
 date: 2022-03-05T15:13:32.441Z
 tags: finance
 ---

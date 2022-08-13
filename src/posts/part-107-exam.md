@@ -1,10 +1,12 @@
 ---
-title: Free resources to ace FAA part 107 exam
+title: Free materials for part 107 exam
 date: 2017-05-14T19:22:26-06:00
 tags: technology
 ---
 
-I am very happy to say that I passed the [FAA sUAS knowledge test]([https://www.faa.gov/news/fact_sheets/news_story.cfm?newsId=20516) today. It was truly a great experience as I learned a lot about airspace, weather and aircrafts. I didn't sign up for any online or in person classes and I studied entirely with material that I found in abundance for free online. So I just wanted to take a few minutes to compile that list of resources for anyone that may find it useful.
+What the heck is part 107 you ask? Well, its an [FAA](https://www.faa.gov/) certification for drone pilots. There are lot of rules and regulations for U.S airspace so if you want to operate a drone legally for commercial purposes, you need to have the certification.
+
+With that, I am very happy to announce that I passed the [part 107 knowledge test](https://www.faa.gov/news/fact_sheets/news_story.cfm?newsId=20516) today. It was truly a great experience as I learned a lot about airspace, weather and aircrafts. I didn't sign up for any online or in person classes and I studied entirely with material that I found in abundance for free online. So I just wanted to take a few minutes to compile that list of resources for anyone that may find it useful.
 
 If you are on the fence about taking the exam, I highly recommend watching the video study guide I have linked below. This video itself helped me relieve my fear of sectional charts and weather reports.
 
@@ -31,7 +33,9 @@ The list below will show whats covered in Part 107. I have highlighted the impor
 
 ## Starter
 
-[This video](https://www.youtube.com/watch?v=6_ucCKFJUCU) will go over the basics and some questions from the [FAA sample test](https://www.faa.gov/training_testing/testing/test_questions/media/uag_sample_exam.pdf). Great explanations for a lot of the topics covered under part 107 and a great overview for the test. Go through it a couple of times and you will be able to answer at least 75% of the test.
+![Preview of Tony Northrup's study guide](https://ucarecdn.com/2eb4ef57-d144-426f-bfdd-349fee62e311/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)_Tony Northrup's study guide ([YouTube](https://www.youtube.com/watch?v=6_ucCKFJUCU))_
+
+Video above will go over the basics and some questions from the [FAA sample test](https://www.faa.gov/training_testing/testing/test_questions/media/uag_sample_exam.pdf). Great explanations for a lot of the topics covered under part 107 and a great overview for the test. Go through it a couple of times and you will be able to answer at least 75% of the test.
 
 ## Main topics
 
