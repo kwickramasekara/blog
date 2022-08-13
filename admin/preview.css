@@ -1,9 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+
+:root {
+  --gray-0: hsl(0, 0%, 100%);
+  --gray-1: hsl(0, 0%, 90%);
+  --gray-2: hsl(0, 0%, 80%);
+  --gray-3: hsl(0, 0%, 70%);
+  --gray-4: hsl(0, 0%, 60%);
+  --gray-5: hsl(0, 0%, 50%);
+  --gray-6: hsl(0, 0%, 40%);
+  --gray-7: hsl(0, 0%, 30%);
+  --gray-8: hsl(0, 0%, 20%);
+  --gray-9: hsl(0, 0%, 10%);
+  --gray-10: hsl(0, 0%, 0%);
+  --body-bg-color: var(--gray-0);
+  --body-text-color: var(--gray-7);
+  --heading-color: var(--gray-9);
+  --font-h1: 2.25rem;
+  --font-h1-lg: 3rem;
+  --font-h2: 1.75rem;
+  --font-h2-lg: 2rem;
+  --font-h3: 1.5rem;
+  --font-h4: 1.25rem;
+  --font-h5: 1.125rem;
+  --font-h6: 1rem;
+}
+
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   max-width: 800px;
   margin: 0 auto;
-  color: hsl(0, 0%, 30%);
+  text-rendering: optimizeLegibility;
+  color: var(--body-text-color);
+  background-color: var(--body-bg-color);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 img {
@@ -15,11 +46,11 @@ img + em {
   font-size: 0.875rem;
   font-style: unset;
   line-height: 0.875rem;
-  color: hsl(0, 0%, 50%);
+  color: var(--gray-5);
 }
 
 img + em > a {
-  color: hsl(0, 0%, 50%);
+  color: var(--gray-5);
 }
 
 h1,
@@ -28,7 +59,33 @@ h3,
 h4,
 h5,
 h6 {
-  color: hsl(0, 0%, 10%);
+  font-weight: 600;
+  color: var(--heading-color);
+}
+
+h1 {
+  font-weight: 700;
+  font-size: var(--font-h1-lg);
+}
+
+h2 {
+  font-size: var(--font-h2-lg);
+}
+
+h3 {
+  font-size: var(--font-h3);
+}
+
+h4 {
+  font-size: var(--font-h4);
+}
+
+h5 {
+  font-size: var(--font-h5);
+}
+
+h6 {
+  font-size: var(--font-h6);
 }
 
 p,
@@ -37,13 +94,22 @@ li {
 }
 
 a {
-  color: hsl(0, 0%, 30%);
-  text-decoration-color: hsl(0, 0%, 50%);
+  color: var(--body-text-color);
+  text-decoration-color: var(--gray-5);
   text-decoration-thickness: 0.75px;
   text-underline-offset: 2px;
 }
 
 a:hover {
-  color: hsl(0, 0%, 10%);
+  color: var(--heading-color);
   outline: none;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --body-bg-color: var(--gray-10);
+    --body-text-color: var(--gray-3);
+    --heading-color: var(--gray-1);
+  }
 }
