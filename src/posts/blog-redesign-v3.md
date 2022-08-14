@@ -3,7 +3,7 @@ title: Blog redesign
 date: 2022-08-14T16:33:08.048Z
 tags: technology
 ---
-This blog has gone through a couple of redesigns and re-architectures in the past. First iteration was a self-hosted [Ghost](https://ghost.org) instance with a default theme and second was a static site made with [Hugo](https://gohugo.io) hosted on [Netlify](http://netlify.com). This time around, I was more inspired by the idea of [this great website](http://motherfuckingwebsite.com/) and followed a clean, minimal aesthetic similar to my [landing page](https://keithw.me). Below is a little before and after for comparison.
+This blog has gone through a couple of redesigns and re-architectures in the past. First iteration was a self-hosted [Ghost](https://ghost.org) instance with a default theme, and second was a static site made with [Hugo](https://gohugo.io) hosted on [Netlify](http://netlify.com). This time around, I was more inspired by the idea of [this great website](http://motherfuckingwebsite.com/) and followed a clean, minimal aesthetic similar to my [landing page](https://keithw.me). Below is a little before and after for comparison.
 
 **Before:**
 ![](https://ucarecdn.com/22ab397d-bcef-49c8-8d05-c99b91cf46f3/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
@@ -11,7 +11,7 @@ This blog has gone through a couple of redesigns and re-architectures in the pas
 **After:**
 ![](https://ucarecdn.com/a244dded-881e-4058-b539-ea00fbd4f0b5/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
 
-Since I noticed my pattern of reworking the blog every few years, I wanted to make the content to be somewhat flexible and easy to extract. So I decided to use markdown and use standard syntax without any framework specific shortcodes. Thought of using headless CMS such as contenful crossed my mind but Netlify CMS is still a great open-source solution to manage a git based workflow. Plus, it has the editorial workflow that seamlessly integrates with Netlify to generate draft previews so that was an easy decision.
+Since I noticed my pattern of reworking the blog every few years, I wanted to make the content to be somewhat flexible and easy to extract. So I decided to use markdown and use standard syntax without any framework specific shortcodes. The thought of using headless CMS such as contenful crossed my mind but Netlify CMS is still a great open-source solution to manage a git based workflow. Plus, it has the editorial workflow that seamlessly integrates with Netlify to generate draft previews so that was an easy decision.
 
 ![Netlify CMS editor](https://ucarecdn.com/a12b7ca9-be3b-4ef9-a645-4989662ee3a8/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)_Netlify CMS editor_
 
@@ -24,6 +24,6 @@ Some of the other features of the site:
 - **Syntax highlighting** - to make code snippets look pretty.
 - **Auto descriptions** - created a small [filter that generates excerpts](/generate-excerpts-automatically-in-11ty/) out of post content to be used in meta tags for each post page. 
 - **Automated tag pages** - a cool, [built-in feature](https://www.11ty.dev/docs/quicktips/tag-pages/) of eleventy.
-- Reading time - a [small snippet](https://github.com/kwickramasekara/blog/blob/main/.eleventy.js#L27) that scans the contents of the page, and spits out a number in minutes.
+- **Reading time** - this [small snippet](https://github.com/kwickramasekara/blog/blob/main/.eleventy.js#L27) scans the contents of the page and spits out a number in minutes based on a given WPM(words per minute).
 
 This was a pretty fun and interesting project for me and if you interested in digging deeper into the source code, please see the [Github repo](https://github.com/kwickramasekara/blog).
