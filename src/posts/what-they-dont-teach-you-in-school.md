@@ -131,7 +131,7 @@ Good credit cards require a good credit score and be able to show enough income.
 
 There are many different credit cards with a variety of offerings so it's best to do your own research before signing up as everyone's needs are different. A good place to do your research is again, [Nerdwallet](https://www.nerdwallet.com/the-best-credit-cards). They have categorized the best credit cards based on interest rate, rewards and etc. For me personally, cash is king so most of the time I go for cash back offers. Airline mile option may be worth it if you are a frequent flyer - these also have other relevant perks like free checked bags and priority boarding etc. So choosing a credit card is very much a personal preference.
 
-Some cards may require annual fees. I try to avoid these types of cards because "fees" are a bad word in my vocabulary :smile: and because if I end up not using that specific card as much I will still be liable to pay that fee. Take these into consideration as well when you are making the decision to signup.
+Some cards may require annual fees. I try to avoid these types of cards because "fees" are a bad word in my vocabulary and because if I end up not using that specific card as much I will still be liable to pay that fee. Take these into consideration as well when you are making the decision to signup.
 
 ### Making credit card payments
 
@@ -139,7 +139,7 @@ Paying credit card bills on time is very important because that helps your credi
 
 #### Consolidating bill due dates to a specific date
 
-This may be a little-known fact but you can actually request from your credit card, loan and utility companies to adjust due dates to something that works for you. So for example, you can choose the 25th of each month to be the due date and pay them all in one day so you can forget about bills...until next month. :stuck_out_tongue_closed_eyes:
+This may be a little-known fact but you can actually request from your credit card, loan and utility companies to adjust due dates to something that works for you. So for example, you can choose the 25th of each month to be the due date and pay them all in one day so you can forget about bills...until next month.
 
 ### How to avoid going into debt with credit cards
 
@@ -147,7 +147,7 @@ As mentioned before credit cards are one of the easiest traps to fall in. The go
 
 If you know you will have big expenses coming up, plan for those in advance financially - estimate the expenses and save for it beforehand. For those unexpected, always maintain an emergency fund so you don't end up digging into debt with credit cards. Let's take a hypothetical scenario where you want to go on a trip with your family. First, you would estimate all the costs of lodging, rental cars, flight tickets, etc. You set this estimated amount as a goal in your savings account. Then you would keep adding money to this account until the goal amount is reached and once you are ready to go on the trip, you can use credit cards to pay for the expenses. This way, you already have money to pay for the credit card bill and you also reap benefits like cash back rewards, airline miles, etc..
 
-The other important thing is paying credit card bills on time - you don't want to play catch up with the bank. As long as you carry balances month to month you are going deeper into debt and paying interest to the bank. On the flip side, the bank is making 15-20% returns on their investment by lending you money. So, avoid making banks richer. :wink:
+The other important thing is paying credit card bills on time - you don't want to play catch up with the bank. As long as you carry balances month to month you are going deeper into debt and paying interest to the bank. On the flip side, the bank is making 15-20% returns on their investment by lending you money. So, avoid making banks richer.
 
 ## End notes
 

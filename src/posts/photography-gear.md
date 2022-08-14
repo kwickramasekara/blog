@@ -6,12 +6,14 @@ tags: photography
 
 > **Note:** Content of this post is outdated as I have switched to a mirrorless setup with Canon R and M5. A new post will soon follow with details.
 
+---
+
 One of the questions I get asked a lot is what gear I use. So lets explore
 what's in my arsenal that help me do what I do.
 
 ## Before we begin...
 
-Contrary to popular belief, you don't really need high-end, pricey gear to create good images. What is more important though is having good light and good composition. A camera is just a tool and once you know the basics of how to control light and motion it is pretty easy to create beautiful images. Trust me, there is no magic camera out there that can create award winning images with just a single click of a button. The only way I got to where I am now is by just doing it again and again - experimenting, learning new methods and such. It's a continuous process and I am still learning and honing my skills. 🤷‍♂️
+Contrary to popular belief, you don't really need high-end, pricey gear to create good images. What is more important though is having good light and good composition. A camera is just a tool and once you know the basics of how to control light and motion it is pretty easy to create beautiful images. Trust me, there is no magic camera out there that can create award winning images with just a single click of a button. The only way I got to where I am now is by just doing it again and again - experimenting, learning new methods and such. It's a continuous process and I am still learning and honing my skills.
 
 ## 1. Camera bodies
 
@@ -43,7 +45,7 @@ I was actually kind of bummed that none of my images looked sharp enough before 
 
 ![Canon Lens Telephoto](https://ucarecdn.com/90b96078-3842-40fc-8893-66c75e59aedf/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
 
-After spending quite some time with my beloved 17-40mm lens I felt like I was lacking a long focal length that you sometimes need to capture detail shots or distant subjects. With a bit of research, I ended up with two options - Canon 70-200mm f2.8L and Canon 70-200mm f4L. The f2.8 version is a lot heavier and expensive but its amazing for portraits. Since I don't do much portrait work as I used to and weight is very important when you have to hike for landscapes I ended up choosing the f4 version. I was really surprised how sharp it is and after doing comparsions I felt like it is even sharper than the 17-40mm. So overall I am impressed with the lens except for one tiny issue - the noise it makes when image stabilization is on. It's not super loud but you can hear some kind of motor is working. This would be a deal breaker for any kind of video work. But who shoots videos anyway? Not me! 😀
+After spending quite some time with my beloved 17-40mm lens I felt like I was lacking a long focal length that you sometimes need to capture detail shots or distant subjects. With a bit of research, I ended up with two options - Canon 70-200mm f2.8L and Canon 70-200mm f4L. The f2.8 version is a lot heavier and expensive but its amazing for portraits. Since I don't do much portrait work as I used to and weight is very important when you have to hike for landscapes I ended up choosing the f4 version. I was really surprised how sharp it is and after doing comparsions I felt like it is even sharper than the 17-40mm. So overall I am impressed with the lens except for one tiny issue - the noise it makes when image stabilization is on. It's not super loud but you can hear some kind of motor is working. This would be a deal breaker for any kind of video work. But who shoots videos anyway? Not me!
 
 ## 3. Tripod
 
