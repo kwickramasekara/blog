@@ -1,10 +1,10 @@
 ---
-title: Generate excerpts automatically with 11ty
+title: Generate excerpts automatically in 11ty
 date: 2022-08-13T03:23:10.474Z
 tags: technology
 ---
 
-We usually have to add descriptions as meta tags for SEO and social media sharing. This can be a tedious process if done manually because you also need to make sure the content is within 150-160 characters per [SEO guidelines](https://moz.com/learn/seo/meta-description). Fortunately, this can be automated with a filter to create an excerpt from page content, and it works great for blog posts.
+We usually have to add descriptions as `<meta>` tags for SEO and social media sharing. This can be a tedious process if done manually because you also need to make sure the content is within 150-160 characters per [SEO guidelines](https://moz.com/learn/seo/meta-description). Fortunately, this can be automated with a filter to create an excerpt from page content, and it works great for blog posts.
 
 For this little script, we can use some of the filters that Nunjucks already provides. Since eleventy has a dependency on Nunjucks, we can use them without having to install any additional packages.
 
@@ -65,4 +65,4 @@ Now, you can use this filter in any of the Nunjucks templates to add an excerpt 
 
 Excerpt generated from this page as an example:
 
-> We usually have to add descriptions as meta tags for SEO and social media sharing. This can be a tedious process if done manually because you also need to make....
+> We usually have to add descriptions as meta tags for SEO and social media sharing. This can be a tedious process if done manually because you also need to make...
