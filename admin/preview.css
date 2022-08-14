@@ -115,6 +115,22 @@ blockquote {
 
 code {
   font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+  padding: 0 4px;
+  border-radius: 4px;
+  background-color: var(--gray-8);
+  color: var(--gray-1);
+}
+
+pre {
+  background-color: var(--gray-9);
+  border-radius: 4px;
+  padding: 1rem;
+}
+
+pre > code {
+  background-color: var(--gray-9);
+  border-radius: 0;
+  padding: 0;
 }
 
 hr {
