@@ -49,7 +49,7 @@ module.exports = function (eleventyConfig) {
         ? njkFilters.striptags(paragraphContent)
         : null;
 
-      // limit description length to SEO standards
+      // limit description length per SEO guidelines
       paragraphContent = paragraphContent
         ? njkFilters.truncate(paragraphContent, META_DESCRIPTION_LENGTH)
         : null;

@@ -186,7 +186,13 @@ small {
 }
 
 code {
-  font-family: Courier, monospace;
+  font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+}
+
+// Syntax highlighter overrides
+code[class*="language-"],
+pre[class*="language-"] {
+  font-size: var(--font-small);
 }
 
 // Image captions

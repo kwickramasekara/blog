@@ -64,4 +64,5 @@ Now, you can use this filter in any of the Nunjucks templates to add an excerpt 
 ```
 
 Excerpt generated from this page as an example:
+
 > We usually have to add descriptions as meta tags for SEO and social media sharing. This can be a tedious process if done manually because you also need to make....
