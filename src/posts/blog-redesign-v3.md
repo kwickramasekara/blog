@@ -26,4 +26,4 @@ Some of the other features of the site:
 - **Automated tag pages** - a cool, [built-in feature](https://www.11ty.dev/docs/quicktips/tag-pages/) of eleventy.
 - **Reading time** - this [small snippet](https://github.com/kwickramasekara/blog/blob/main/.eleventy.js#L27) scans the contents of the page and spits out a number in minutes based on a given WPM(words per minute).
 
-This was a pretty fun and interesting project for me and if you interested in digging deeper into the source code, please see the [Github repo](https://github.com/kwickramasekara/blog).
+This was a pretty fun and interesting project for me and if you are interested in digging deeper into the source code, please see the [Github repo](https://github.com/kwickramasekara/blog).
