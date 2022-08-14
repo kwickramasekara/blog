@@ -13,15 +13,17 @@ This blog has gone through a couple of redesigns and re-architectures in the pas
 
 Since I noticed my pattern of reworking the blog every few years, I wanted to make the content to be somewhat flexible and easy to extract. So I decided to use markdown and use standard syntax without any framework specific shortcodes. Thought of using headless CMS such as contenful crossed my mind but Netlify CMS is still a great open-source solution to manage a git based workflow. Plus, it has the editorial workflow that seamlessly integrates with Netlify to generate draft previews so that was an easy decision.
 
+![Netlify CMS editor](https://ucarecdn.com/a12b7ca9-be3b-4ef9-a645-4989662ee3a8/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)_Netlify CMS editor_
 
-- Editorial workflow with Netlify CMS
-- Code formatting
-- Uploadcare images
-- No js 
-- Site size
-- Dark mode w css variables
-- Auto description 
-- Auto tag pages
-- Reading time
+Some of the other features of the site:
 
-Source code is available on Github.
+- **Uploadcare integration** - Netlify CMS has a great integration with Uploadcare which is a CDN made for assets. It can do a lot of image optimizations on-the-fly so all of the heavy lifting with regards to image assets are being handled by Uploadcare. I just use their image uploader inside CMS editor, and it spits out a URL that points to an optimized image. You can inspect any image on this page to get an idea.
+- **Dark mode support** - this was pretty easy to do with CSS variables. Change theme in your system settings to see the color change.
+- **No Javascript** - apart from the Netlify CMS auth scripts, this site does not have any Javascript.
+- **Small size** - this site is light as a feather. Less than 100kb in size without the additional Netlify auth scripts.
+- **Syntax highlighting** - to make code snippets look pretty.
+- **Auto descriptions** - created a small [filter that generates excerpts](/generate-excerpts-automatically-in-11ty/) out of post content to be used in meta tags for each post page. 
+- **Automated tag pages** - a cool, [built-in feature](https://www.11ty.dev/docs/quicktips/tag-pages/) of eleventy.
+- Reading time - a [small snippet](https://github.com/kwickramasekara/blog/blob/main/.eleventy.js#L27) that scans the contents of the page, and spits out a number in minutes.
+
+This was a pretty fun and interesting project for me and if you interested in digging deeper into the source code, please see the [Github repo](https://github.com/kwickramasekara/blog).
