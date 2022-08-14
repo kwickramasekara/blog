@@ -33,6 +33,10 @@ With the idea of keeping the markdown syntax of blog posts highly compatible and
 
 **Style:** This is styled to look like the emphasis text appears right below the image with a smaller font size and muted color.
 
+**Note:** Proper attribution for image sources are required. Add a link to source within image caption that reads as follows: `image caption (Source)`
+
+**Example:** [What they don't teach you in school](https://blog.keithw.me/what-they-dont-teach-you-in-school/#credit-score)
+
 ### YouTube videos
 
 **Markdown:**
@@ -44,4 +48,4 @@ With the idea of keeping the markdown syntax of blog posts highly compatible and
 
 **Note:** To get the high-res thumbnail of a YouTube video, visit `http://img.youtube.com/vi/<video-id>/maxresdefault.jpg`. Remember to replace `video-id` with the id of the video.
 
-**Example:** [how-to-get-free-grocery-delivery](https://blog.keithw.me/how-to-get-free-grocery-delivery/)
+**Example:** [How to get free grocery delivery](https://blog.keithw.me/how-to-get-free-grocery-delivery/)
