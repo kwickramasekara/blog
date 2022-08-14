@@ -17,13 +17,13 @@ Since I noticed my pattern of reworking the blog every few years, I wanted to ma
 
 Some of the other features of the site:
 
-- **Uploadcare integration** - Netlify CMS has a great integration with Uploadcare which is a CDN made for assets. It can do a lot of image optimizations on-the-fly so all of the heavy lifting with regards to image assets are being handled by Uploadcare. I just use their image uploader inside CMS editor, and it spits out a URL that points to an optimized image. You can inspect any image on this page to get an idea.
+- **Uploadcare integration** - Netlify CMS has a great integration with [Uploadcare](https://uploadcare.com) which is a CDN made for assets. It can do a lot of image optimizations on-the-fly so all of the heavy lifting with regards to image assets are offloaded to that service. I just use their image uploader inside the CMS editor, and it spits out a URL that points to an optimized image. You can inspect any image on this page to get an idea.
 - **Dark mode support** - this was pretty easy to do with CSS variables. Change theme in your system settings to see the color change.
 - **No Javascript** - apart from the Netlify CMS auth scripts, this site does not have any Javascript.
-- **Small size** - this site is light as a feather. Less than 100kb in size without the additional Netlify auth scripts.
-- **Syntax highlighting** - to make code snippets look pretty.
+- **Small size** - every single page is light as a feather. Less than 100kb in size without the additional Netlify auth scripts.
 - **Auto descriptions** - created a small [filter that generates excerpts](/generate-excerpts-automatically-in-11ty/) out of post content to be used in meta tags for each post page. 
 - **Automated tag pages** - a cool, [built-in feature](https://www.11ty.dev/docs/quicktips/tag-pages/) of eleventy.
 - **Reading time** - this [small snippet](https://github.com/kwickramasekara/blog/blob/main/.eleventy.js#L27) scans the contents of the page and spits out a number in minutes based on a given WPM(words per minute).
+- **Syntax highlighting** - to make code snippets look pretty.
 
 This was a pretty fun and interesting project for me and if you are interested in digging deeper into the source code, please see the [Github repo](https://github.com/kwickramasekara/blog).
