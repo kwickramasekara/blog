@@ -1,6 +1,6 @@
 ---
 title: Generate excerpts automatically in 11ty
-date: 2022-08-13T03:23:10.474Z
+date: 2022-08-12T15:23:10.474Z
 tags: technology
 ---
 

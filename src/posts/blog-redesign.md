@@ -3,6 +3,7 @@ title: Blog redesign
 date: 2022-08-14T16:33:08.048Z
 tags: technology
 ---
+
 This blog has gone through a couple of redesigns and re-architectures in the past. First iteration was a self-hosted [Ghost](https://ghost.org) instance with a default theme, and second was a static site made with [Hugo](https://gohugo.io) hosted on [Netlify](http://netlify.com). This time around, I was more inspired by the idea of [this great website](http://motherfuckingwebsite.com/) and followed a clean, minimal aesthetic similar to my [landing page](https://keithw.me). Below is a little before and after for comparison.
 
 **Before:**
@@ -21,7 +22,7 @@ Some of the other features of the site:
 - **Dark mode support** - this was pretty easy to do with CSS variables. Change theme in your system settings to see the color change.
 - **No Javascript** - apart from the Netlify CMS auth scripts, this site does not have any Javascript.
 - **Small size** - every single page is light as a feather. Less than 100kb in size without the additional Netlify auth scripts.
-- **Auto descriptions** - created a small [filter that generates excerpts](/generate-excerpts-automatically-in-11ty/) out of post content to be used in meta tags for each post page. 
+- **Auto descriptions** - created a small [filter that generates excerpts](/generate-excerpts-automatically-in-11ty/) out of post content to be used in meta tags for each post page.
 - **Automated tag pages** - a cool, [built-in feature](https://www.11ty.dev/docs/quicktips/tag-pages/) of eleventy.
 - **Reading time** - this [small snippet](https://github.com/kwickramasekara/blog/blob/main/.eleventy.js#L27) scans the contents of the page and spits out a number in minutes based on a given WPM(words per minute).
 - **Syntax highlighting** - to make code snippets look pretty.
