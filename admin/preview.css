@@ -15,6 +15,7 @@
   --body-bg-color: var(--gray-0);
   --body-text-color: var(--gray-7);
   --heading-color: var(--gray-9);
+  --border-color: var(--gray-2);
   --font-h1: 2.25rem;
   --font-h1-lg: 3rem;
   --font-h2: 1.75rem;
@@ -112,11 +113,18 @@ blockquote {
   font-style: italic;
 }
 
+hr {
+  border: 0;
+  border-bottom: 1px dotted var(--border-color);
+  margin: 1rem 0;
+}
+
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
   :root {
     --body-bg-color: var(--gray-10);
     --body-text-color: var(--gray-3);
     --heading-color: var(--gray-1);
+    --border-color: var(--gray-8);
   }
 }
