@@ -24,7 +24,9 @@ A minimal blog made with [eleventy](https://www.11ty.dev/) - content managed wit
 
 With the idea of keeping the markdown syntax of blog posts highly compatible and to make it easy to do lift-and-shifts of content, some authoring choices have been made for certain scenarios.
 
-### Image captions
+### Images
+
+Include captions for all images as a general rule of thumb. Some images maybe used as props and those can be left alone.
 
 **Markdown:**
 `![image-alt](image-url)_image-caption_`
@@ -33,9 +35,17 @@ With the idea of keeping the markdown syntax of blog posts highly compatible and
 
 **Style:** This is styled to look like the emphasis text appears right below the image with a smaller font size and muted color.
 
-**Note:** Proper attribution for image sources are required. Add a link to source within image caption that reads as follows: `image caption (Source)`
+#### Image attributions
+
+Proper attribution for image sources are required. Add a link to source within image caption that reads as follows: `Image caption (Source)`
 
 **Example:** [What they don't teach you in school](https://blog.keithw.me/what-they-dont-teach-you-in-school/#credit-score)
+
+#### Full resolution image
+
+Sometime you want to link to a full resolution image. Follow the same pattern/format for adding links: `Image caption (Full Resolution)`
+
+**Example:** [Always shoot RAW](https://blog.keithw.me/always-shoot-raw/)
 
 ### YouTube videos
 
