@@ -16,9 +16,9 @@ So, RAW as it sounds is an image file with all raw data the camera is capturing 
 
 Usually when you shoot in JPEG the camera determines what the picture should look like so it processes the data captured by the sensor and removes excess data before saving. What this means is that you end up with an image that looks good but there is no other data that you can go back and make use of to further process it. The camera sensor is actually able to collect a lot of details in shadows and highlights than what you would normally see in a compressed JPEG photo. On the other hand, RAW image files don't usually look pleasing since it is a dump of a lot of data and that there is no processing. See below for an example.
 
-![Image straight out of camera](https://ucarecdn.com/0d6960ad-c1e3-428a-a4e0-cfd8a0faf67d/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)_Image straight out of camera ([view full resolution](https://ucarecdn.com/0d6960ad-c1e3-428a-a4e0-cfd8a0faf67d/-/format/auto/-/quality/smart_retina/))_
+![Image straight out of camera](https://ucarecdn.com/0d6960ad-c1e3-428a-a4e0-cfd8a0faf67d/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)_Image straight out of camera ([full resolution](https://ucarecdn.com/0d6960ad-c1e3-428a-a4e0-cfd8a0faf67d/-/format/auto/-/quality/smart_retina/))_
 
-![Processed image](https://ucarecdn.com/1d5ab221-2ef3-4771-a77a-06704d1f70ed/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)_Processed image ([view full resolution](https://ucarecdn.com/1d5ab221-2ef3-4771-a77a-06704d1f70ed/-/format/auto/-/quality/smart_retina/))_
+![Processed image](https://ucarecdn.com/1d5ab221-2ef3-4771-a77a-06704d1f70ed/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)_Processed image ([full resolution](https://ucarecdn.com/1d5ab221-2ef3-4771-a77a-06704d1f70ed/-/format/auto/-/quality/smart_retina/))_
 
 Take a look at how much data in shadows you will be able to recover. This is just from one RAW image and there was no image stacking(multiple images blended with different exposures).
 
@@ -32,4 +32,4 @@ This is not for everyone, but if you have a vision to create or mold something, 
 
 One last important point to remember - not all cameras can shoot RAW and not all image editing software can handle RAW. For software, I would highly recommend Adobe Lightroom as it has camera profiles and fully compatible with most of the RAW file types.
 
-**Happy shooting!**
+Happy shooting!
