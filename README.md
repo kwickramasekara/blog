@@ -9,7 +9,8 @@ A minimal blog made with [eleventy](https://www.11ty.dev/) - content managed wit
   1. Run both `dev` and `dev:cms` in parallel.
   2. Point the browser to `http://localhost:8080/admin`.
 
-**Note:** Git hooks are enabled with [Husky](https://typicode.github.io/husky) to run Prettier formatting on commits.
+**Note:**
+Git hooks are enabled with [Husky](https://typicode.github.io/husky) to run Prettier formatting on commits.
 
 ## Folder Structure
 
@@ -31,31 +32,41 @@ Include captions for all images as a general rule of thumb. Some images maybe us
 **Markdown:**
 `![image-alt](image-url)_image-caption_`
 
-**Compiled HTML:** `<img src="img-url" alt="img-alt"><em>image-caption</em>`
+**Compiled HTML:**
+`<img src="img-url" alt="img-alt"><em>image-caption</em>`
 
-**Style:** This is styled to look like the emphasis text appears right below the image with a smaller font size and muted color.
+**Style:**
+This is styled to look like the emphasis text appears right below the image with a smaller font size and muted color.
 
 #### Image attributions
 
-Proper attribution for image sources are required. Add a link to source within image caption that reads as follows: `Image caption (Source)`
+Proper attribution for image sources are required. Add a link to source within image caption that reads as follows:
+`Image caption (Source)`
 
-**Example:** [What they don't teach you in school](https://blog.keithw.me/what-they-dont-teach-you-in-school/#credit-score)
+**Example:**
+[What they don't teach you in school](https://blog.keithw.me/what-they-dont-teach-you-in-school/#credit-score)
 
 #### Full resolution image
 
-Sometime you want to link to a full resolution image. Follow the same pattern/format for adding links: `Image caption (Full Resolution)`
+Sometimes you want to link to a full resolution image. Follow the same pattern/format for adding links:
+`Image caption (Full Resolution)`
 
-**Example:** [Always shoot RAW](https://blog.keithw.me/always-shoot-raw/)
+**Example:**
+[Always shoot RAW](https://blog.keithw.me/always-shoot-raw/)
 
 ### YouTube videos
 
 **Markdown:**
 `![image-alt](youtube-thumbnail-url)_image-caption ([YouTube](youtube-url))_`
 
-**Compiled HTML:** `<img src="img-url" alt="img-alt"><em>image-caption (<a href="youtube-url">YouTube</a>)</em>`
+**Compiled HTML:**
+`<img src="img-url" alt="img-alt"><em>image-caption (<a href="youtube-url">YouTube</a>)</em>`
 
-**Style:** Same as image captions above, this will use video thumbnail as the image and image caption will contain the link to the video.
+**Style:**
+Same as image captions above, this will use video thumbnail as the image and image caption will contain the link to the video.
 
-**Note:** To get the high-res thumbnail of a YouTube video, visit `http://img.youtube.com/vi/<video-id>/maxresdefault.jpg`. Remember to replace `video-id` with the id of the video.
+**Note:**
+To get the high-res thumbnail of a YouTube video, visit `http://img.youtube.com/vi/<video-id>/maxresdefault.jpg`. Remember to replace `video-id` with the id of the video.
 
-**Example:** [How to get free grocery delivery](https://blog.keithw.me/how-to-get-free-grocery-delivery/)
+**Example:**
+[How to get free grocery delivery](https://blog.keithw.me/how-to-get-free-grocery-delivery/)
