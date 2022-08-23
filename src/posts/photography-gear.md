@@ -15,7 +15,7 @@ what's in my arsenal that help me do what I do.
 
 Contrary to popular belief, you don't really need high-end, pricey gear to create good images. What is more important though is having good light and good composition. A camera is just a tool and once you know the basics of how to control light and motion it is pretty easy to create beautiful images. Trust me, there is no magic camera out there that can create award winning images with just a single click of a button. The only way I got to where I am now is by just doing it again and again - experimenting, learning new methods and such. It's a continuous process and I am still learning and honing my skills.
 
-## 1. Camera bodies
+## Camera bodies
 
 **[Canon 6D](https://amzn.to/2JsL2OK)**
 
@@ -33,7 +33,7 @@ This being a second body I didn't really want to spend a lot of money and get a 
 
 I got interested in the Canon mirrorless line-up because mirrorless cameras are all the rage these days plus they are relatively smaller and light weight. From looking around it all looked good on paper and the reviews weren't bad. Picked up a used Canon M3 on eBay for cheap and I was pleasently surprised how good it performed despite a little slow in the auto focusing department. Image quality wise it is really good for a crop sensor camera but it can't compete with the 6D in terms low light performance and dynamic range. I don't know if I can recommend this one because there are newer and better(AF and IQ) mirrorless models out there but for my use case I think it does it's job for the price I paid.
 
-## 2. Lenses
+## Lenses
 
 **[Canon 17-40mm f4L](https://amzn.to/2Jo6wQD)**
 
@@ -47,7 +47,7 @@ I was actually kind of bummed that none of my images looked sharp enough before 
 
 After spending quite some time with my beloved 17-40mm lens I felt like I was lacking a long focal length that you sometimes need to capture detail shots or distant subjects. With a bit of research, I ended up with two options - Canon 70-200mm f2.8L and Canon 70-200mm f4L. The f2.8 version is a lot heavier and expensive but its amazing for portraits. Since I don't do much portrait work as I used to and weight is very important when you have to hike for landscapes I ended up choosing the f4 version. I was really surprised how sharp it is and after doing comparsions I felt like it is even sharper than the 17-40mm. So overall I am impressed with the lens except for one tiny issue - the noise it makes when image stabilization is on. It's not super loud but you can hear some kind of motor is working. This would be a deal breaker for any kind of video work. But who shoots videos anyway? Not me!
 
-## 3. Tripod
+## Tripod
 
 **[Manfrotto BeFree](https://amzn.to/2JLNKlS)**
 
@@ -55,7 +55,7 @@ After spending quite some time with my beloved 17-40mm lens I felt like I was la
 
 Man, let me tell you - buying a decent tripod on a budget is no easy task! For the longest time I was using a cheap $25 tripod I found on Amazon. After getting the telephoto lens I needed a tripod that can support more weight so then began the researching process. There are so many different options for legs, head, mounting plate and such. Biggest one of them all for me was finding one with flip locks for the legs. There are a lot with twist locks but personally I think flip locks gives you that confirmation it is indeed locked while with twist locks you can't say if its locked or not. And of course there are so many opinions out there for both mechanisms so you have to decide what works for you. After testing a couple, I stumbled upon this new Manfrotto model that released recently. It offers both locking mechanisms and folds down to a very compact size which is ideal for travel.
 
-## 4. Filters
+## Filters
 
 ![Filters](https://ucarecdn.com/a60bbdbe-c760-4bfe-89be-620a1e5a9ab2/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
 
@@ -73,4 +73,4 @@ One cool thing I found out is that there are step-up ring adapters for filters. 
 
 The list above is the essentials I pack for most of my trips and I keep it very minimal because I don't like to complicate things by having too many options. I also don't run out and buy the latest gear simply because I am on a limited "hobby" budget and this setup seems adequate for the work I do.
 
-**As always, feel free to reach out if you have any questions! Happy shooting!**
+As always, feel free to reach out if you have any questions! Happy shooting!
