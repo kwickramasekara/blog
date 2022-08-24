@@ -5,7 +5,7 @@ tags: technology
 ---
 ![Vero promo image](https://ucarecdn.com/af955270-17b7-45f9-b988-8baa6d3778fc/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
 
-Lately I feel like Instagram is on a self destructing path with its algorithm and the endless amount of ads. Focus has shifted more towards random reels and sponsored content instead of posts from your connections. I don't enjoy scrolling through the feed as much now as its just a waste of time. Since I saw Vero picking up some steam, I decided to give it another try. Vero is a social media platform that has actually been around since 2015. I tried it last around 2018 when a few photographers started mentioning it.
+Lately I feel like Instagram is on a self destructing path with its algorithm and the endless amount of ads. Focus has shifted more towards random reels and sponsored content instead of posts from your connections. I don't enjoy scrolling through the feed as much now as its just a waste of time. Since I saw [Vero](http://vero.co) picking up some steam, I decided to give it another try. [Vero](http://vero.co) is a social media platform that has actually been around since 2015. I tried it last around 2018 when a few photographers started mentioning it.
 
 ## The good
 
@@ -19,4 +19,4 @@ Something I like about Instagram is that you can discover photos at a specific l
 
 ## Conclusion
 
-Even though this is my second time trying out Vero and it has been around for quite some time, I still think it has potential. If enough people jump from the big ships, we might have a best social media experience. Vero is still free and anyone who joins now will have a lifetime free account. Their plan is to make this a paid subscription and that is basically their business model to make money with no ads. So even if you don't think its no use now, still better to make an account to enjoy a free lifetime account.
+Even though this is my second time trying out Vero and it has been around for quite some time, I still think it has potential. If enough people jump from the big ships, we might have a better social media experience. Vero is still free and anyone who joins now will have a lifetime free account. Their plan is to make this a paid subscription and that is basically their business model to make money with no ads. So even if you don't think its no use now, still better to make an account to enjoy a free lifetime account.
