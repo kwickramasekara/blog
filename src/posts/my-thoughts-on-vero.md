@@ -23,4 +23,4 @@ Something I also like about Instagram is that you can discover photos at a speci
 
 I have to admit that its nice not having to waste my time on ads and to see only the content I want to see. There are few missing features but the overall UI and UX is great. 
 
-Even though it is free now, Vero’s business model is to have paid subscriptions in future. I think they present a good alternative but I am not sure how many people would actually pay to use a social media service. Good thing is Vero is still free and anyone who joins now will have a lifetime free account. So even if you think its useless now, it might pay off in future if everyone jumps ship to Vero.
+Even though it is free now, Vero’s business model is to have paid subscriptions in future. I think they present a good alternative but I am not sure how many people would actually pay to use a social media service. Good thing is, Vero is still free and anyone who joins now will have a lifetime free account. So even if you think its useless now, it might pay off in future if everyone jumps ship to Vero.
