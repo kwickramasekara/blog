@@ -7,6 +7,10 @@ Yes, for 99 cents and its iCloud+! Womp, womp.. But seriously, hear me out. Last
 
 ## Hide my email
 
-There are lot of junk being delivered to our email inboxes these days thanks to marketing, newsletters and data breaches(check if yours is [leaked](https://haveibeenpwned.com)). This can be somewhat controlled if you use hide my email which more or less acts as a proxy service. In case if it gets leaked, you can simply deactivate that proxy address and nothing will link back to you. Good thing is you can also use this proxy address to reply to emails so your real email address is never exposed. As with the typical Apple fashion, all these features integrate really well if you use their apps — when you open up a sign up page in Safari or compose a new email in Apple Mail, you will see the option to hide your email. 
+There are lot of junk being delivered to our email inboxes these days thanks to marketing, newsletters and data breaches(check if yours is [leaked](https://haveibeenpwned.com)). This can be somewhat controlled if you use “Hide my email” which more or less acts as a proxy service. In case if it gets leaked, you can simply deactivate that proxy address and nothing will link back to you. Good thing is you can also use this proxy address to reply to emails so your real email address is never exposed. As with typical Apple fashion, all these features integrate really well if you use their apps — when you open up a sign up page in Safari or compose a new email in Apple Mail, you will see the option to hide your email. 
 
 ![Apple Mail screenshot ](https://ucarecdn.com/20b23604-23d0-4585-b411-b4b623fae442/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/ "Apple Mail screenshot")
+
+## Custom email domain
+
+It’s pretty common to pay around $5 a month if you want to get a custom email account. But if you already have a domain, you can use iCloud to create email addresses with it. It will use the iCloud storage and you can have up to 3 addresses.
