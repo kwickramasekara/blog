@@ -23,4 +23,4 @@ iCloud also gives you the option to have it be as a catch-all address. So, even 
 
 ## End notes
 
-In addition to the extra iCloud storage, there are other useful features like "[Private relay](https://support.apple.com/guide/icloud/icloud-private-relay-mm8010d8daf3/1.0/icloud/1.0)" and "[HomeKit video](https://support.apple.com/guide/icloud/icloud-homekit-secure-video-mme054c72692/1.0/icloud/1.0)" which provides more privacy and storage for security cameras respectively. Overall, I think the features you get for 0.99 cents are pretty damn good!
+In addition to the extra iCloud storage, there are other useful features like "[Private relay](https://support.apple.com/guide/icloud/icloud-private-relay-mm8010d8daf3/1.0/icloud/1.0)" and "[HomeKit video](https://support.apple.com/guide/icloud/icloud-homekit-secure-video-mme054c72692/1.0/icloud/1.0)" which provides more privacy and storage for security cameras respectively. Overall, I think the features you get for 99 cents are pretty damn good!
