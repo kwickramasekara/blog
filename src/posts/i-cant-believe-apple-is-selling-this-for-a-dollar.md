@@ -15,9 +15,9 @@ Another nice thing is, you can reply using proxy addresses so your real email ad
 
 ## Custom email domain
 
-Custom email addresses usually cost about $60 a year ($5/mo.). But if you already have a domain, you can use iCloud to create email addresses using that domain. You can have up to 3 different email addresses and all of this data will be saved in your iCloud storage.
+Custom email addresses usually cost about $60 a year ($5/mo.). But if you already have a domain, you can use iCloud to create email addresses using that domain. You can have up to 3 different email addresses and all of the data will be saved in your iCloud storage.
 
-iCloud also give you the option to have it be as a catch-all address, so even if a sender mistyped the address, you will still receive that email.
+iCloud also gives you the option to have it be as a catch-all address. So, even if a sender mistype the address, you will still receive that email.
 
 ![iCloud settings](https://ucarecdn.com/6cc8e44c-33c7-4f0b-9981-86ac516cd4aa/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/ "iCloud settings")_iCloud setting for catch-all address_
 
