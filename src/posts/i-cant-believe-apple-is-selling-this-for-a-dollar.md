@@ -7,7 +7,7 @@ Yes, for 99 cents and its iCloud Plus! Womp, womp.. But seriously, hear me out. 
 
 ## Hide my email
 
-There are lot of junk being delivered to our email inboxes these days thanks to marketing, newsletters and data breaches(check if yours is [leaked](https://haveibeenpwned.com)). This can be somewhat controlled if you use “Hide my email” which more or less acts as a proxy service. If you become part of a data breach, you can simply deactivate that proxy address and nothing will link back to you. 
+There are lot of junk being delivered to our email inboxes these days thanks to marketing, newsletters and data breaches(check if your email is [leaked](https://haveibeenpwned.com)). This can be somewhat controlled if you use “Hide my email” which more or less acts as a proxy service. If you become part of a data breach, you can simply deactivate that proxy address and nothing will link back to you. 
 
 Another nice thing is, you can reply using proxy addresses so your real email address is never exposed. In typical Apple fashion, all these features integrate really well if you use their apps — when you open up a sign up page in Safari or compose a new email in Apple Mail, you will see the option to hide your email. 
 
