@@ -14,6 +14,8 @@ As you know credit cards offer great incentives and two of the most primary ones
 - Gas - 3% with [AMEX blue cash everyday](https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/)
 - Online purchases - 3% with [Bank of America customized cash rewards](https://www.bankofamerica.com/credit-cards/cash-back-credit-cards/)
 
+So for a month I get about $50-60 in cash back which equals to about $720 a year.
+Dave Ramsey might disagree with me but thats $720 you would not have if you just used debit cards.
 
 Credit cards for different categories to maximize points
 
