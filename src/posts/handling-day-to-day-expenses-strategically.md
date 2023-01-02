@@ -22,7 +22,7 @@ Another strategy is to rotate credit card usage based on the current rewards off
 
 Credit card offers vary time to time but you can find good ones if you keep an eye out. However, be mindful of the annual fees - I personally use $0 fee cards but depending on your personal finances, a card with an annual fee might still work for you. 
 
-It goes without saying that using credit cards responsibly is key to maximizing rewards. Be sure to pay off your balances in full each month to avoid paying interest, which can negate the benefits of any rewards you earn. Also, be sure to read the fine print on your credit card agreements to understand any restrictions or limitations on rewards. By using credit cards strategically and responsibly, you can effectively save money and make the most of your expenses.
+It goes without saying that using credit cards responsibly is key to maximizing rewards. Be sure to pay off your balances in full each month to avoid paying interest, which can negate the benefits of any rewards you earn. By using credit cards strategically and responsibly, you can effectively save money and make the most of your expenses.
 
 ## Using savings buckets
 
