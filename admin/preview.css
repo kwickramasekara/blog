@@ -142,6 +142,7 @@ hr {
 
 table {
   border-collapse: collapse;
+  margin: 2rem 0;
 }
 th {
   background-color: var(--table-head-bg-color);

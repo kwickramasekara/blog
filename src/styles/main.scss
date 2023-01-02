@@ -127,6 +127,7 @@ article {
 
 table {
   border-collapse: collapse;
+  margin: calc($base-unit * 2) 0;
 
   th {
     background-color: var(--table-head-bg-color);
