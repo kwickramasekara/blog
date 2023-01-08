@@ -9,12 +9,11 @@ In the past, I have always chosen to go with Apple's budget line of phones like 
 
 Like I mentioned before 14 Pro [has a bigger sensor now](https://www.techinsights.com/blog/apple-iphone-14-image-sensor-preliminary-analysis) for both wide and ultra-wide cameras. Telephoto camera is unfortunately the same as last year and there is not much improvement. Due to large sensor on the main camera, you get more bokeh(background blur), higher dynamic range, better low light performance among many other benefits.
 
+![New image sensor in iPhone 14 Pro](https://ucarecdn.com/eaeedbb1-06ea-40c7-8031-d4da8a88e9b8/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
+_New sensor in iPhone 14 Pro ([Source](https://www.apple.com))_
 ## Software
 
 Computation photography has been around for a few years now and it has certainly evolved quite a bit over the years. When I first got my 12 mini, I noticed there is some over-sharpening in the photos and I am quite dissapointed to say that I still notice that with 14 Pro. Once you hit that shutter button, iPhone takes multiple shots and puts them through an image processing pipeline to produce a photo that **it thinks** looks best. This is where my gripe is - I prefer less-processed, cleaner images and as a photographer, I certainly don't want the camera to make artistic decisions on behalf of me. Fortunately, there is a solution to avoid this over-processing and that is with shooting in RAW mode.
-
-
-
 
 The iPhone 14 Pro is the latest release from Apple and it has caused quite a stir in the tech community. One of the standout features of the iPhone 14 Pro is its ProRAW performance.
 
@@ -26,11 +25,7 @@ But it's not just about the image quality. The iPhone 14 Pro also boasts impress
 
 In conclusion, the iPhone 14 Pro's ProRAW performance is a game-changer for photographers and videographers. It allows for the capture of high-quality images and video footage, with the added convenience of Apple's advanced image processing algorithms. If you're in the market for a new smartphone and value image and video quality, the iPhone 14 Pro is definitely worth considering.
 
-
-
 \---
-
-
 
 The iPhone 13 Pro is set to be released in the fall of 2021 and it is already generating a lot of buzz. One of the key features that people are excited about is the camera system, which is set to be significantly improved over previous models.
 
