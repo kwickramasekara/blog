@@ -33,7 +33,7 @@ Dynamic range you get with ProRAW is also quite amazing. I am able to recover a 
 ![Dynamic range performance](https://ucarecdn.com/d0948bf3-3f29-4955-a18d-2a32e0979232/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
 _Dynamic range performance_
 
-It's also quite interesting to see how detailed the images are produced by this new large sensor. When I pixel peeped a few photos from my DC trip, I was surprised to see so much detail in the buildings and its hardly distinguishable from a full frame camera. Image below is a comparsion of the same ProRAW image when zoomed in at 100% - no post-processing.
+It's also quite interesting to see how detailed the images are produced by this new large sensor. When I pixel peeped a few photos from my DC trip, I was surprised to see so much detail in the buildings and its hardly distinguishable from a full frame camera. Image below is a comparsion of the same 48MP ProRAW image when zoomed in at 100% - no post-processing.
 
 ![Pixel peeping the U.S Capitol building](https://ucarecdn.com/910f864a-15dc-49d8-b0f3-2734bf115678/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
 _U.S Capitol building ([View HQ image](https://ucarecdn.com/910f864a-15dc-49d8-b0f3-2734bf115678/-/format/jpg/-/quality/best/-/resize/4096x/))_
