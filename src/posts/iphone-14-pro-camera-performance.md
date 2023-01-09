@@ -7,32 +7,26 @@ In the past, I have always chosen to go with Apple's budget line of phones like 
 
 ## Hardware
 
-Like I mentioned before 14 Pro [has a bigger sensor now](https://www.techinsights.com/blog/apple-iphone-14-image-sensor-preliminary-analysis) for both wide and ultra-wide cameras. Telephoto camera is unfortunately the same as last year and there is not much improvement. Due to large sensor on the main camera, you get more bokeh(background blur), higher dynamic range, better low light performance among many other benefits.
+Like I mentioned before 14 Pro [has a bigger sensor now](https://www.techinsights.com/blog/apple-iphone-14-image-sensor-preliminary-analysis) for both wide and ultra-wide cameras. Telephoto camera is unfortunately the same as last year and there is not much improvement in image quality. Due to larger sensor on the main camera, you get more bokeh(background blur), higher dynamic range, better low light performance among many other benefits.
 
 ![New image sensor in iPhone 14 Pro](https://ucarecdn.com/eaeedbb1-06ea-40c7-8031-d4da8a88e9b8/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
-_New sensor in iPhone 14 Pro ([Source](https://www.apple.com))_
+_New sensor in the iPhone 14 Pro ([Source](https://www.apple.com))_
+
 ## Software
 
-Computation photography has been around for a few years now and it has certainly evolved quite a bit over the years. When I first got my 12 mini, I noticed there is some over-sharpening in the photos and I am quite dissapointed to say that I still notice that with 14 Pro. Once you hit that shutter button, iPhone takes multiple shots and puts them through an image processing pipeline to produce a photo that **it thinks** looks best. This is where my gripe is - I prefer less-processed, cleaner images and as a photographer, I certainly don't want the camera to make artistic decisions on behalf of me. Fortunately, there is a solution to avoid this over-processing and that is with shooting in RAW mode.
+Computation photography has been around for a few years now and it has certainly evolved quite a bit over the years. Once you hit that shutter button, iPhone takes multiple shots and puts them through an image processing pipeline to produce a photo that **it thinks** looks best. This is where my gripe is - I prefer less-processed, cleaner images. And as a photographer, I certainly don't want the camera to make artistic decisions on behalf of me. When I first got my 12 mini, I noticed there is some over-sharpening in the photos and I am quite dissapointed to say that I still notice that with 14 Pro. This is specially noticeable when shooting foliage as seen below - notice the foreground where focus was set.
 
-The iPhone 14 Pro is the latest release from Apple and it has caused quite a stir in the tech community. One of the standout features of the iPhone 14 Pro is its ProRAW performance.
+![Foliage shot with iPhone 14 Pro](https://ucarecdn.com/7e1b2686-6b20-4b42-be10-6f3595a8f7c7/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
+_Foliage shot with iPhone 14 Pro ([View larger](https://ucarecdn.com/7e1b2686-6b20-4b42-be10-6f3595a8f7c7/-/format/jpg/-/quality/best/))_
 
-For those unfamiliar with ProRAW, it is a new image format that combines the benefits of RAW image capture with the convenience of Apple's ProRAW image processing. This allows users to capture images with all the detail and flexibility of a RAW image, but with the added benefits of Apple's advanced image processing algorithms.
+## Apple ProRAW
 
-So what does this mean for photographers and videographers? In short, it means that the iPhone 14 Pro is capable of capturing stunning, high-quality images that are perfect for post-processing and editing. The ProRAW format allows for greater control over the final image, as it retains all the data from the image sensor and allows users to adjust things like white balance, exposure, and contrast in post-processing.
+Fortunately, shooting in RAW avoids a lot of the over-processing that happens with regular photos. ProRAW still takes advantage of things like pixel binning so you get 48MP images and more details in the shots. I did not objectively shoot photos during my trip so I do not have direct comparisons for foliage between ProRaw and regular photos. However the image below should be a good example to compare for sharpness.
 
-But it's not just about the image quality. The iPhone 14 Pro also boasts impressive video capabilities, with support for up to 4K resolution at 60 frames per second. This makes it perfect for capturing high-quality video footage, whether you're filming a professional video or just capturing memories with friends and family.
+![Folio shot with ProRAW](https://ucarecdn.com/5ee2af2a-8f18-4199-b021-6654093671e4/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
+_Folio shot with ProRAW ([View larger](https://ucarecdn.com/5ee2af2a-8f18-4199-b021-6654093671e4/-/format/jpg/-/quality/best/-/resize/4096x/))_
 
-In conclusion, the iPhone 14 Pro's ProRAW performance is a game-changer for photographers and videographers. It allows for the capture of high-quality images and video footage, with the added convenience of Apple's advanced image processing algorithms. If you're in the market for a new smartphone and value image and video quality, the iPhone 14 Pro is definitely worth considering.
+Dynamic range you get with ProRAW is also quite amazing. I am able to recover a lot of highlights and shadows in post-processing and it's on par with my full frame camera. As you see below the sky seems completely blown at some parts yet, I am able to pull down the highlights slider and see those clouds magically appear. Same goes for the trees and foliage in terms shadows. Also note that results below are just from changing highlights and shadows - no spot treatments or any other adjustments.
 
-\---
-
-The iPhone 13 Pro is set to be released in the fall of 2021 and it is already generating a lot of buzz. One of the key features that people are excited about is the camera system, which is set to be significantly improved over previous models.
-
-One of the major upgrades to the camera system on the iPhone 13 Pro is the inclusion of ProRAW technology. ProRAW is a new image format that combines the best elements of both RAW and JPEG formats. With ProRAW, users can capture images that are more detailed and have more dynamic range than JPEGs, but without the need for post-processing that is typically required with RAW images.
-
-ProRAW is made possible by the use of computational photography, which is the use of advanced algorithms to improve the quality of photos. With computational photography, the iPhone 13 Pro is able to process photos in real-time, making adjustments to things like exposure, white balance, and noise reduction. This results in photos that are more accurately exposed and have less noise, even in low light conditions.
-
-One of the complaints about previous models of the iPhone was that the photos often appeared over-sharpened, which made them look unnatural. However, with the use of ProRAW, this issue should be greatly reduced, as the photos are not as heavily processed as they were in the past.
-
-Overall, the camera system on the iPhone 13 Pro is set to be a significant improvement over previous models, thanks in large part to the inclusion of ProRAW technology and the use of computational photography. With ProRAW, users can capture high-quality photos that are more detailed and have more dynamic range, without the need for post-processing. And with computational photography, the iPhone 13 Pro is able to process photos in real-time, resulting in more accurately exposed and less noisy images.
+![Dynamic range performance](https://ucarecdn.com/d0948bf3-3f29-4955-a18d-2a32e0979232/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
+_Dynamic range performance_
