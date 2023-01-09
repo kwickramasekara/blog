@@ -16,7 +16,7 @@ _New sensor in the iPhone 14 Pro ([Source](https://www.apple.com))_
 
 Computation photography has been around for a few years now and it has certainly evolved quite a bit over the years. When you take a photo with an iPhone these days, it takes multiple shots and they go through so much processing like tone mapping, noise reduction, sharpening and so many other things that Apple has very specific marketing names to. The resulting image isn't so much true-to-life but rather a reality that the software thinks looks best. This is where my gripe is - I prefer less-processed, cleaner images. And as a photographer, I certainly don't want the camera to make artistic decisions on behalf of me. 
 
-When I first got my 12 mini, I noticed there is some over-sharpening in the photos and I am quite dissapointed to say that I still notice that with 14 Pro. This is specially noticeable when shooting foliage as seen below - notice the foreground where focus was set.
+When I first got my 12 mini, I noticed there is some over-sharpening in the photos and I am quite dissapointed to say that I still notice that with 14 Pro. This is especially noticeable when shooting foliage as seen below - notice the foreground where focus was set.
 
 ![Foliage shot with iPhone 14 Pro](https://ucarecdn.com/7e1b2686-6b20-4b42-be10-6f3595a8f7c7/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
 _Foliage shot with iPhone 14 Pro ([View HQ image](https://ucarecdn.com/7e1b2686-6b20-4b42-be10-6f3595a8f7c7/-/format/jpg/-/quality/best/))_
