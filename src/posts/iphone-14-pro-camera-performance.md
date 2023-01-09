@@ -3,7 +3,7 @@ title: iPhone 14 Pro Camera performance
 date: 2023-01-06T05:05:06.725Z
 tags: technology
 ---
-In the past, I have always chosen to go with Apple's budget line of phones like the XR and 12 mini because I did not feel like the bump in price would yield significantly better photos. However, 2022 was the exception because 14 Pro now comes with a bigger sensor. When it comes to cameras, it mostly boils down to physics - bigger sensors and lenses allow them to capture more light which results in better photos overall. As an added bonus, 14 Pro also bumped its resolution from 12 to 48 megapixels. With these updates, I knew my only choice this time is the Pro model. Fast forward to today, I have taken it on a couple of trips and had ample time to play around. So, below are some of my observations and thoughts about everything on the 14 Pro camera.
+In the past, I have always chosen to go with Apple's budget line of phones like the XR and 12 mini because I did not feel like the bump in price would yield significantly better photos. When it comes to cameras, it mostly boils down to physics - bigger sensors and lenses allow them to capture more light which results in better photos overall. In 2022, Apple added a bigger sensor to its Pro lineup. Also, they bumped its resolution from 12 to 48 megapixels. With these updates, I knew my only choice this time is the Pro model. Fast forward to today, I have taken it on a couple of trips and had ample time to play around. So, below are some of my observations and thoughts about everything on the 14 Pro camera.
 
 ## Hardware
 
