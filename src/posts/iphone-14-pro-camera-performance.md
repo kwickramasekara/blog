@@ -30,3 +30,7 @@ Dynamic range you get with ProRAW is also quite amazing. I am able to recover a 
 
 ![Dynamic range performance](https://ucarecdn.com/d0948bf3-3f29-4955-a18d-2a32e0979232/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
 _Dynamic range performance_
+
+## Final thoughts
+
+When you take a photo with an iPhone these days, that photo goes through so much processing like tone mapping, noice reduction, sharpening and so many other things that Apple has very specific marketing names to. The resulting image isn't so much true-to-life but rather a reality that the software thinks looks best.
