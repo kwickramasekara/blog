@@ -42,4 +42,4 @@ _U.S Capitol building ([View HQ image](https://ucarecdn.com/910f864a-15dc-49d8-b
 
 Computational fairy dust works for general population and frankly, even for photographers like me when snapping a quick photo for social media and such. However, I am glad we have ProRAW at our disposal that does not go through the same level of processing as regular photos so that I, as a photographer, can make those artistic choices using a good source image. 
 
-Overall, I am pretty blown away with the performance of this camera system. I finally feel like it can replace my bulky full frame camera in most situations. As they say, "the best camera is the one you have with you", and I am glad that we have something good with us!
+Overall, I am pretty blown away with the performance of this camera system. I finally feel like it can replace my bulky full frame camera in most situations. As they say, "the best camera is the one you have with you", and I am glad that we have something good with us now!
