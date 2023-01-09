@@ -28,7 +28,7 @@ Fortunately, shooting in RAW avoids a lot of the over-processing that happens wi
 ![Folio shot with ProRAW](https://ucarecdn.com/5ee2af2a-8f18-4199-b021-6654093671e4/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
 _Folio shot with ProRAW ([View HQ image](https://ucarecdn.com/5ee2af2a-8f18-4199-b021-6654093671e4/-/format/jpg/-/quality/best/-/resize/4096x/))_
 
-Dynamic range you get with ProRAW is also quite amazing. I am able to recover a lot of highlights and shadows in post-processing and it's on-par with my full frame camera. As you see below, the sky seems completely blown at some parts. Yet, I am able to pull down the highlights slider in my editor and see those clouds magically appear. Same goes for the trees and foliage in terms of shadows. Also note that results below are just from changing highlights and shadows - no spot treatments or any other adjustments.
+Dynamic range you get with ProRAW is also quite amazing. I am able to recover a lot of highlights and shadows in post-processing and it's on-par with my full frame camera. As you see below, the sky seems completely blown in some parts. Yet, I am able to pull down the highlights slider in my editor and see those clouds magically appear. Same goes for the trees and foliage in terms of shadows. Also note that results below are just from changing highlights and shadows - no spot treatments or any other adjustments.
 
 ![Dynamic range performance](https://ucarecdn.com/d0948bf3-3f29-4955-a18d-2a32e0979232/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
 _Dynamic range performance_
@@ -40,6 +40,6 @@ _U.S Capitol building ([View HQ image](https://ucarecdn.com/910f864a-15dc-49d8-b
 
 ## Final thoughts
 
-Computational fairy dust works for general population and frankly, even for photographers like me when snapping a quick photo for social media and such. However, I am glad we have ProRAW at our disposal that does not go through the same level of processing as regular photos so that I, as a photographer, can make those artistic choices using a good source image. 
+Computational fairy dust works for the general population and frankly, even for photographers like me when snapping a quick photo for social media and such. However, I am glad we have ProRAW at our disposal that does not go through the same level of processing as regular photos. Therefore, I, as a photographer, can make those artistic choices using a good source image. 
 
 Overall, I am pretty blown away with the performance of this camera system. I finally feel like it can replace my bulky full frame camera in most situations. As they say, "the best camera is the one you have with you", and I am glad that we have something good with us now!
