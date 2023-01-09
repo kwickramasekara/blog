@@ -1,5 +1,5 @@
 ---
-title: iPhone 14 Pro Camera performance
+title: iPhone 14 Pro camera performance
 date: 2023-01-09T06:59:22.587Z
 tags: technology
 ---
