@@ -3,7 +3,7 @@ title: iPhone 14 Pro camera performance
 date: 2023-01-09T06:59:22.587Z
 tags: technology
 ---
-In the past, I have always chosen to go with Apple's budget line of phones like the XR and 12 mini because I did not feel like the bump in price would yield significantly better photos. When it comes to cameras, it mostly boils down to physics - bigger sensors and lenses allow them to capture more light which results in better photos overall. In 2022, Apple added a bigger sensor to its Pro lineup. Also, they bumped its resolution from 12 to 48 megapixels. With these updates, I knew my only choice this time is the Pro model. Fast forward to today, I have taken it on a couple of trips and had ample time to play around. So, below are some of my observations and thoughts about everything on the 14 Pro camera.
+In the past, I have always chosen to go with Apple's budget line of phones like the XR and 12 mini because I did not feel like the bump in price would yield significantly better photos. When it comes to cameras, it mostly boils down to physics - bigger sensors and lenses allow them to capture more light which results in better photos overall. In 2022, Apple added a bigger sensor to its Pro lineup. Also, they bumped its resolution from 12 to 48 megapixels. With these updates, I knew my best choice this time is the Pro model. Fast forward to today, I have taken it on a couple of trips and had ample time to play around. So, below are some of my observations and thoughts about everything on the 14 Pro camera.
 
 ## Hardware
 
@@ -14,7 +14,7 @@ _New sensor in the iPhone 14 Pro ([Source](https://www.apple.com))_
 
 ## Software
 
-Computation photography has been around for a few years now and it has certainly evolved quite a bit over the years. When you take a photo with an iPhone these days, it takes multiple shots and they go through so much processing like tone mapping, noise reduction, sharpening and so many other things that Apple has very specific marketing names to. The resulting image isn't so much true-to-life but rather a reality that the software thinks looks best. This is where my gripe is - I prefer less-processed, cleaner images. And as a photographer, I certainly don't want the camera to make artistic decisions on behalf of me. 
+Computation photography has been around for a few years now and it has certainly evolved quite a bit over the years. When you take a photo with an iPhone these days, it takes multiple shots and they go through a pipeline which adds tone mapping, noise reduction, sharpening and so many other things that Apple has very specific marketing names to. The resulting image isn't so much true-to-life but rather a reality that the software thinks looks best. This is where my gripe is - I prefer less-processed, cleaner images. And as a photographer, I certainly don't want the camera to make artistic decisions on behalf of me. 
 
 When I first got my 12 mini, I noticed there is some over-sharpening in the photos and I am quite dissapointed to say that I still notice that with 14 Pro. This is especially noticeable when shooting foliage as seen below - notice the foreground where focus was set.
 
@@ -42,4 +42,4 @@ _U.S Capitol building ([View HQ image](https://ucarecdn.com/910f864a-15dc-49d8-b
 
 Computational fairy dust works for the general population and frankly, even for photographers like me when snapping a quick photo for social media and such. However, I am glad we have ProRAW at our disposal that does not go through the same level of processing as regular photos. Therefore, we have the liberty of processing images however **we** want.
 
-Overall, I am pretty blown away with the performance of this camera system. I finally feel like it can replace my bulky full frame camera in most situations. As they say, "the best camera is the one you have with you", and I am glad that we have something good with us now!
+Overall, I am pretty blown away with the performance of this camera system. I finally feel like it can replace my bulky full frame camera in most situations. As they say, "the best camera is the one you have with you", and I am glad that it can now produce results similar to pro-grade cameras!
