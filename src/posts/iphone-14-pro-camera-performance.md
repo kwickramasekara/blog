@@ -23,7 +23,7 @@ _Foliage shot with iPhone 14 Pro ([View HQ image](https://ucarecdn.com/7e1b2686-
 
 ## Apple ProRAW
 
-Fortunately, shooting in RAW avoids a lot of the over-processing that happens with regular photos. ProRAW still takes advantage of things like pixel binning so you get 48MP images and more details in the shots. I did not objectively shoot photos during my trips so, I do not have direct comparisons for foliage between ProRaw and regular photos. However, the image below should be a good example to compare for sharpness.
+Fortunately, shooting in RAW avoids a lot of the over-processing that happens with regular photos. ProRAW still takes advantage of things like pixel binning so you get 48MP images and more details in the shots. I did not objectively shoot photos during my trips so, I do not have direct comparisons for foliage between ProRaw and regular photos. However, the ProRAW image below should be a good example to compare for sharpness.
 
 ![Folio shot with ProRAW](https://ucarecdn.com/5ee2af2a-8f18-4199-b021-6654093671e4/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
 _Folio shot with ProRAW ([View HQ image](https://ucarecdn.com/5ee2af2a-8f18-4199-b021-6654093671e4/-/format/jpg/-/quality/best/-/resize/4096x/))_
