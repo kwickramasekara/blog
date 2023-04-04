@@ -18,6 +18,8 @@
     <link rel="stylesheet" href="/css/main.css" />
     
     {% block headScript %}{% endblock %}
+    
+    {% include "./partials/analytics.njk" %}
 
     <title>{{ title or site.title }} - {{ site.author }}</title>
   </head>
@@ -44,6 +46,5 @@
     </div>
 
     {% block footerScript %}{% endblock %}
-    {% include "./partials/analytics.njk" %}
   </body>
 </html>
