@@ -3,7 +3,8 @@ title: A personal take on music streaming apps
 date: 2024-02-08T06:56:50.082Z
 tags: technology
 ---
-![](https://ucarecdn.com/8d8ccb5b-a732-43fe-98f7-3bce71978e13/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
+![A picture of a desktop computer with Apple Music playing Sober by Tool](https://ucarecdn.com/8d8ccb5b-a732-43fe-98f7-3bce71978e13/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
+_Apple Music playing Sober by Tool_
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et ultrices neque ornare aenean euismod. Amet purus gravida quis blandit turpis cursus in. Pellentesque sit amet porttitor eget dolor morbi non arcu risus. Pretium aenean pharetra magna ac placerat vestibulum. Elit eget gravida cum sociis natoque. Eu mi bibendum neque egestas congue quisque. Et tortor consequat id porta. Ut ornare lectus sit amet est placerat in egestas erat. Vestibulum lorem sed risus ultricies tristique nulla aliquet. Auctor elit sed vulputate mi sit amet mauris commodo. Faucibus purus in massa tempor nec feugiat nisl. Et ultrices neque ornare aenean. Enim lobortis scelerisque fermentum dui faucibus. Faucibus in ornare quam viverra orci sagittis eu.
 
