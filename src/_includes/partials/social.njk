@@ -1,11 +1,17 @@
 <!-- Facebook Meta Tags -->
-<meta property="og:url" content="{{ site.url }}">
-<meta property="og:type" content="website">
-<meta property="og:title" content="{{ title or site.title }} - {{ site.author }}">
-<meta property="og:image" content="https://ucarecdn.com/cb95fbc2-43e5-43b5-98b9-7b71edde8fc1/-/preview/-/quality/smart/-/format/auto/">
+<meta property="og:url" content="{{ site.url }}" />
+<meta property="og:type" content="website" />
+<meta
+  property="og:title"
+  content="{{ title or site.title }} - {{ site.author }}"
+/>
+<meta property="og:image" content="{{ shareCardImage }}" />
 
 <!-- Twitter Meta Tags -->
-<meta name="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="@keith_m_w">
-<meta name="twitter:title" content="{{ title or site.title }} - {{ site.author }}">
-<meta name="twitter:image" content="https://ucarecdn.com/cb95fbc2-43e5-43b5-98b9-7b71edde8fc1/-/preview/-/quality/smart/-/format/auto/">
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content="@keith_m_w" />
+<meta
+  name="twitter:title"
+  content="{{ title or site.title }} - {{ site.author }}"
+/>
+<meta name="twitter:image" content="{{ shareCardImage }}" />
