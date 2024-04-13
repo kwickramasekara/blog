@@ -2,6 +2,7 @@
 title: How to get free grocery delivery
 date: 2022-07-02T17:03:11.021Z
 tags: lifestyle
+shareCardImage: https://ucarecdn.com/bc00d826-8b5b-4276-b027-b16550673b17/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/640x/
 ---
 
 Grocery shopping is something I have been doing every week at Kroger and when they announced their own grocery delivery service ([Boost](https://www.kroger.com/pr/boost)), I signed up to try. This is an added premium service on top of their free membership. It costs $59 per year and with that, you get next-day free delivery and double fuel points. If you want quicker same-day delivery, they also have another tier which costs $99 per year.

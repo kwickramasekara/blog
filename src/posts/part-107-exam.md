@@ -2,6 +2,7 @@
 title: Free materials for part 107 exam
 date: 2017-05-14T19:22:26-06:00
 tags: technology
+shareCardImage: https://ucarecdn.com/cb95fbc2-43e5-43b5-98b9-7b71edde8fc1/-/preview/-/quality/smart/-/format/auto/
 ---
 
 What the heck is part 107 you ask? Well, its an [FAA](https://www.faa.gov/) certification for drone pilots. There are lot of rules and regulations for U.S airspace so if you want to operate a drone legally for commercial purposes, you need to have the certification.
