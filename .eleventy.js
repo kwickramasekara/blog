@@ -35,9 +35,10 @@ module.exports = function (eleventyConfig) {
     if (content) {
       let paragraphContent = content.split("<p>");
 
-      // get the first paragraph element
-      paragraphContent =
-        paragraphContent.length > 2 ? paragraphContent[1].split("</p>") : null;
+      // get the first paragraph element that is not empty or an HTML tag
+      paragraphContent = paragraphContent.find(
+        (item) => item.trim() !== "" && item[0] !== "<"
+      );
 
       // convert array to string
       paragraphContent = paragraphContent
