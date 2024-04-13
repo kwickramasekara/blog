@@ -11,9 +11,11 @@ It was truly incredible to witness the solar eclipse right from the convenience 
 
 I kept firing that trigger button as the clouds themselves made for some cool smoky vibe around the sun and moon. It was sort of other-worldly, and I really loved the mystical appearance it helped create in the photo above. 
 
+![Just before totality](https://ucarecdn.com/a0bc3bb2-ad21-45a3-9917-5473385a9784/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)_Just before totality_
+
 A﻿nyway, as the moon inched closer and closer to the sun, it got darker and darker. It was certainly unusual to experience a nighttime ambiance in the middle of the day(1:40pm). Clouds slowly disappeared, birds started chirping and the temperature cooled down - all within a total of 4 minutes which to me felt much shorter as I was trying to capture the totality the best I can.
 
-![Just before totality](https://ucarecdn.com/a0bc3bb2-ad21-45a3-9917-5473385a9784/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)_Just before totality_
+![Totality with visible red prominences](https://ucarecdn.com/4dc1d745-aa73-40cf-945c-1327882310a9/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)_Totality with visible red prominences_
 
 A﻿s for my apparatus, I used the only telephoto lens I have which is the 70-200mm. Coupling that with the crop sensor Canon M50, I was able to get a focal length of 320mm. It was decent enough that I am able to see the red prominences within the sun's white corona when zoomed in. Although, as a note to self, it may not be a bad idea to invest in a lens with a longer focal length for next time.
 
