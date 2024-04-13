@@ -1,6 +1,6 @@
 ---
 title: Solar Eclipse 2024
-date: 2024-04-13T05:12:26.527Z
+date: 2024-04-08T17:12:00.000Z
 tags: photography
 ---
 ![Totality during solar eclipse of 2024](https://ucarecdn.com/3f2891ca-caf2-45ed-8481-3cbde77e8213/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
