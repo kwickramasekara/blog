@@ -17,6 +17,6 @@ A﻿nyway, as the moon inched closer and closer to the sun, it got darker and da
 
 ![Totality with visible red prominences](https://ucarecdn.com/4dc1d745-aa73-40cf-945c-1327882310a9/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)_Totality with visible red prominences ([Full Resolution](https://ucarecdn.com/4dc1d745-aa73-40cf-945c-1327882310a9/-/format/auto/-/quality/best/-/resize/2048x/))_
 
-A﻿s for my apparatus, I used the only telephoto lens I have which is the 70-200mm. Coupling that with the crop sensor Canon M50, I was able to get a focal length of 320mm. It was decent enough that I am able to see the red prominences within the sun's white corona when zoomed in. Although, as a note to self, it may not be a bad idea to invest in a lens with a longer focal length for next time.
+A﻿s for my apparatus, I used the only telephoto lens I have which is the 70-200mm. Coupling that with the crop sensor Canon M50, I was able to get a focal length of 320mm. It was decent enough to capture the red prominences within sun's white corona. Although, as a note to self, it may not be a bad idea to invest in a lens with a longer focal length for next time.
 
 A﻿ll in all, this was a very humbling experience to capture the coincidental meet of the sun and moon. Lets see what I can capture during the next eclipse in 2044!
