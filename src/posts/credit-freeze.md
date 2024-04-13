@@ -2,6 +2,7 @@
 title: Do this now to protect your credit
 date: 2022-03-05T15:13:32.441Z
 tags: finance
+shareCardImage: https://ucarecdn.com/cb95fbc2-43e5-43b5-98b9-7b71edde8fc1/-/preview/-/quality/smart/-/format/auto/
 ---
 
 Data breaches are a common occurrence these days and you might have even gotten a notice or two about your personal information being part of one. If this information contains your social security number, it can be misused to signup for credit cards, services and etc which can damage credit and make you liable financially. But, fear not, with a credit freeze you can prevent anyone from accessing your credit scores. You can place credit freezes in all 3 credit bureaus and best of all, it is totally free. Each link below will take you to the credit freeze page of the respective bereau:
