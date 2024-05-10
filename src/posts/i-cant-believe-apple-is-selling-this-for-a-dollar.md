@@ -13,7 +13,7 @@ There are lot of junk being delivered to our email inboxes these days thanks to 
 
 Another nice thing is, you can reply using proxy addresses so your real email address is never exposed. In typical Apple fashion, all these features integrate really well if you use their apps — when you open up a sign up page in Safari or compose a new email in Apple Mail, you will see the option to hide your email.
 
-![Apple Mail screenshot ](https://ucarecdn.com/e695b000-687f-4df6-b12b-16db23d26779/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/ "Apple Mail screenshot")_Apple Mail compose window_
+![Apple Mail screenshot ](https://ucarecdn.com/e695b000-687f-4df6-b12b-16db23d26779/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1200x/ "Apple Mail screenshot")_Apple Mail compose window_
 
 ## Custom email domain
 
@@ -21,7 +21,7 @@ Custom email addresses usually cost about $60 a year ($5/mo.). But if you alread
 
 iCloud also gives you the option to have it be as a catch-all address. So, even if a sender mistype the address, you will still receive that email.
 
-![iCloud settings](https://ucarecdn.com/6cc8e44c-33c7-4f0b-9981-86ac516cd4aa/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/ "iCloud settings")_iCloud setting for catch-all address_
+![iCloud settings](https://ucarecdn.com/6cc8e44c-33c7-4f0b-9981-86ac516cd4aa/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1200x/ "iCloud settings")_iCloud setting for catch-all address_
 
 ## End notes
 

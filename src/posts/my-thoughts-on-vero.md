@@ -2,10 +2,10 @@
 title: My thoughts on Vero
 date: 2022-08-25T03:59:18.564Z
 tags: technology
-shareCardImage: https://ucarecdn.com/af955270-17b7-45f9-b988-8baa6d3778fc/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/640x/
+shareCardImage: https://ucarecdn.com/af955270-17b7-45f9-b988-8baa6d3778fc/-/format/auto/-/quality/normal/-/stretch/off/-/resize/640x/
 ---
 
-![Vero promo image](https://ucarecdn.com/af955270-17b7-45f9-b988-8baa6d3778fc/-/format/auto/-/quality/smart_retina/-/stretch/off/-/resize/1200x/)
+![Vero promo image](https://ucarecdn.com/af955270-17b7-45f9-b988-8baa6d3778fc/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1200x/)
 
 Lately I feel like Instagram is on a path of self destruction with its algorithm and the endless amount of ads. Focus has also shifted more towards random reels and sponsored content instead of posts from your connections. I don't enjoy scrolling through the feed as much now since its just a waste of time. [Vero](http://vero.co), another social media platform that has been around since 2015 has recently started picking up steam and I decided to give it a try.
 
