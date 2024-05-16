@@ -61,13 +61,13 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 600;
   color: var(--heading-color);
+  font-weight: 600;
 }
 
 h1 {
-  font-weight: 700;
   font-size: var(--font-h1-lg);
+  font-weight: 700;
 }
 
 h2 {
@@ -153,6 +153,27 @@ th {
   padding: 0.5rem 1rem;
   border: 1px solid var(--border-color);
   text-align: left;
+}
+
+.frame-content {
+  max-width: 650px;
+  margin: 0 auto;
+}
+
+.frame-content h1 {
+  text-align: center;
+}
+
+/* 
+ * Removes the metadata (frontmatter) from preview 
+ * Note: These selectors arent perfect and could hide other content inadvertedly
+ */
+.frame-content > div > div > div:not(div:has(p)) {
+  display: none;
+}
+
+.frame-content > div > div > div:has(h1) {
+  display: block !important;
 }
 
 /* Dark mode */
