@@ -34,7 +34,7 @@ The list below will show whats covered in Part 107. I have highlighted the impor
 
 ## Starter
 
-![Preview of Tony Northrup's study guide](https://ucarecdn.com/2eb4ef57-d144-426f-bfdd-349fee62e311/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1200x/)_Tony Northrup's study guide ([YouTube](https://www.youtube.com/watch?v=6_ucCKFJUCU))_
+![Preview of Tony Northrup's study guide](https://ucarecdn.com/2eb4ef57-d144-426f-bfdd-349fee62e311/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)_Tony Northrup's study guide ([YouTube](https://www.youtube.com/watch?v=6_ucCKFJUCU))_
 
 Video above will go over the basics and some questions from the [FAA sample test](https://www.faa.gov/training_testing/testing/test_questions/media/uag_sample_exam.pdf). Great explanations for a lot of the topics covered under part 107 and a great overview for the test. Go through it a couple of times and you will be able to answer at least 75% of the test.
 

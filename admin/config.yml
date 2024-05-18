@@ -11,7 +11,7 @@ media_library:
     publicKey: 770f402d902e72bcac7a
     tabs: "file url"
   settings:
-    defaultOperations: "/format/auto/-/quality/normal/-/stretch/off/-/resize/1200x/"
+    defaultOperations: "/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/"
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
