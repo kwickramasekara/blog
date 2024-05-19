@@ -5,7 +5,7 @@ tags: technology
 shareCardImage: https://ucarecdn.com/af955270-17b7-45f9-b988-8baa6d3778fc/-/format/auto/-/quality/normal/-/stretch/off/-/resize/640x/
 ---
 
-![Vero promo image](https://ucarecdn.com/af955270-17b7-45f9-b988-8baa6d3778fc/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1200x/)
+![Vero promo image](https://ucarecdn.com/af955270-17b7-45f9-b988-8baa6d3778fc/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
 
 Lately I feel like Instagram is on a path of self destruction with its algorithm and the endless amount of ads. Focus has also shifted more towards random reels and sponsored content instead of posts from your connections. I don't enjoy scrolling through the feed as much now since its just a waste of time. [Vero](http://vero.co), another social media platform that has been around since 2015 has recently started picking up steam and I decided to give it a try.
 

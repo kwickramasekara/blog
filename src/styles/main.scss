@@ -354,8 +354,17 @@ footer {
   }
 }
 
-.post article img {
-  max-width: 100%;
+.post-content {
+  img {
+    max-width: 100%;
+    border-radius: 2px;
+  }
+  .with-placeholder {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    width: 100%;
+  }
 }
 
 /* Header link text change when hover is supported (non-touch device) */

@@ -7,7 +7,7 @@ shareCardImage: https://ucarecdn.com/bc00d826-8b5b-4276-b027-b16550673b17/-/form
 
 Grocery shopping is something I have been doing every week at Kroger and when they announced their own grocery delivery service ([Boost](https://www.kroger.com/pr/boost)), I signed up to try. This is an added premium service on top of their free membership. It costs $59 per year and with that, you get next-day free delivery and double fuel points. If you want quicker same-day delivery, they also have another tier which costs $99 per year.
 
-![Promotional image of Kroger Boost program](https://ucarecdn.com/bc00d826-8b5b-4276-b027-b16550673b17/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1200x/)_Kroger Boost promo ([YouTube](https://www.youtube.com/watch?v=NqzUocbYVBc))_
+![Promotional image of Kroger Boost program](https://ucarecdn.com/bc00d826-8b5b-4276-b027-b16550673b17/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)_Kroger Boost promo ([YouTube](https://www.youtube.com/watch?v=NqzUocbYVBc))_
 
 Process is quite simple and easy - you can create a shopping list in your Kroger account and go to the checkout where they show delivery times. They have hourly blocks you can choose from and I usually pick morning deliveries. On the day of delivery, you get text notifications for substitutions if any items in the order is out of stock. You also get notified before and after the order is being delivered.
 
