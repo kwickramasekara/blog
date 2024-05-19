@@ -12,9 +12,9 @@ shareCardImage: https://ucarecdn.com/73cffde6-826b-4319-82a1-a808c89eda79/-/form
 One of the questions I get asked a lot is what gear I use. So lets explore
 what's in my arsenal that help me do what I do.
 
-## Before we begin...
+## Preface
 
-Contrary to popular belief, you don't really need high-end, pricey gear to create good images. What is more important though is having good light and good composition. A camera is just a tool and once you know the basics of how to control light and motion it is pretty easy to create beautiful images. Trust me, there is no magic camera out there that can create award winning images with just a single click of a button. The only way I got to where I am now is by just doing it again and again - experimenting, learning new methods and such. It's a continuous process and I am still learning and honing my skills.
+Contrary to popular belief, you don't really need high-end, pricey gear to create good images. What is more important though, is having good light and good composition. A camera is just a tool and once you know the basics of how to control light and motion it is pretty easy to create beautiful images. Trust me, there is no magic camera out there that can create award winning images with just a single click of a button. The only way I got to where I am now is by just doing it again and again - experimenting, learning new methods and such. It's a continuous process and I am still learning and honing my skills.
 
 ## Camera bodies
 
