@@ -38,6 +38,8 @@ Include captions for all images as a general rule of thumb. Some images maybe us
 **Style:**
 This is styled to look like the emphasis text appears right below the image with a smaller font size and muted color.
 
+**Note:** Image elements get enhanced with lazy loading and placeholder blur effect during markdown to html compilation. See `.eleventy.js` and `images.js` for more details.
+
 #### Image attributions
 
 Proper attribution for image sources are required. Add a link to source within image caption that reads as follows:

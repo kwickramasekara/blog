@@ -3,13 +3,17 @@ const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const njkFilters = require("nunjucks/src/filters");
-
-const markdownLib = markdownIt({ html: true }).use(markdownItAnchor); // set IDs to headings
+const { parseHTML } = require("linkedom");
+const { getImageMetadata, modifyImageURL } = require("./images");
 
 const META_DESCRIPTION_LENGTH = 160; // https://moz.com/learn/seo/meta-description
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.setLibrary("md", markdownLib);
+  // set IDs to headings
+  eleventyConfig.setLibrary(
+    "md",
+    markdownIt({ html: true }).use(markdownItAnchor)
+  );
 
   eleventyConfig.addWatchTarget("./src/styles/");
 
@@ -59,6 +63,48 @@ module.exports = function (eleventyConfig) {
     }
 
     return null;
+  });
+
+  eleventyConfig.addTransform("transformImages", async (content, outPath) => {
+    if (outPath && outPath.endsWith(".html")) {
+      let { document } = parseHTML(content);
+      const images = [...document.querySelectorAll(".post-content img")];
+
+      // Create an array of promises for each image processing task
+      const imagePromises = images.map(async (img) => {
+        const src = img.getAttribute("src") || "";
+        const metadata = await getImageMetadata(src);
+
+        if (metadata && metadata.lqip && metadata.width && metadata.height) {
+          img.setAttribute("loading", "lazy");
+          img.setAttribute("decoding", "async");
+          img.setAttribute("class", "with-placeholder");
+          img.setAttribute("width", metadata.width);
+          img.setAttribute("height", metadata.height);
+          img.setAttribute(
+            "src",
+            modifyImageURL(src, metadata.width, metadata.height)
+          );
+          img.setAttribute(
+            "style",
+            `aspect-ratio: ${
+              metadata.width / metadata.height
+            };background-image: url('data:image/${metadata.original.format.toLowerCase()};base64,${
+              metadata.lqip
+            }');`
+          );
+        }
+      });
+
+      // Wait for all image processing tasks to complete
+      await Promise.all(imagePromises);
+
+      // Return the modified HTML content
+      return `${document.documentElement.outerHTML}`;
+    }
+
+    // Return the original HTML content if the file is not a blog post
+    return content;
   });
 
   return {
