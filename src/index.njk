@@ -17,8 +17,10 @@ title: Blog
     </div>
   </div>
 
+  {% for year, yearPosts in collections.postsByYear %}
+  <h2 class="post-list-heading">{{ year }}</h2>
   <ul class="post-list">
-    {% for post in collections.post | reverse %}
+    {% for post in yearPosts | reverse %}
     <li>
       <a class="post-link" href="{{ post.data.page.url }}">{{
         post.data.title
@@ -29,4 +31,5 @@ title: Blog
     </li>
     {% endfor %}
   </ul>
+  {% endfor %}
 </main>

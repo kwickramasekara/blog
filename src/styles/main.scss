@@ -35,6 +35,7 @@ $site-title-size: 1.5rem;
   --table-head-bg-color: var(--gray-1);
   --accent-text-color: var(--blue-light);
   --accent-text-color--hover: var(--blue-dark);
+  --muted-text-color: var(--gray-2);
   --border-color: var(--gray-2);
   --font-h1: 2.25rem;
   --font-h1-lg: 3rem;
@@ -310,6 +311,13 @@ footer {
   }
 }
 
+.post-list-heading {
+  color: var(--muted-text-color);
+  font-size: var(--font-h3);
+  line-height: 1;
+  margin-top: calc($base-unit * 2.5);
+}
+
 @media screen and (min-width: $screen-md) {
   .author-image-container {
     justify-self: unset;
@@ -402,6 +410,7 @@ footer {
     --table-head-bg-color: var(--gray-9);
     --accent-text-color: var(--blue-dark);
     --accent-text-color--hover: var(--blue-light);
+    --muted-text-color: var(--gray-8);
     --border-color: var(--gray-8);
   }
 }

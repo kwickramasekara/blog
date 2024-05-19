@@ -1,6 +1,6 @@
 ---
 title: Building a home theater on a budget
-date: 2019-11-24T23:52:24-06:00
+date: 2018-11-24T23:52:24-06:00
 tags: lifestyle
 shareCardImage: https://ucarecdn.com/cb95fbc2-43e5-43b5-98b9-7b71edde8fc1/-/preview/-/quality/smart/-/format/auto/
 ---
