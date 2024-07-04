@@ -18,6 +18,10 @@ I invite you to join me on this quest. Through my blog, I aim to share the beaut
 
 Whether you're a fellow traveler, a nature lover, or someone who simply appreciates the beauty of our natural world, I hope my journey inspires you. Let's explore, protect, and celebrate these incredible national treasures together.
 
+## U.S. national parks checklist
+
+The table below lists all 63 U.S. national parks, along with their respective states. As I visit each park, I'll update the table to mark my progress. Feel free to check back often to see my progress and read about my adventures in each park.
+
 | National Park                    | State                        | Visited |
 | -------------------------------- | ---------------------------- | ------- |
 | Acadia                           | Maine                        |         |
