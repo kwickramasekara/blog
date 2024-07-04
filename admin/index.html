@@ -7,13 +7,13 @@
     <title>Content Manager - Blog</title>
   </head>
   <body>
-    <!-- Include the script that builds the page and powers Netlify CMS -->
-    <script src="https://unpkg.com/netlify-cms@2.10.192/dist/netlify-cms.js"></script>
+    <!-- Include the script that builds the page and powers Decap CMS -->
+    <script src="https://unpkg.com/decap-cms@^3.1.11/dist/decap-cms.js"></script>
     <script>
       CMS.registerPreviewStyle("/admin/preview.css");
       CMS.registerRemarkPlugin({
         settings: { bullet: "-", emphasis: "_", rule: "-" },
-      }); // use same config as Prettier for Netlify CMS editor
+      }); // use same config as Prettier for Decap CMS editor
     </script>
   </body>
 </html>

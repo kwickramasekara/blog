@@ -2,7 +2,6 @@
 title: What they don't teach you in school
 date: 2021-03-04T08:36:30-06:00
 tags: finance
-shareCardImage: https://ucarecdn.com/cb95fbc2-43e5-43b5-98b9-7b71edde8fc1/-/preview/-/quality/smart/-/format/auto/
 ---
 
 With the Covid-19 pandemic, we saw many financial implications like layoffs, evictions, business shutdowns, etc. If we look at historical data, we can also see that economies don't remain consistent and there are always going to be ups and downs. In the event of these downturns, it's never a good idea to wait for the government to throw a lifeline as we all saw how things turned out. It is in our best interest to be prepared and learn to put away some money for a rainy day so we can stay afloat.

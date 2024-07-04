@@ -2,7 +2,6 @@
 title: Tips and tricks for travel
 date: 2017-12-12T18:57:52-06:00
 tags: lifestyle
-shareCardImage: https://ucarecdn.com/cb95fbc2-43e5-43b5-98b9-7b71edde8fc1/-/preview/-/quality/smart/-/format/auto/
 ---
 
 I have been traveling quite a bit after graduating college and I just wanted to create this post to outline some of the tips and tricks I’v found over time.

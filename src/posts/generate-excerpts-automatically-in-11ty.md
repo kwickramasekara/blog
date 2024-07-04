@@ -2,7 +2,6 @@
 title: Generate excerpts automatically in 11ty
 date: 2022-08-12T15:23:10.474Z
 tags: technology
-shareCardImage: https://ucarecdn.com/cb95fbc2-43e5-43b5-98b9-7b71edde8fc1/-/preview/-/quality/smart/-/format/auto/
 ---
 
 We usually have to add descriptions as `<meta>` tags for SEO and social media sharing. This can be a tedious process if done manually because you also need to make sure the content is within 150-160 characters per [SEO guidelines](https://moz.com/learn/seo/meta-description). Fortunately, this can be automated with a filter to create an excerpt from page content, and it works great for blog posts.
@@ -11,13 +10,13 @@ For this little script, we can use some of the filters that Nunjucks already pro
 
 So first, import Nunjucks filters into your eleventy config:
 
-```js
+```javascript
 const njkFilters = require("nunjucks/src/filters");
 ```
 
 Next, add the filter inside main function as below:
 
-```js
+```javascript
 module.exports = function (eleventyConfig) {
   eleventyConfig.addNunjucksFilter("metaDescription", function (content) {
     if (content) {
@@ -60,7 +59,7 @@ What is happening above is as follows:
 
 Now, you can use this filter in any of the Nunjucks templates to add an excerpt as meta description:
 
-```js
+```javascript
 {% raw %}<meta name="description" content="{{ content | metaDescription }}" />{% endraw %}
 ```
 
