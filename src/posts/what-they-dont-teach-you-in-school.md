@@ -1,6 +1,6 @@
 ---
 title: What they don't teach you in school
-date: 2021-03-04T08:36:30-06:00
+date: 2021-03-04T08:36:30.1Z
 tags: finance
 ---
 
