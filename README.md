@@ -1,11 +1,11 @@
 # Blog
 
-A minimal blog made with [eleventy](https://www.11ty.dev/) - content managed with [Netlify CMS](https://www.netlifycms.org) and hosted at [Netlify](https://www.netlify.com/).
+A minimal blog made with [eleventy](https://www.11ty.dev/) - content managed with [Decap CMS](https://decapcms.org/) and hosted at [Netlify](https://www.netlify.com/).
 
 ## Local Development
 
 - `dev` - Starts serving the site locally at 8080.
-- `dev:cms` - Starts a Netlify CMS server locally.
+- `dev:cms` - Starts a Decap CMS server locally.
   1. Run both `dev` and `dev:cms` in parallel.
   2. Point the browser to `http://localhost:8080/admin`.
 
@@ -15,7 +15,7 @@ Git hooks are enabled with [Husky](https://typicode.github.io/husky) to run Pret
 ## Folder Structure
 
 - `.husky` - Git hooks.
-- `admin` - Netlify CMS for authoring blog posts.
+- `admin` - Decap CMS for authoring blog posts.
 - `dist` - Git ignored; build dumps all static files here.
 - `src` - All source files read by eleventy.
   - `posts` directory can be extracted out for site migrations.
