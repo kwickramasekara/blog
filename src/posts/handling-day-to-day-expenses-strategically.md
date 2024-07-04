@@ -2,7 +2,6 @@
 title: Handling day to day expenses strategically
 date: 2023-01-02T02:10:00.000Z
 tags: finance
-shareCardImage: https://ucarecdn.com/cb95fbc2-43e5-43b5-98b9-7b71edde8fc1/-/preview/-/quality/smart/-/format/auto/
 ---
 
 Managing day to day expenses can be daunting, especially the ones with big numbers. However, with a bit of organization and planning, it's possible to keep expenses in check and even save money in the process.

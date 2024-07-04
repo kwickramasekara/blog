@@ -2,7 +2,6 @@
 title: Building a home theater on a budget
 date: 2018-11-24T23:52:24-06:00
 tags: lifestyle
-shareCardImage: https://ucarecdn.com/cb95fbc2-43e5-43b5-98b9-7b71edde8fc1/-/preview/-/quality/smart/-/format/auto/
 ---
 
 Theres a lot to consider when you are building a home theater for the first time. It can be kind of overwhelming let alone trying to do everything confined to a certain budget. So I have compiled most of the basic details necessary and what I used to build my small entertainment space as a guide to help anyone that may find useful.

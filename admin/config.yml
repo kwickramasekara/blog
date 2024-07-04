@@ -35,6 +35,7 @@ collections:
           label: "Share card image",
           name: "shareCardImage",
           widget: "string",
-          default: "https://ucarecdn.com/cb95fbc2-43e5-43b5-98b9-7b71edde8fc1/-/preview/-/quality/smart/-/format/auto/",
+          required: false,
+          hint: "Use the following Uploadcare operations: /-/format/auto/-/quality/normal/-/stretch/off/-/resize/640x/",
         }
       - { label: "Body", name: "body", widget: "markdown" }

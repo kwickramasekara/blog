@@ -2,12 +2,13 @@
 title: National park quest
 date: 2024-06-29T03:47:23.488Z
 tags: lifestyle
-shareCardImage: https://ucarecdn.com/cb95fbc2-43e5-43b5-98b9-7b71edde8fc1/-/preview/-/quality/smart/-/format/auto/
 ---
+
+![Yosemite Valley, Yosemite National Park](https://ucarecdn.com/848f53cc-8dc5-4cfa-9921-a950bc46a842/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
 
 There's something indescribable about the call of the wild, the thrill of the open road, and the allure of nature's most pristine landscapes. As an avid traveler and landscape photographer, I find myself irresistibly drawn to the national parks in the U.S. Each park is a treasure trove of natural wonders, offering unique vistas, diverse ecosystems, and endless opportunities for exploration and photography.
 
-## My journey to visit and photograph all 63 national parks
+## T﻿he goal to visit all the U.S national parks
 
 This journey began a few years ago, fueled by my passion for capturing the beauty of the great outdoors and sharing it with others. It’s more than just a checklist; it's about immersing myself in each park's distinct character, discovering its hidden gems, and documenting the experience through my lens and words.
 
