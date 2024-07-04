@@ -36,6 +36,6 @@ collections:
           name: "shareCardImage",
           widget: "string",
           required: false,
-          hint: "Use the following Uploadcare operations: /-/format/auto/-/quality/normal/-/stretch/off/-/resize/640x/",
+          hint: "Recommended Uploadcare operations: /-/format/auto/-/quality/normal/-/stretch/off/-/resize/640x/",
         }
       - { label: "Body", name: "body", widget: "markdown" }
