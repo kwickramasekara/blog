@@ -1,6 +1,6 @@
 ---
 title: Building a home theater on a budget
-date: 2018-11-24T23:52:24-06:00
+date: 2018-11-24T23:52:24.1Z
 tags: lifestyle
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Always shoot RAW
-date: 2017-09-08T23:15:40-06:00
+date: 2017-09-08T23:15:40.1Z
 tags: photography
 shareCardImage: https://ucarecdn.com/1d5ab221-2ef3-4771-a77a-06704d1f70ed/-/format/auto/-/quality/normal/-/stretch/off/-/resize/640x/
 ---

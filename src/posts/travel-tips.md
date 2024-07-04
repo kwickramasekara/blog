@@ -1,6 +1,6 @@
 ---
 title: Tips and tricks for travel
-date: 2017-12-12T18:57:52-06:00
+date: 2017-12-12T18:57:52.1Z
 tags: lifestyle
 ---
 

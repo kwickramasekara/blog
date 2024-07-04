@@ -1,6 +1,6 @@
 ---
 title: Photography gear I use for landscapes
-date: 2018-08-10T23:44:05-06:00
+date: 2018-08-10T23:44:05.1Z
 tags: photography
 shareCardImage: https://ucarecdn.com/73cffde6-826b-4319-82a1-a808c89eda79/-/format/auto/-/quality/normal/-/stretch/off/-/resize/640x/
 ---
