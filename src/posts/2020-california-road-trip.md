@@ -2,6 +2,7 @@
 title: Road tripping through California and Nevada
 date: 2020-03-10T19:21:00.000Z
 tags: travel
+shareCardImage: https://ucarecdn.com/f77d9e86-1639-41da-81e8-c415c38d0ec5/-/format/auto/-/quality/normal/-/stretch/off/-/resize/640x/
 ---
 
 ![](https://ucarecdn.com/1834132b-f7ab-47b7-9d6e-5aa5f3b02c08/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
