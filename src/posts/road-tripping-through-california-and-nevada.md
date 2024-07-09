@@ -2,7 +2,7 @@
 title: Road tripping through California and Nevada
 date: 2020-03-10T19:21:00.000Z
 tags: travel
-shareCardImage: https://ucarecdn.com/f77d9e86-1639-41da-81e8-c415c38d0ec5/-/format/auto/-/quality/normal/-/stretch/off/-/resize/640x/
+shareCardImage: https://ucarecdn.com/1834132b-f7ab-47b7-9d6e-5aa5f3b02c08/-/format/auto/-/quality/normal/-/stretch/off/-/resize/640x/
 ---
 
 ![](https://ucarecdn.com/1834132b-f7ab-47b7-9d6e-5aa5f3b02c08/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
@@ -79,9 +79,9 @@ The park's petroglyphs, ancient rock carvings left by indigenous people, added a
 
 ## Looking back
 
-Just as I wrapped up my adventure and flew back home, the news about COVID-19 got really serious. Within days, the country went into lockdown, and travel came to a screeching halt. I couldn’t believe how lucky I was to have squeezed in this trip right before everything changed.
+Just as I wrapped up my adventure and flew back home, the news about COVID-19 got really serious. Within days, the country went into lockdown, and travel came to a screeching halt. I couldn’t believe how lucky it was to have this trip squeezed in right before everything changed.
 
-This trip was not just a great escape but a much-needed breath of fresh air before we all hunkered down for who knew how long. It was a reminder of the incredible beauty out there, just waiting to be explored, and how quickly things can change. I definitely enjoyed all the beauty of these three parks and the Range Rover happily ate all the miles while giving me smiles.
+This was a much-needed breath of fresh air before we all hunkered down for who knew how long. It was a reminder of the incredible beauty out there, just waiting to be explored, and how quickly things can change. I definitely enjoyed all the beauty of these three parks and the Range Rover happily ate all the miles while giving me smiles.
 
 ![Route](https://ucarecdn.com/f8e082b1-d29f-45ff-b144-aa56a8af9a49/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
 _1350 miles driven over 5 days ([Full Resolution](https://ucarecdn.com/f8e082b1-d29f-45ff-b144-aa56a8af9a49/-/format/auto/-/quality/best/-/resize/3000x/))_
