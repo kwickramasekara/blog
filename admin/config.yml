@@ -31,6 +31,7 @@ collections:
           - { label: "Miscellaneous", value: "miscellaneous" }
           - { label: "Photography", value: "photography" }
           - { label: "Technology", value: "technology" }
+          - { label: "Travel", value: "travel" }
       - {
           label: "Share card image",
           name: "shareCardImage",

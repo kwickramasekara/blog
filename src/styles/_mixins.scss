@@ -4,6 +4,12 @@
   line-height: $lheight;
   margin: $size 0 $font-size-base 0;
   color: var(--heading-color);
+
+  &:focus-visible {
+    outline-style: dotted;
+    outline-width: 2px;
+    outline-color: var(--heading-color);
+  }
 }
 
 @mixin columns() {
