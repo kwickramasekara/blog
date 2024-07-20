@@ -19,6 +19,8 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("admin");
 
+  eleventyConfig.addPassthroughCopy({ "assets/favicon.ico": "/favicon.ico" });
+
   eleventyConfig.addPlugin(syntaxHighlight, {
     templateFormats: ["md"],
   });
