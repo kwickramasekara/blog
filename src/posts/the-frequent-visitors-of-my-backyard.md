@@ -2,6 +2,7 @@
 title: The frequent visitors of my backyard
 date: 2024-07-21T18:30:00.000Z
 tags: lifestyle
+shareCardImage: https://ucarecdn.com/4d43115c-64e1-4d90-8522-9952f806beea/-/format/auto/-/quality/normal/-/crop/4:3/-/resize/640x/
 ---
 As a hobbyist photographer, there’s nothing quite like the thrill of capturing the beauty of nature right in my own backyard. Over the past few months, I've been lucky to have some frequent visitors that have become the stars of my photography sessions. From cottontail rabbits and northern cardinals to mourning doves, each of these creatures has brought a unique touch of wildlife wonder to my home.
 
