@@ -4,7 +4,6 @@ date: 2020-03-10T19:21:00.000Z
 tags: travel
 shareCardImage: https://ucarecdn.com/1834132b-f7ab-47b7-9d6e-5aa5f3b02c08/-/format/auto/-/quality/normal/-/stretch/off/-/resize/640x/
 ---
-
 ![](https://ucarecdn.com/1834132b-f7ab-47b7-9d6e-5aa5f3b02c08/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
 _Valley of fire state park during sunset_
 
@@ -19,22 +18,22 @@ _Range Rover Sport in its natural habitat_
 
 This place is absolutely surreal. The vast, barren landscape feels otherworldly, and the light during sunrise and sunset is a photographer's dream. One of my first stops was the Mesquite Flat Sand Dunes. Walking across these dunes feels like being on another planet. The ripples in the sand, the way the light and shadows play during golden hour, it's a landscape photographer's paradise.
 
-![](https://ucarecdn.com/742822c1-7827-4269-b823-8a9943ffb87d/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
+![](https://ucarecdn.com/8ef58ca3-7d37-4728-8ca1-b517515d5622/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
 _Mesquite Flat sand dunes_
 
 Next, I headed to Zabriskie Point. The view from this overlook is nothing short of spectacular. The eroded, colorful badlands create a patchwork of yellows, reds, and browns. Sunrise at Zabriskie Point is something every photographer should experience at least once—the way the light washes over the landscape is magical.
 
-![](https://ucarecdn.com/51bf8ad6-5127-4c29-a7b8-8dbf2c429e29/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
+![](https://ucarecdn.com/030dff09-f7be-4265-a0b6-03ea73e17ef9/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
 _Composite image of the Zabriskie point and Milky way_
 
 Another highlight was the Badwater Basin, the lowest point in North America at 282 feet below sea level. The salt flats here stretch out for miles, creating a stark white landscape that contrasts beautifully with the surrounding mountains. It’s an eerie but breathtaking place to visit.
 
-![](https://ucarecdn.com/0d685639-5f40-4868-ba2d-930589690139/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
+![](https://ucarecdn.com/03b9d38d-d6fc-48e8-9fa4-c97cab5299fe/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
 _Walking on salt flats that stretch out for miles_
 
 Then there's Dante's View, which offers a panoramic vista of the entire valley. Standing at 5,475 feet above sea level, you get an incredible perspective of the valley floor and the mountains beyond. It’s one of the best spots to capture the vastness and variety of Death Valley’s terrain.
 
-![](https://ucarecdn.com/8663c362-fc1d-4f13-a302-8ea58e465335/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
+![](https://ucarecdn.com/c5cd5f56-f65c-4b84-966d-de5c271256d5/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
 _Dante's view overlooking the salt flats_
 
 The night before I left for Joshua Tree, I stayed at the historic Amargosa Opera House and Hotel in Death Valley Junction. This place has an interesting history. Built in the 1920s, it was later revived by Marta Becket, a New York City ballet dancer who stumbled upon it in the 1960s. She transformed the space, although, not many tourists visit due to its remote location. So she painted an audience to the walls and performed for them. It felt like stepping back in time, and it added a unique touch to the adventure.
@@ -57,17 +56,19 @@ After soaking in the stark beauty of Death Valley, I headed to Joshua Tree Natio
 
 One of the highlights was the Cholla Cactus Garden. These cacti, known as "teddy bear" chollas, look soft and cuddly from a distance, but get too close, and you'll quickly find out they aren't so friendly. The garden was a mesmerizing sight, especially in the late evening light, with the cacti glowing like they were lit from within.
 
-![](https://ucarecdn.com/87371660-5240-42ae-b183-962a846e268a/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)_Cholla cacti radiating with the help of sunlight_
+![](https://ucarecdn.com/6ec5f939-82d1-43ba-8a3b-3a068793c38a/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
+_Cholla cacti radiating with the help of sunlight_
 
 I also hiked around Hidden Valley and Barker Dam, snapping photos of the surreal landscapes and iconic Joshua Trees. The park has a certain magic to it, especially as the sun dips below the horizon and the sky explodes with stars.
 
-![](https://ucarecdn.com/a9bbb7e4-6523-4843-aabf-b9f925e78285/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)_Night sky in Joshua Tree_
+![](https://ucarecdn.com/f998bc76-aae8-4268-9a6f-ed66bca0ba88/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
+_Night sky in Joshua Tree_
 
 ## Valley of fire state park
 
 The final stop on my road trip was Valley of Fire State Park. This place blew me away with its vibrant red sandstone formations. Driving through the Mouse's Tank Road was a big highlight for me. This road winds through the park, offering incredible views of the red and orange rock formations on either side. It's a dream for photographers, with each turn revealing a new breathtaking scene.
 
-![](https://ucarecdn.com/16611a3b-2eae-4e33-847c-b5a690808aaa/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
+![](https://ucarecdn.com/a93fe0ae-f8b0-4303-9c31-98d6922f43a3/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
 _Mouse Tank road_
 
 The Fire Wave was another stunning spot. The swirling patterns and vivid colors of the rock make it look like a frozen wave of fire, especially during the late afternoon when the sun casts a warm glow. Hiking to the Fire Wave was an adventure in itself, winding through narrow canyons and over rocky terrain.
