@@ -53,7 +53,7 @@ The table below lists all 63 U.S. national parks, along with their respective st
 | Great Basin                                                           | Nevada                       |         |
 | Great Sand Dunes                                                      | Colorado                     | ✅       |
 | Great Smoky Mountains                                                 | North Carolina and Tennessee |         |
-| Guadalupe Mountains                                                   | Texas                        |         |
+| Guadalupe Mountains                                                   | Texas                        | ✅       |
 | Haleakala                                                             | Hawaii                       |         |
 | Hawaii Volcanoes                                                      | Hawaii                       |         |
 | Hot Springs                                                           | Arkansas                     | ✅       |
@@ -78,7 +78,7 @@ The table below lists all 63 U.S. national parks, along with their respective st
 | Rocky Mountain                                                        | Colorado                     | ✅       |
 | Saguaro                                                               | Arizona                      |         |
 | Sequoia                                                               | California                   | ✅       |
-| Shenandoah                                                            | Virginia                     |         |
+| Shenandoah                                                            | Virginia                     | ✅       |
 | Theodore Roosevelt                                                    | North Dakota                 |         |
 | Virgin Islands                                                        | Virgin Islands               |         |
 | Voyageurs                                                             | Minnesota                    |         |
@@ -89,4 +89,4 @@ The table below lists all 63 U.S. national parks, along with their respective st
 | Yosemite                                                              | California                   | ✅       |
 | Zion                                                                  | Utah                         | ✅       |
 
-**Total national parks visited:** 21/63 (33%)
+**Total national parks visited:** 23/63 (37%)
