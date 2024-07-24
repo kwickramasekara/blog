@@ -13,8 +13,9 @@ media_library:
   settings:
     defaultOperations: "/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/"
 collections:
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog" # Used in the UI
+  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+    label: "Posts" # Used in the UI
+    label_singular: "Post" # Used in the UI for one instance of the collection
     folder: "src/posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md

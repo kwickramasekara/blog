@@ -4,6 +4,7 @@ date: 2020-03-10T19:21:00.000Z
 tags: travel
 shareCardImage: https://ucarecdn.com/1834132b-f7ab-47b7-9d6e-5aa5f3b02c08/-/format/auto/-/quality/normal/-/stretch/off/-/resize/640x/
 ---
+
 ![](https://ucarecdn.com/1834132b-f7ab-47b7-9d6e-5aa5f3b02c08/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
 _Valley of fire state park during sunset_
 

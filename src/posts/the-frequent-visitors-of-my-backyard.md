@@ -4,6 +4,7 @@ date: 2024-07-21T18:30:00.000Z
 tags: photography
 shareCardImage: https://ucarecdn.com/4d43115c-64e1-4d90-8522-9952f806beea/-/format/auto/-/quality/normal/-/crop/4:3/-/resize/640x/
 ---
+
 As a hobbyist photographer, there’s nothing quite like the thrill of capturing the beauty of nature right in my own backyard. Over the past few months, I've been lucky to have some frequent visitors that have become the stars of my photography sessions. From cottontail rabbits and northern cardinals to mourning doves, each of these creatures has brought a unique touch of wildlife wonder.
 
 ## The Northern Cardinals
@@ -22,7 +23,7 @@ These little guys are usually most active in the early morning and late evening.
 
 ![](https://ucarecdn.com/ac1dd62e-2993-4e97-a58d-1da9fd481163/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
 
-Perhaps the most heartwarming of my backyard wildlife encounters involves the mourning doves. These gentle birds have made my porch their nesting ground. Over the past few months, they’ve built a nest and laid eggs three times. Watching the little doves hatch and grow has been an incredible experience. 
+Perhaps the most heartwarming of my backyard wildlife encounters involves the mourning doves. These gentle birds have made my porch their nesting ground. Over the past few months, they’ve built a nest and laid eggs three times. Watching the little doves hatch and grow has been an incredible experience.
 
 ![](https://ucarecdn.com/c9d01e6b-9cc8-44a3-b36d-b5494b9a4695/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
 
