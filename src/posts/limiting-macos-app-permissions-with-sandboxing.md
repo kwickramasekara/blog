@@ -34,12 +34,13 @@ The other part to this is that I wanted ProNotes to auto-launch when I log in. S
 2. Create a New Document - choose “Application” as the document type.
 3. Add a "Run Shell Script" action
 4. Paste this script (edit the app path):
+
    ```bash
 sandbox-exec -p '(version 1)(allow default)(allow mach*)(deny network-outbound)(deny network-inbound)(deny network-bind)' /<APP LOCATION>/ProNotes &> /dev/null & exit 0
    ```
-
    - Update `APP LOCATION`
    - The trailing `&> /dev/null & exit 0` ensures Automator’s wrapper finishes cleanly while your app stays open.
+
 5. Save the Automator application somewhere you like.
 6. Go to System Settings > Users & Groups > Login Items, and add the saved Automator app.
 
