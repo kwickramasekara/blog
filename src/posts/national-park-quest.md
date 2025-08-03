@@ -40,7 +40,7 @@ The table below lists all 63 U.S. national parks, along with their respective st
 | Congaree                                                              | South Carolina               |         |
 | Crater Lake                                                           | Oregon                       |         |
 | Cuyahoga Valley                                                       | Ohio                         | ✅       |
-| [Death Valley](/2020-california-road-trip#death-valley-national-park) | California                   | ✅       |
+| [Death Valley](/road-tripping-through-california-and-nevada#death-valley-national-park) | California                | ✅       |
 | Denali                                                                | Alaska                       |         |
 | Dry Tortugas                                                          | Florida                      |         |
 | Everglades                                                            | Florida                      |         |
@@ -59,7 +59,7 @@ The table below lists all 63 U.S. national parks, along with their respective st
 | Hot Springs                                                           | Arkansas                     | ✅       |
 | Indiana Dunes                                                         | Indiana                      |         |
 | Isle Royale                                                           | Michigan                     |         |
-| [Joshua Tree](/2020-california-road-trip#joshua-tree-national-park)   | California                   | ✅       |
+| [Joshua Tree](/road-tripping-through-california-and-nevada#joshua-tree-national-park)   | California                   | ✅       |
 | Katmai                                                                | Alaska                       |         |
 | Kenai Fjords                                                          | Alaska                       |         |
 | Kobuk Valley                                                          | Alaska                       |         |
