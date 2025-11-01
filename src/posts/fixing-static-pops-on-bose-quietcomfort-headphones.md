@@ -5,7 +5,7 @@ tags: technology
 ---
 If you own a pair of Bose QuietComfort or QuietComfort 45 headphones, chances are you've experienced the dreaded static pops. I know I have, and honestly, it's been one of the most frustrating issues I've dealt with on what are otherwise incredible headphones. The weird part? This is a well-documented problem at this point, and I'm genuinely surprised Bose hasn't pushed out a firmware update to fix it.
 
-There are actually two distinct issues happening here. First, there are these loud, longer static pops that seem to occur randomly when you have multi-point connections enabled. Second, there are brief crackles that pop up when you're doing things like switching between apps on your phone. The solution I'm sharing today will fix the first issue completely. Unfortunately, I haven't found a fix for those brief crackles yet, but at least we can eliminate the more annoying problem.
+There are actually two distinct issues happening here. First, there are these loud, longer static pops that seem to occur randomly when you have multi-point connections enabled. Second, there are brief crackles that pop up when you're doing things like switching between apps on your phone. The solution I'm sharing below will fix the first issue completely. Unfortunately, I haven't found a fix for those brief crackles yet, but at least we can eliminate the more annoying problem.
 
 ## Understanding the Problem
 
