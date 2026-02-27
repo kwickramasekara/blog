@@ -12,7 +12,9 @@ module.exports = function (eleventyConfig) {
   // set IDs to headings
   eleventyConfig.setLibrary(
     "md",
-    markdownIt({ html: true }).use(markdownItAnchor)
+    markdownIt({ html: true }).use(markdownItAnchor, {
+      permalink: markdownItAnchor.permalink.headerLink(),
+    }),
   );
 
   eleventyConfig.addWatchTarget("./src/styles/");
@@ -43,7 +45,7 @@ module.exports = function (eleventyConfig) {
 
       // get the first paragraph element that is not empty or an HTML tag
       paragraphContent = paragraphContent.find(
-        (item) => item.trim() !== "" && item[0] !== "<"
+        (item) => item.trim() !== "" && item[0] !== "<",
       );
 
       // convert array to string
@@ -75,7 +77,7 @@ module.exports = function (eleventyConfig) {
 
     const postsByYear = uniqueYears.reduce((prev, year) => {
       const filteredPosts = posts.filter(
-        (post) => post.date.getFullYear() === year
+        (post) => post.date.getFullYear() === year,
       );
 
       return [...prev, [year, filteredPosts]];
@@ -102,7 +104,7 @@ module.exports = function (eleventyConfig) {
           img.setAttribute("height", metadata.height);
           img.setAttribute(
             "src",
-            modifyImageURL(src, metadata.width, metadata.height)
+            modifyImageURL(src, metadata.width, metadata.height),
           );
           img.setAttribute(
             "style",
@@ -110,7 +112,7 @@ module.exports = function (eleventyConfig) {
               metadata.width / metadata.height
             };background-image: url('data:image/${metadata.original.format.toLowerCase()};base64,${
               metadata.lqip
-            }');`
+            }');`,
           );
         }
       });

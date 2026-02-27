@@ -373,6 +373,12 @@ footer {
     height: auto;
     width: 100%;
   }
+
+  // markdown-it-anchor adds an anchor link to headings.
+  :is(h2, h3, h4, h5, h6) > a {
+    color: inherit;
+    text-decoration: none;
+  }
 }
 
 /* Header link text change when hover is supported (non-touch device) */
