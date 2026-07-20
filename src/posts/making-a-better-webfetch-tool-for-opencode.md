@@ -1,5 +1,5 @@
 ---
-title: Making a better webfetch tool for OpenCode
+title: Making OpenCode's webfetch actually work
 date: 2026-07-20T11:44:00.000-05:00
 tags: technology
 ---
