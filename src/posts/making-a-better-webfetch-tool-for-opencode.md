@@ -17,7 +17,7 @@ The tool isn't broken. It just does the naive thing: fire an HTTP GET, take what
 
 Firecrawl runs an actual headless browser on their end. That single fact fixes both problems at once. It renders the JS before scraping, so you get the real content off SPA sites. And it deals with the bot-protection layer for you, so pages that 403 a raw fetch come back with their actual body.
 
-The part that makes it a no-brainer for a desktop tool: Firecrawl has a keyless tier now. You POST to their scrape endpoint with no API key, no signup, no config. A thousand free scrapes a month, automatic. For an agent that fetches a handful of pages per session, that's plenty, and there's nothing for the user to set up.
+The part that makes it a no-brainer for a desktop tool: Firecrawl has a [keyless tier](https://www.firecrawl.dev/blog/firecrawl-keyless-launch) now. You POST to their scrape endpoint with no API key, no signup, no config. A thousand free scrapes a month, automatic. For an agent that fetches a handful of pages per session, that's plenty, and there's nothing for the user to set up.
 
 ## The build
 
