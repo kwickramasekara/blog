@@ -11,7 +11,9 @@ In early December, I traded 35°F in Dallas for 80°F in Florida, and it immedia
 
 Everglades National Park is huge and wild, and it absolutely delivers on the “Florida swamp” feel. I saw plenty of alligators, but after the first wave of excitement, it started to feel a bit repetitive. The real standout for me was seeing manatees for the first time, which felt genuinely special.
 
-![](https://4fk4v31mik.ucarecd.net/66574709-5e68-4400-a18c-8346095a2798/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)_Nothing says Florida quite like an alligator_
+![](https://4fk4v31mik.ucarecd.net/66574709-5e68-4400-a18c-8346095a2798/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
+
+_Nothing says Florida quite like an alligator_
 
 ## Biscayne: beautiful, but mostly underwater
 
@@ -44,3 +46,7 @@ _It's only 90 miles from this location to Cuba!_
 ## Dry Tortugas: the trip that made it
 
 Dry Tortugas National Park sits about 70 miles west of Key West and is famous for Fort Jefferson and incredible clear water. I took a seaplane out, and the views over that bright turquoise water were unreal. The best part was timing: since I was on the last seaplane back, the ferry crowds cleared out and it felt like we had the island almost to ourselves, which made the snorkeling and the whole place feel even more remote and special.
+
+![](https://4fk4v31mik.ucarecd.net/24fc3d6f-17b5-4cd5-be08-30b450e06723/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
+
+_Can't lie! I'm a sucker for these turquoise waters_
