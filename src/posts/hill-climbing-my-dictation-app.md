@@ -65,10 +65,10 @@ recordings.
 
 The table below uses four terms:
 
-- **Spelling fix.** After the model finishes, it joins split words and fixes capitals, so "next JS" becomes Next.js.
-- **Word list.** The bonus from earlier. Guesses that match a word on your list score a little higher.
-- **Fast mode.** The model commits to its single best guess at each step.
-- **Slow mode.** The model weighs several guesses before choosing. More accurate, but about twice as slow.
+- **Spelling fix** - After the model finishes, it joins split words and fixes capitals, so "next JS" becomes Next.js.
+- **Word list** - The bonus from earlier. Guesses that match a word on your list score a little higher.
+- **Fast mode** - The model commits to its single best guess at each step.
+- **Slow mode** - The model weighs several guesses before choosing. More accurate, but about twice as slow.
 
 ## The frontier
 
