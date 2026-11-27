@@ -219,7 +219,8 @@ pre[class*="language-"] {
 }
 
 // Image captions
-img + em {
+img + em,
+picture + em {
   display: block;
   font-size: var(--font-small);
   color: var(--gray-5);

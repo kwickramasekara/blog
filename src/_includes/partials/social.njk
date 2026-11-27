@@ -1,14 +1,12 @@
 <!-- Facebook Meta Tags -->
+{% set shareImage = shareCardImage or site.defaultShareCardImage %}
 <meta property="og:url" content="{{ site.url }}" />
 <meta property="og:type" content="website" />
 <meta
   property="og:title"
   content="{{ title or site.title }} - {{ site.author }}"
 />
-<meta
-  property="og:image"
-  content="{{ shareCardImage or site.defaultShareCardImage }}"
-/>
+<meta property="og:image" content="{{ shareImage | absoluteUrl(site.url) }}" />
 
 <!-- Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image" />
@@ -19,5 +17,5 @@
 />
 <meta
   name="twitter:image"
-  content="{{ shareCardImage or site.defaultShareCardImage }}"
+  content="{{ shareImage | absoluteUrl(site.url) }}"
 />

@@ -4,7 +4,7 @@ const markdownItAnchor = require("markdown-it-anchor");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const njkFilters = require("nunjucks/src/filters");
 const { parseHTML } = require("linkedom");
-const { getImageMetadata, modifyImageURL } = require("./images");
+const { getImageMetadata, modifyImageURL, getLocalImage } = require("./images");
 
 const META_DESCRIPTION_LENGTH = 160; // https://moz.com/learn/seo/meta-description
 
@@ -21,6 +21,8 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("admin");
 
+  eleventyConfig.addPassthroughCopy("src/images");
+
   eleventyConfig.addPassthroughCopy({ "assets/favicon.ico": "/favicon.ico" });
 
   eleventyConfig.addPlugin(syntaxHighlight, {
@@ -29,6 +31,16 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addNunjucksFilter("postDate", function (dateString) {
     return dayjs(dateString).format("MMM D, YYYY");
+  });
+
+  eleventyConfig.addNunjucksFilter("absoluteUrl", function (url, baseUrl) {
+    if (!url) return url;
+    if (/^(https?:)?\/\//i.test(url)) return url;
+
+    const base = baseUrl.replace(/\/+$/, "");
+    const path = url.startsWith("/") ? url : `/${url}`;
+
+    return `${base}${path}`;
   });
 
   // https://w3collective.com/calculate-reading-time-javascript/
@@ -94,6 +106,28 @@ module.exports = function (eleventyConfig) {
       // Create an array of promises for each image processing task
       const imagePromises = images.map(async (img) => {
         const src = img.getAttribute("src") || "";
+
+        // Local media library uploads get responsive variants at build time.
+        const localImage = await getLocalImage(src, {
+          alt: img.getAttribute("alt") || "",
+          title: img.getAttribute("title") || undefined,
+        });
+
+        if (localImage) {
+          if (localImage.skipped) {
+            // Preserve animation (GIF) and vector sharpness (SVG).
+            img.setAttribute("loading", "lazy");
+            img.setAttribute("decoding", "async");
+          } else {
+            const wrapper = document.createElement("div");
+            wrapper.innerHTML = localImage.html;
+            img.replaceWith(wrapper.firstElementChild);
+          }
+
+          return;
+        }
+
+        // Keep the legacy Uploadcare flow until those posts are migrated.
         const metadata = await getImageMetadata(src);
 
         if (metadata && metadata.lqip && metadata.width && metadata.height) {
@@ -110,7 +144,7 @@ module.exports = function (eleventyConfig) {
             "style",
             `aspect-ratio: ${
               metadata.width / metadata.height
-            };background-image: url('data:image/${metadata.original.format.toLowerCase()};base64,${
+            };background-image: url('data:image/jpeg;base64,${
               metadata.lqip
             }');`,
           );

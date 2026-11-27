@@ -18,6 +18,7 @@ Git hooks are enabled with [Husky](https://typicode.github.io/husky) to run Pret
 - `admin` - Decap CMS for authoring blog posts.
 - `dist` - Git ignored; build dumps all static files here.
 - `src` - All source files read by eleventy.
+  - `images` - Media committed to Git. CMS uploads are saved under `images/uploads`.
   - `posts` directory can be extracted out for site migrations.
     - `posts.11tydata.json` is only added to set global settings for blog posts.
 
@@ -38,7 +39,17 @@ Include captions for all images as a general rule of thumb. Some images maybe us
 **Style:**
 This is styled to look like the emphasis text appears right below the image with a smaller font size and muted color.
 
-**Note:** Image elements get enhanced with lazy loading and placeholder blur effect during markdown to html compilation. See `.eleventy.js` and `images.js` for more details.
+**Note:** Image elements get enhanced with lazy loading, responsive AVIF/JPEG variants, and a blurred placeholder during the Eleventy build. See `.eleventy.js` and `images.js` for more details.
+
+#### Media uploads
+
+Upload images through the Decap CMS media library. Files are committed to `src/images/uploads` and referenced as `/images/uploads/<file>` in Markdown.
+
+- JPEG, PNG, and WebP uploads are converted to WebP at quality 90 and resized to a fixed width of 2048px in the browser before they are committed. Decap uses a fixed target width, so small images (such as screenshots) are upscaled.
+- GIF and SVG uploads are left untouched to preserve animation and vector sharpness.
+- At build time, Eleventy generates 400px, 800px, and 1280px AVIF and JPEG variants in `dist/img` and a 24px blurred JPEG placeholder. It never upscales variants beyond the committed source width.
+- `src/images/share-card.png` is the default social share card. It is copied as-is, not transformed.
+- Existing posts that reference Uploadcare (`ucarecdn.com`) still use the legacy image path until they are migrated.
 
 #### Image attributions
 
