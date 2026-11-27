@@ -12,7 +12,7 @@ A minimal blog made with [eleventy](https://www.11ty.dev/) - content managed wit
 **Note:**
 Git hooks are enabled with [Husky](https://typicode.github.io/husky) to run Prettier formatting on commits.
 
-The build uses Node.js 22 (see `.nvmrc`) because `sharp` requires Node 18.17 or newer.
+The image pipeline uses `sharp`, which requires Node.js 18.17 or newer. `.nvmrc` pins Node 22 for Netlify.
 
 ## Folder Structure
 

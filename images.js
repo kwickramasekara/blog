@@ -17,6 +17,7 @@ const LQIPURL = "/preview/-/format/jpeg/-/resize/24x/-/blur/24/";
 const METADATAURL = "/resize/1280x/-/json/";
 
 const LOCAL_UPLOAD_PREFIX = "/images/uploads/";
+const LOCAL_UPLOAD_DIR = path.join(process.cwd(), "src", "images", "uploads");
 const LOCAL_IMAGE_WIDTHS = [400, 800, 1280];
 const LOCAL_IMAGE_SIZES = "(max-width: 682px) calc(100vw - 32px), 650px";
 const LOCAL_IMAGE_SKIP_EXTENSIONS = new Set([".gif", ".svg"]);
@@ -127,10 +128,10 @@ const getLocalUploadPath = function (imageURL) {
     // Use the original path if it contains malformed escape sequences.
   }
 
-  const uploadsDir = path.join(process.cwd(), "src", "images", "uploads");
-  const filePath = path.resolve(process.cwd(), "src", decodedPath.slice(1));
+  const relativePath = decodedPath.slice(LOCAL_UPLOAD_PREFIX.length);
+  const filePath = path.resolve(LOCAL_UPLOAD_DIR, relativePath);
 
-  if (!filePath.startsWith(`${uploadsDir}${path.sep}`)) return null;
+  if (!filePath.startsWith(`${LOCAL_UPLOAD_DIR}${path.sep}`)) return null;
 
   return filePath;
 };
@@ -162,10 +163,10 @@ const getLocalLQIP = function (filePath) {
  * GIF and SVG uploads are intentionally served as-is to preserve animation
  * and vector sharpness.
  * @param {string} imageURL - image URL from Markdown
- * @param {{ alt?: string, title?: string }} attributes - attributes to preserve
+ * @param {string} alt - image alt text
  * @returns {Promise<{ html: string } | { skipped: true } | null>} - picture markup or skip/null
  */
-const getLocalImage = async function (imageURL, attributes = {}) {
+const getLocalImage = async function (imageURL, alt = "") {
   const filePath = getLocalUploadPath(imageURL);
   if (!filePath) return null;
 
@@ -190,11 +191,10 @@ const getLocalImage = async function (imageURL, attributes = {}) {
     getLocalLQIP(filePath),
   ]);
 
-  const jpegSizes = metadata.jpeg;
-  const largest = jpegSizes[jpegSizes.length - 1];
+  const largest = metadata.jpeg.at(-1);
 
   const htmlAttributes = {
-    alt: attributes.alt || "",
+    alt: alt || "",
     sizes: LOCAL_IMAGE_SIZES,
     loading: "lazy",
     decoding: "async",
@@ -203,10 +203,6 @@ const getLocalImage = async function (imageURL, attributes = {}) {
       largest.width / largest.height
     };background-image: url('data:image/jpeg;base64,${lqip}');`,
   };
-
-  if (attributes.title) {
-    htmlAttributes.title = attributes.title;
-  }
 
   const html = Image.generateHTML(metadata, htmlAttributes);
 

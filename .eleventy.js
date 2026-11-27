@@ -106,12 +106,13 @@ module.exports = function (eleventyConfig) {
       // Create an array of promises for each image processing task
       const imagePromises = images.map(async (img) => {
         const src = img.getAttribute("src") || "";
+        const title = img.getAttribute("title");
 
         // Local media library uploads get responsive variants at build time.
-        const localImage = await getLocalImage(src, {
-          alt: img.getAttribute("alt") || "",
-          title: img.getAttribute("title") || undefined,
-        });
+        const localImage = await getLocalImage(
+          src,
+          img.getAttribute("alt") || "",
+        );
 
         if (localImage) {
           if (localImage.skipped) {
@@ -121,7 +122,13 @@ module.exports = function (eleventyConfig) {
           } else {
             const wrapper = document.createElement("div");
             wrapper.innerHTML = localImage.html;
-            img.replaceWith(wrapper.firstElementChild);
+            const picture = wrapper.firstElementChild;
+
+            if (title) {
+              picture.querySelector("img").setAttribute("title", title);
+            }
+
+            img.replaceWith(picture);
           }
 
           return;

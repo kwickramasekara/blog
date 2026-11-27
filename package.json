@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/kwickramasekara/blog#readme",
   "engines": {
-    "node": ">=18.17"
+    "node": "^18.17.0 || ^20.3.0 || >=21.0.0"
   },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
