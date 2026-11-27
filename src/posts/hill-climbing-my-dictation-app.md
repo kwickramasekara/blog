@@ -2,6 +2,7 @@
 title: Hill climbing my dictation app
 date: 2026-11-15T14:12:00.000-06:00
 tags: technology
+shareCardImage: https://4fk4v31mik.ucarecd.net/d4946e6c-d3c5-4cbc-b21d-21c347992708/-/format/auto/-/quality/normal/-/stretch/off/-/resize/640x/
 ---
 ![](https://4fk4v31mik.ucarecd.net/d4946e6c-d3c5-4cbc-b21d-21c347992708/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
 
