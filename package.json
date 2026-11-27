@@ -31,6 +31,9 @@
     "url": "https://github.com/kwickramasekara/blog/issues"
   },
   "homepage": "https://github.com/kwickramasekara/blog#readme",
+  "engines": {
+    "node": ">=18.17"
+  },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
     "@11ty/eleventy-fetch": "^4.0.1",
