@@ -49,7 +49,7 @@ Upload images through the Decap CMS media library. Files are committed to `src/i
 
 - JPEG, PNG, and WebP uploads are converted to WebP at quality 90 and resized to a fixed width of 2048px in the browser before they are committed. Decap uses a fixed target width, so small images (such as screenshots) are upscaled.
 - GIF and SVG uploads are left untouched to preserve animation and vector sharpness.
-- At build time, Eleventy generates 400px, 800px, and 1280px AVIF and JPEG variants in `dist/img` and a 24px blurred JPEG placeholder. It never upscales variants beyond the committed source width.
+- At build time, Eleventy generates AVIF and JPEG variants at 400px, 800px, and 1280px (capped at the source width) in `dist/img`, plus a 24px blurred JPEG placeholder.
 - `src/images/share-card.png` is the default social share card. It is copied as-is, not transformed.
 - Existing posts that reference Uploadcare (`ucarecdn.com`) still use the legacy image path until they are migrated.
 
