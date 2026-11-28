@@ -60,6 +60,12 @@ The existing Uploadcare images were migrated with `npm run migrate:images`. The 
 
 Four originals needed downscaling. Where those images have a “High Resolution” link, it points to the downscaled version. Uploadcare support remains in `images.js` as a fallback until the migration is fully verified; it can be removed after that.
 
+#### Cleaning up images for deleted posts
+
+`.github/workflows/cleanup-post-images.yml` runs on pushes to `main` that delete a post. It extracts the Cloudinary public IDs referenced by the deleted post, checks the current `src/` content on `main` and any open draft pull requests, and deletes only assets under the `blog/` folder that are no longer referenced. Images used by other posts or site-wide data are preserved.
+
+The workflow needs `CLOUDINARY_CLOUD_NAME`, `CLOUDINARY_API_KEY`, and `CLOUDINARY_API_SECRET` repository secrets. Use the workflow’s manual dispatch to dry-run or clean up images from posts deleted before the workflow existed. Locally, `npm run cleanup:images` previews the same cleanup; add `-- --apply` to delete.
+
 #### Image attributions
 
 Proper attribution for image sources are required. Add a link to source within image caption that reads as follows:

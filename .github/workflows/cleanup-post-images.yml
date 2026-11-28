@@ -1,0 +1,88 @@
+name: Clean up deleted post images
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "src/posts/**"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Report only; do not delete images"
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+  pull-requests: read
+
+concurrency:
+  group: cleanup-post-images
+  cancel-in-progress: false
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch branches and pull requests
+        run: |
+          git fetch --prune origin \
+            '+refs/heads/*:refs/remotes/origin/*' \
+            '+refs/pull/*/head:refs/remotes/pull/*'
+
+      - name: Clean up images
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+          CLOUDINARY_CLOUD_NAME: ${{ secrets.CLOUDINARY_CLOUD_NAME }}
+          CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
+          CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
+        run: |
+          set -euo pipefail
+
+          if [ "$GITHUB_EVENT_NAME" = "push" ]; then
+            if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+              echo "No usable before SHA; skipping."
+              exit 0
+            fi
+
+            deleted_posts=$(git diff --name-only --diff-filter=D "$BEFORE" "$AFTER" -- src/posts)
+            if [ -z "$deleted_posts" ]; then
+              echo "No deleted posts; skipping."
+              exit 0
+            fi
+          fi
+
+          # Open draft PRs count as live content. Closed/stale branches do not.
+          pr_shas=$(gh pr list \
+            --repo "$GITHUB_REPOSITORY" \
+            --state open \
+            --json headRefOid \
+            --jq '.[].headRefOid')
+
+          live_refs=()
+          while IFS= read -r sha; do
+            if [ -n "$sha" ]; then
+              live_refs+=(--live-ref "$sha")
+            fi
+          done <<< "$pr_shas"
+
+          if [ "$GITHUB_EVENT_NAME" = "workflow_dispatch" ]; then
+            args=(--all-deleted)
+            if [ "${{ inputs.dry_run }}" = "false" ]; then
+              args+=(--apply)
+            fi
+          else
+            args=(--base "$BEFORE" --head "$AFTER" --apply)
+          fi
+
+          node scripts/cleanup-post-images.js "${args[@]}" "${live_refs[@]}"

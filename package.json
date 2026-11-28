@@ -10,6 +10,7 @@
     "dev:cms": "npx decap-server",
     "dev": "npm-run-all build:sass --parallel watch:*",
     "migrate:images": "node scripts/migrate-images.js",
+    "cleanup:images": "node scripts/cleanup-post-images.js --all-deleted",
     "postbuild": "postcss dist/css/*.css -u autoprefixer cssnano -r --no-map",
     "prepare": "husky install",
     "prettier": "prettier src --write",
