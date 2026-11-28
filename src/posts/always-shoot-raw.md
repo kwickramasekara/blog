@@ -17,9 +17,9 @@ So, RAW as it sounds is an image file with all raw data the camera is capturing 
 
 Usually when you shoot in JPEG the camera determines what the picture should look like so it processes the data captured by the sensor and removes excess data before saving. What this means is that you end up with an image that looks good but there is no other data that you can go back and make use of to further process it. The camera sensor is actually able to collect a lot of details in shadows and highlights than what you would normally see in a compressed JPEG photo. On the other hand, RAW image files don't usually look pleasing since it is a dump of a lot of data and that there is no processing. See below for an example.
 
-![Image straight out of camera](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829102/blog/0d6960ad-c1e3-428a-a4e0-cfd8a0faf67d.png)_Image straight out of camera ([Full Resolution](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829102/blog/0d6960ad-c1e3-428a-a4e0-cfd8a0faf67d.png))_
+![Image straight out of camera](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829102/blog/0d6960ad-c1e3-428a-a4e0-cfd8a0faf67d.png)_Image straight out of camera ([High Resolution](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829102/blog/0d6960ad-c1e3-428a-a4e0-cfd8a0faf67d.png))_
 
-![Processed image](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829105/blog/1d5ab221-2ef3-4771-a77a-06704d1f70ed.png)_Processed image ([Full Resolution](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829105/blog/1d5ab221-2ef3-4771-a77a-06704d1f70ed.png))_
+![Processed image](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829105/blog/1d5ab221-2ef3-4771-a77a-06704d1f70ed.png)_Processed image ([High Resolution](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829105/blog/1d5ab221-2ef3-4771-a77a-06704d1f70ed.png))_
 
 Take a look at how much data in shadows you will be able to recover. This is just from one RAW image and there was no image stacking(multiple images blended with different exposures).
 

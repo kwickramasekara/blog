@@ -56,9 +56,9 @@ Images are hosted on [Cloudinary](https://cloudinary.com/) and managed through D
 
 #### Migrating legacy Uploadcare images
 
-The existing Uploadcare images were migrated with `npm run migrate:images`. The script audits every Uploadcare URL referenced in `src/`, resizes originals over 10 MB or 25 MP to a 2048 px long edge at JPEG quality 90, uploads them to `blog/<uploadcare-uuid>`, writes `migration-map.json`, rewrites `src/`, and verifies the Cloudinary assets. It is idempotent, skips assets already recorded in the map, and never deletes anything from Uploadcare. Use `npm run migrate:images -- --dry-run` to audit without uploading or rewriting.
+The existing Uploadcare images were migrated with `npm run migrate:images`. The script audits every Uploadcare URL referenced in `src/`, resizes originals that exceed Cloudinary's size/MP limits at JPEG quality 90, uploads them to `blog/<uploadcare-uuid>`, writes `migration-map.json`, rewrites `src/`, and verifies the Cloudinary assets. It is idempotent, skips assets already recorded in the map, and never deletes anything from Uploadcare. Use `npm run migrate:images -- --dry-run` to audit without uploading or rewriting.
 
-Four originals needed downscaling. Where those images have a “Full Resolution” link, it now points to the 2048 px version. Uploadcare support remains in `images.js` as a fallback until the migration is fully verified; it can be removed after that.
+Four originals needed downscaling. Where those images have a “High Resolution” link, it points to the downscaled version. Uploadcare support remains in `images.js` as a fallback until the migration is fully verified; it can be removed after that.
 
 #### Image attributions
 
@@ -68,12 +68,12 @@ Proper attribution for image sources are required. Add a link to source within i
 **Example:**
 [What they don't teach you in school](https://blog.keithw.me/what-they-dont-teach-you-in-school/#credit-score)
 
-#### Full resolution image
+#### High resolution image
 
-Sometimes you want to link to a full resolution image. Follow the same pattern/format for adding links:
-`Image caption (Full Resolution)`
+Sometimes you want to link to a high resolution image. Follow the same pattern/format for adding links:
+`Image caption (High Resolution)`
 
-A few migrated images were larger than Cloudinary's 10 MB/25 MP Free-plan limits, so their full-resolution link points to the downscaled 2048 px source. Those captions note `(2048 px)` next to the link.
+A few migrated images were larger than Cloudinary's 10 MB/25 MP Free-plan limits, so their high-resolution link points to the downscaled source.
 
 **Example:**
 [Always shoot RAW](https://blog.keithw.me/always-shoot-raw/)

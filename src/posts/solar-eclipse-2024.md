@@ -17,7 +17,7 @@ I kept firing that trigger button as the clouds themselves made for some cool sm
 
 Anyway, as the moon inched closer and closer to the sun, it got darker and darker. It was certainly unusual to experience a nighttime ambiance in the middle of the day (1:40pm). Clouds slowly disappeared, birds started chirping and the temperature cooled down - all within a total of 4 minutes which to me felt much shorter as I was trying to capture the totality the best I can.
 
-![Totality with visible red prominences](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829122/blog/4dc1d745-aa73-40cf-945c-1327882310a9.jpg)_Totality with visible red prominences ([Full Resolution](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829122/blog/4dc1d745-aa73-40cf-945c-1327882310a9.jpg))_
+![Totality with visible red prominences](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829122/blog/4dc1d745-aa73-40cf-945c-1327882310a9.jpg)_Totality with visible red prominences ([High Resolution](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829122/blog/4dc1d745-aa73-40cf-945c-1327882310a9.jpg))_
 
 As for my apparatus, I used the only telephoto lens I have which is the 70-200mm. Coupling that with the crop sensor Canon M50, I was able to get a focal length of 320mm. It was decent enough to capture the red prominences within sun's white corona. Although, as a note to self, it may not be a bad idea to invest in a lens with a longer focal length for next time.
 

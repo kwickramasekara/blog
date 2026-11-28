@@ -21,14 +21,14 @@ Computation photography has been around for a few years now and it has certainly
 When I first got my 12 mini, I noticed there is some over-sharpening in the photos and I am quite dissapointed to say that I still notice that with 14 Pro. This is especially noticeable when shooting foliage as seen below - notice the foreground where focus was set.
 
 ![Foliage shot with iPhone 14 Pro](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829144/blog/7e1b2686-6b20-4b42-be10-6f3595a8f7c7.jpg)
-_Foliage shot with iPhone 14 Pro ([Full Resolution](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829144/blog/7e1b2686-6b20-4b42-be10-6f3595a8f7c7.jpg))_
+_Foliage shot with iPhone 14 Pro ([High Resolution](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829144/blog/7e1b2686-6b20-4b42-be10-6f3595a8f7c7.jpg))_
 
 ## Apple ProRAW
 
 Fortunately, shooting in RAW avoids a lot of the over-processing that happens with regular photos. ProRAW still takes advantage of things like pixel binning so you get 48MP images and more details in the shots. I did not objectively shoot photos during my trips so, I do not have direct comparisons for foliage between ProRaw and regular photos. However, the ProRAW image below should be a good example to compare for sharpness.
 
 ![Folio shot with ProRAW](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829132/blog/5ee2af2a-8f18-4199-b021-6654093671e4.jpg)
-_Folio shot with ProRAW ([Full Resolution](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829132/blog/5ee2af2a-8f18-4199-b021-6654093671e4.jpg) (2048 px))_
+_Folio shot with ProRAW ([High Resolution](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829132/blog/5ee2af2a-8f18-4199-b021-6654093671e4.jpg))_
 
 Dynamic range you get with ProRAW is also quite amazing. I am able to recover a lot of highlights and shadows in post-processing and it's on-par with my full frame camera. As you see below, the sky seems completely blown in some parts. Yet, I am able to pull down the highlights slider in my editor and see those clouds magically appear. Same goes for the trees and foliage in terms of shadows. Also note that results below are just from changing highlights and shadows - no spot treatments or any other adjustments.
 
@@ -38,7 +38,7 @@ _Dynamic range performance_
 It's also quite interesting to see how detailed the images are produced by this new large sensor. When I pixel peeped a few photos from my DC trip, I was surprised to see so much detail in the buildings and its hardly distinguishable from a full frame camera. Image below is a comparsion of the same 48MP ProRAW image when zoomed in at 100% - no post-processing.
 
 ![Pixel peeping the U.S Capitol building](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829149/blog/910f864a-15dc-49d8-b0f3-2734bf115678.jpg)
-_U.S Capitol building ([Full Resolution](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829149/blog/910f864a-15dc-49d8-b0f3-2734bf115678.jpg))_
+_U.S Capitol building ([High Resolution](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829149/blog/910f864a-15dc-49d8-b0f3-2734bf115678.jpg))_
 
 ## Final thoughts
 

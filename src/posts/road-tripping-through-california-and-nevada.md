@@ -86,6 +86,6 @@ Just as I wrapped up my adventure and flew back home, the news about COVID-19 go
 This was a much-needed breath of fresh air before we all hunkered down for who knew how long. It was a reminder of the incredible beauty out there, just waiting to be explored, and how quickly things can change. I definitely enjoyed all the beauty of these three parks and the Range Rover happily ate all the miles while giving me smiles.
 
 ![Route](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829179/blog/f8e082b1-d29f-45ff-b144-aa56a8af9a49.png)
-_1350 miles driven over 5 days ([Full Resolution](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829179/blog/f8e082b1-d29f-45ff-b144-aa56a8af9a49.png))_
+_1350 miles driven over 5 days ([High Resolution](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829179/blog/f8e082b1-d29f-45ff-b144-aa56a8af9a49.png))_
 
 Stay safe out there, and I hope to hit the road again soon once things settle down. Until then, I’ll be editing photos and reliving the adventure through them. ✌️
