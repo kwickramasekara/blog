@@ -15,7 +15,7 @@ const UPLOADCARE_LQIP_URL = "/preview/-/format/jpeg/-/resize/24x/-/blur/24/";
 const UPLOADCARE_METADATA_URL = "/resize/1280x/-/json/";
 
 const CLOUDINARY_DISPLAY_TRANSFORM = "c_limit,w_1280,h_1280/f_auto/q_auto";
-const CLOUDINARY_LQIP_TRANSFORM = "w_24,e_blur:1000,q_1,f_jpg,fl_strip_profile";
+const CLOUDINARY_LQIP_TRANSFORM = "w_24,e_blur:200,q_50,f_jpg,fl_strip_profile";
 const CLOUDINARY_TRANSFORMATION_PREFIX_PATTERN =
   /^(?:a|ac|af|ar|b|bl|bo|br|c|co|cs|d|dl|dn|dpr|dr|du|e|eo|f|fl|fn|fps|g|h|if|ki|l|o|pg|q|r|so|sp|t|u|vc|vs|w|x|y|z)_/i;
 
