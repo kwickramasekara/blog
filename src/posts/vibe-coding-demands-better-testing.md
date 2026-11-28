@@ -7,7 +7,7 @@ AI coding assistants are changing the way we write software. They boost producti
 
 When your app is heavy on business logic, regressions love to sneak in. You might tweak a small helper function or refactor a service layer, and suddenly a key workflow breaks in a subtle way. In a traditional workflow, code review is the safety net. As pull requests grow larger, review quality drops fast. Big PRs often slip through with a simple “LGTM.”
 
-![](https://4fk4v31mik.ucarecd.net/462ca0b1-e700-4caa-907b-123adf89d021/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
+![](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829118/blog/462ca0b1-e700-4caa-907b-123adf89d021.heic)
 
 AI makes this problem worse in some ways. Because it accelerates coding, we feel empowered to do bigger refactors and deliver large new features more often. It’s great for velocity, but it also means our safety net - code review - gets stretched thin. That’s where strong, reliable tests are the real defense.
 

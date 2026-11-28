@@ -19,7 +19,7 @@ Embedding models are different. They don't generate text. They convert text into
 
 This makes embedding models perfect for the "match this input against a big list" problem. They're small, fast, and once your title vectors are computed, search is just math.
 
-![](https://4fk4v31mik.ucarecd.net/282bb15e-4864-43ff-b15a-15a7f364926d/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
+![](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829109/blog/282bb15e-4864-43ff-b15a-15a7f364926d.heic)
 
 ## The Setup
 
@@ -45,7 +45,7 @@ To get around this, I used a large language model (Claude) to generate synthetic
 
 This is knowledge distillation in a nutshell: a large, capable model that already understands your domain language creates supervised training signal for a much smaller, specialized model. The small model learns to map diverse query phrasings to correct titles, something it couldn't do from its general pre-training alone, while staying fast enough for real-time search.
 
-![Knowledge Distillation Concept](https://4fk4v31mik.ucarecd.net/4083a370-234e-40d3-b49f-ae1709ff6aad/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
+![Knowledge Distillation Concept](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829117/blog/4083a370-234e-40d3-b49f-ae1709ff6aad.heic)
 
 ## The Training Pipeline
 
@@ -95,7 +95,7 @@ The improvement-to-regression ratio jumped from 2.9:1 to 4.9:1. Training loss ac
 
 The character of regressions also changed. In iteration 1, common terms like "engine running lean" regressed. In iteration 2, regressions were mostly ultra-short abbreviations like "chk fltr" and "algnmnt chk" where the base model had lucky token overlap that fine-tuning disrupted.
 
-![Model Iterations Performance](https://4fk4v31mik.ucarecd.net/021283ca-d9f5-4e42-9849-7470151d37dc/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)
+![Model Iterations Performance](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829098/blog/021283ca-d9f5-4e42-9849-7470151d37dc.heic)
 
 ### Iteration 3: Hyperparameter Tuning
 

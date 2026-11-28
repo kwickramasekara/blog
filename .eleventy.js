@@ -4,7 +4,11 @@ const markdownItAnchor = require("markdown-it-anchor");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const njkFilters = require("nunjucks/src/filters");
 const { parseHTML } = require("linkedom");
-const { getImageMetadata, modifyImageURL } = require("./images");
+const {
+  getImageMetadata,
+  modifyImageURL,
+  getCloudinaryURL,
+} = require("./images");
 
 const META_DESCRIPTION_LENGTH = 160; // https://moz.com/learn/seo/meta-description
 
@@ -30,6 +34,13 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addNunjucksFilter("postDate", function (dateString) {
     return dayjs(dateString).format("MMM D, YYYY");
   });
+
+  eleventyConfig.addNunjucksFilter(
+    "cloudinary",
+    function (imageURL, transformation) {
+      return getCloudinaryURL(imageURL, transformation);
+    }
+  );
 
   // https://w3collective.com/calculate-reading-time-javascript/
   eleventyConfig.addNunjucksFilter("readingTime", function (content) {
@@ -97,6 +108,12 @@ module.exports = function (eleventyConfig) {
         const metadata = await getImageMetadata(src);
 
         if (metadata && metadata.lqip && metadata.width && metadata.height) {
+          const lqipFormat = (
+            metadata.lqipFormat ||
+            metadata.original?.format ||
+            "jpeg"
+          ).toLowerCase();
+
           img.setAttribute("loading", "lazy");
           img.setAttribute("decoding", "async");
           img.setAttribute("class", "with-placeholder");
@@ -110,7 +127,7 @@ module.exports = function (eleventyConfig) {
             "style",
             `aspect-ratio: ${
               metadata.width / metadata.height
-            };background-image: url('data:image/${metadata.original.format.toLowerCase()};base64,${
+            };background-image: url('data:image/${lqipFormat};base64,${
               metadata.lqip
             }');`,
           );

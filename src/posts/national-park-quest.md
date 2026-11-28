@@ -2,9 +2,9 @@
 title: National park quest
 date: 2026-01-09T23:30:00.000-06:00
 tags: travel
-shareCardImage: https://ucarecdn.com/bc07fe87-362b-4151-8198-2c205bfee482/-/format/auto/-/quality/normal/-/stretch/off/-/resize/640x/
+shareCardImage: https://res.cloudinary.com/ylsrp85w/image/upload/v1795829163/blog/bc07fe87-362b-4151-8198-2c205bfee482.jpg
 ---
-![](https://ucarecdn.com/bc07fe87-362b-4151-8198-2c205bfee482/-/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/)_Yosemite Valley, Yosemite National Park_
+![](https://res.cloudinary.com/ylsrp85w/image/upload/v1795829163/blog/bc07fe87-362b-4151-8198-2c205bfee482.jpg)_Yosemite Valley, Yosemite National Park_
 
 There's something indescribable about the call of the wild, the thrill of the open road, and the allure of nature's most pristine landscapes. As an avid traveler and landscape photographer, I find myself irresistibly drawn to the national parks in the U.S. Each park is a treasure trove of natural wonders, offering unique vistas, diverse ecosystems, and endless opportunities for exploration and photography.
 
