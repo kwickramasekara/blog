@@ -9,6 +9,7 @@
     "build": "npm-run-all build:sass build:eleventy",
     "dev:cms": "npx decap-server",
     "dev": "npm-run-all build:sass --parallel watch:*",
+    "migrate:images": "node scripts/migrate-images.js",
     "postbuild": "postcss dist/css/*.css -u autoprefixer cssnano -r --no-map",
     "prepare": "husky install",
     "prettier": "prettier src --write",
@@ -46,6 +47,7 @@
     "postcss": "^8.4.14",
     "postcss-cli": "^10.0.0",
     "prettier": "^2.7.1",
-    "sass": "^1.54.2"
+    "sass": "^1.54.2",
+    "sharp": "^0.35.5"
   }
 }

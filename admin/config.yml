@@ -6,12 +6,13 @@ local_backend: true
 publish_mode: editorial_workflow
 site_url: https://blog.keithw.me
 media_library:
-  name: uploadcare
+  name: cloudinary
+  use_transformations: false
   config:
-    publicKey: 770f402d902e72bcac7a
-    tabs: "file url"
-  settings:
-    defaultOperations: "/format/auto/-/quality/normal/-/stretch/off/-/resize/1280x/"
+    cloud_name: ylsrp85w
+    api_key: "877774134499476"
+    folder:
+      path: blog
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "Posts" # Used in the UI
@@ -38,6 +39,6 @@ collections:
           name: "shareCardImage",
           widget: "string",
           required: false,
-          hint: "Recommended Uploadcare operations: /-/format/auto/-/quality/normal/-/stretch/off/-/resize/640x/",
+          hint: "Select a Cloudinary image. It is delivered with c_limit,w_640,h_640/f_auto/q_auto at build time.",
         }
       - { label: "Body", name: "body", widget: "markdown" }
